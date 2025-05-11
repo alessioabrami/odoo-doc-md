@@ -1,0 +1,16 @@
+# Indice dei file in `setup_configuration`
+
+- [Bpost integration — Odoo 17.0 documentazione](./bpost.md)
+- [How to cancel a shipping request to a shipper? — Odoo 17.0 documentazione](./cancel.md)
+- [DHL integration — Odoo 17.0 documentazione](./dhl_credentials.md)
+- [FedEx integration — Odoo 17.0 documentazione](./fedex.md)
+- [Shipping cost invoicing — Odoo 17.0 documentazione](./invoicing.md)
+- [Change shipping label size — Odoo 17.0 documentazione](./label_type.md)
+- [Print shipping labels — Odoo 17.0 documentazione](./labels.md)
+- [Multi-package shipments — Odoo 17.0 documentazione](./multipack.md)
+- [Printable delivery PDFs — Odoo 17.0 documentazione](./print_on_validation.md)
+- [Sendcloud integration — Odoo 17.0 documentazione](./sendcloud_shipping.md)
+- [Starshipit shipping — Odoo 17.0 documentazione](./starshipit_shipping.md)
+- [Third-party shipping carriers — Odoo 17.0 documentazione](./third_party_shipper.md)
+- [UPS integration — Odoo 17.0 documentazione](./ups_credentials.md)
+- [Zebra label configuration — Odoo 17.0 documentazione](./zebra.md)

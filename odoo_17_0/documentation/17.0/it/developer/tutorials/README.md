@@ -1,0 +1,15 @@
+# Indice dei file in `tutorials`
+
+- [Building a Module — Odoo 17.0 documentazione](./backend.md)
+- [Define module data — Odoo 17.0 documentazione](./define_module_data.md)
+- [Discover the web framework — Odoo 17.0 documentazione](./discover_js_framework.md)
+- [Write importable modules — Odoo 17.0 documentazione](./importable_modules.md)
+- [Master the web framework — Odoo 17.0 documentazione](./master_odoo_web_framework.md)
+- [Reuse code with mixins — Odoo 17.0 documentazione](./mixins.md)
+- [Build PDF Reports — Odoo 17.0 documentazione](./pdf_reports.md)
+- [Restrict access to data — Odoo 17.0 documentazione](./restrict_data_access.md)
+- [Server framework 101 — Odoo 17.0 documentazione](./server_framework_101.md)
+- [Setup guide — Odoo 17.0 documentazione](./setup_guide.md)
+- [Safeguard your code with unit tests — Odoo 17.0 documentazione](./unit_tests.md)
+- [Customizing the web client — Odoo 17.0 documentazione](./web.md)
+- [Build a website theme — Odoo 17.0 documentazione](./website_theme.md)

@@ -1,0 +1,17 @@
+# Indice dei file in `server_framework_101`
+
+- [Chapter 1: Architecture Overview — Odoo 18.0 documentazione](./01_architecture.md)
+- [Chapter 2: A New Application — Odoo 18.0 documentazione](./02_newapp.md)
+- [Chapter 3: Models And Basic Fields — Odoo 18.0 documentazione](./03_basicmodel.md)
+- [Chapter 4: Security - A Brief Introduction — Odoo 18.0 documentazione](./04_securityintro.md)
+- [Chapter 5: Finally, Some UI To Play With — Odoo 18.0 documentazione](./05_firstui.md)
+- [Chapter 6: Basic Views — Odoo 18.0 documentazione](./06_basicviews.md)
+- [Chapter 7: Relations Between Models — Odoo 18.0 documentazione](./07_relations.md)
+- [Chapter 8: Computed Fields And Onchanges — Odoo 18.0 documentazione](./08_compute_onchange.md)
+- [Chapter 9: Ready For Some Action? — Odoo 18.0 documentazione](./09_actions.md)
+- [Chapter 10: Constraints — Odoo 18.0 documentazione](./10_constraints.md)
+- [Chapter 11: Add The Sprinkles — Odoo 18.0 documentazione](./11_sprinkles.md)
+- [Chapter 12: Inheritance — Odoo 18.0 documentazione](./12_inheritance.md)
+- [Chapter 13: Interact With Other Modules — Odoo 18.0 documentazione](./13_other_module.md)
+- [Chapter 14: A Brief History Of QWeb — Odoo 18.0 documentazione](./14_qwebintro.md)
+- [Chapter 15: The final word — Odoo 18.0 documentazione](./15_final_word.md)

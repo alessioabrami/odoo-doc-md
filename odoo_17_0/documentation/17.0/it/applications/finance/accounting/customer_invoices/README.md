@@ -1,0 +1,15 @@
+# Indice dei file in `customer_invoices`
+
+- [Sconti di cassa e riduzioni fiscali — Odoo 17.0 documentazione](./cash_discounts.md)
+- [Arrotondamento di cassa — Odoo 17.0 documentazione](./cash_rounding.md)
+- [Note di credito e rimborsi — Odoo 17.0 documentazione](./credit_notes.md)
+- [Indirizzi di consegna e di fatturazione — Odoo 17.0 documentazione](./customer_addresses.md)
+- [Risconti passivi — Odoo 17.0 documentazione](./deferred_revenues.md)
+- [Fatturazione elettronica (EDI) — Odoo 17.0 documentazione](./electronic_invoicing.md)
+- [Codici QR EPC — Odoo 17.0 documentazione](./epc_qr_code.md)
+- [Termini di resa — Odoo 17.0 documentazione](./incoterms.md)
+- [Processi di fatturazione — Odoo 17.0 documentazione](./overview.md)
+- [Termini di pagamento e piani di rateizzazione — Odoo 17.0 documentazione](./payment_terms.md)
+- [Sequenza fattura — Odoo 17.0 documentazione](./sequence.md)
+- [Posta ordinaria — Odoo 17.0 documentazione](./snailmail.md)
+- [Termini e condizioni predefiniti — Odoo 17.0 documentazione](./terms_conditions.md)

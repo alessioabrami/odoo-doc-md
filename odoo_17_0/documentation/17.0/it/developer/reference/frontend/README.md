@@ -1,0 +1,15 @@
+# Indice dei file in `frontend`
+
+- [Assets — Odoo 17.0 documentazione](./assets.md)
+- [Error handling — Odoo 17.0 documentazione](./error_handling.md)
+- [Framework Overview — Odoo 17.0 documentazione](./framework_overview.md)
+- [Hooks — Odoo 17.0 documentazione](./hooks.md)
+- [Javascript Modules — Odoo 17.0 documentazione](./javascript_modules.md)
+- [Javascript Reference — Odoo 17.0 documentazione](./javascript_reference.md)
+- [Mobile JavaScript — Odoo 17.0 documentazione](./mobile.md)
+- [Odoo Editor — Odoo 17.0 documentazione](./odoo_editor.md)
+- [Owl components — Odoo 17.0 documentazione](./owl_components.md)
+- [Patching code — Odoo 17.0 documentazione](./patching_code.md)
+- [QWeb Templates — Odoo 17.0 documentazione](./qweb.md)
+- [Registries — Odoo 17.0 documentazione](./registries.md)
+- [Services — Odoo 17.0 documentazione](./services.md)

@@ -1,0 +1,15 @@
+# Indice dei file in `website_themes`
+
+- [Animations — Odoo 17.0 documentazione](./animations.md)
+- [Building blocks — Odoo 17.0 documentazione](./building_blocks.md)
+- [Forms — Odoo 17.0 documentazione](./forms.md)
+- [Going live — Odoo 17.0 documentazione](./going_live.md)
+- [Gradients — Odoo 17.0 documentazione](./gradients.md)
+- [Layout — Odoo 17.0 documentazione](./layout.md)
+- [Media — Odoo 17.0 documentazione](./media.md)
+- [Navigation — Odoo 17.0 documentazione](./navigation.md)
+- [Pages — Odoo 17.0 documentazione](./pages.md)
+- [Setup — Odoo 17.0 documentazione](./setup.md)
+- [Shapes — Odoo 17.0 documentazione](./shapes.md)
+- [Theming — Odoo 17.0 documentazione](./theming.md)
+- [Translations — Odoo 17.0 documentazione](./translations.md)

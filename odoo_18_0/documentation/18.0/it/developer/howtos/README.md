@@ -1,0 +1,16 @@
+# Indice dei file in `howtos`
+
+- [Accounting localization — Odoo 18.0 documentazione](./accounting_localization.md)
+- [Multi-company Guidelines — Odoo 18.0 documentazione](./company.md)
+- [Connect with a device — Odoo 18.0 documentazione](./connect_device.md)
+- [Create customized reports — Odoo 18.0 documentazione](./create_reports.md)
+- [Use Owl components on the portal and website — Odoo 18.0 documentazione](./frontend_owl_components.md)
+- [Create a client action — Odoo 18.0 documentazione](./javascript_client_action.md)
+- [Customize a field — Odoo 18.0 documentazione](./javascript_field.md)
+- [Customize a view type — Odoo 18.0 documentazione](./javascript_view.md)
+- [Write lean easy-to-maintain CSS — Odoo 18.0 documentazione](./scss_tips.md)
+- [Create a standalone Owl application — Odoo 18.0 documentazione](./standalone_owl_application.md)
+- [Translating Modules — Odoo 18.0 documentazione](./translations.md)
+- [Upgrade a customized database — Odoo 18.0 documentazione](./upgrade_custom_db.md)
+- [Web Services — Odoo 18.0 documentazione](./web_services.md)
+- [Website themes — Odoo 18.0 documentazione](./website_themes.md)

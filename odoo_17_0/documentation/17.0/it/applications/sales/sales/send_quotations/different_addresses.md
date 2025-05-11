@@ -1,0 +1,112 @@
+# Consegne e fatture a indirizzi diversi — Odoo 17.0 documentazione
+
+### Navigazione
+
+  * [indice](../../../../genindex.html "Indice generale")
+  * [moduli](../../../../py-modindex.html "Indice del modulo Python") |
+  * [successivo](orders_and_variants.html "Varianti prodotto su preventivi e ordini di vendita") |
+  * [precedente](deadline.html "Date di scadenza per i preventivi") |
+  * [Odoo 17.0 documentazione](../../../../index-2.html) »
+  * [Documentazione Utente](../../../../applications.html) »
+  * [Vendite](../../../sales.html) »
+  * [Vendite](../../sales.html) »
+  * [Send Quotations](../send_quotations.html) »
+  * Consegne e fatture a indirizzi diversi
+
+
+
+# Consegne e fatture a indirizzi diversi¶
+
+Le persone e le aziende spesso utilizzano indirizzi separati per la fatturazione e la spedizione. Con l’applicazione Odoo _Vendite_ , i contatti possono avere indirizzi diversi per la consegna e la fatturazione.
+
+## Impostazioni¶
+
+Per utilizzare correttamente più indirizzi in Odoo, accedi al modulo Contabilità ‣ Configurazione ‣ Impostazioni e scorri in basso fino alla sezione Fatture cliente. In seguito, spunta la casella.
+
+## Configurazione del modulo di contatto¶
+
+Per aggiungere più indirizzi a un contatto, accedi al modulo Vendite ‣ Ordini ‣ Clienti ed elimina tutti i filtri predefiniti dalla barra di ricerca. In seguito, fai clic sul cliente desiderato per aprire il modulo di contatto.
+
+Suggerimento
+
+È possibile accedere ai moduli di contatto anche dall’applicazione _Contatti_.
+
+Dal modulo di contatto, fai clic su Modifica e poi su Aggiungi sotto la scheda Contatti e indirizzi. Successivamente, apparirà il modulo Crea contatto dove puoi configurare indirizzi aggiuntivi.
+
+Nel modulo pop-up Crea contatto, inizia facendo clic sul campo predefinito Altro indirizzo per visualizzare un menu a discesa di opzioni relative all’indirizzo.
+
+Seleziona una delle seguenti opzioni:
+
+  * Contatto: aggiunge un altro contatto al modulo esistente.
+
+  * Indirizzo di fatturazione: aggiunge un indirizzo di fatturazione specifico al modulo contatto esistente.
+
+  * Indirizzo di consegna: aggiunge un indirizzo di consegna specifico al modulo contatto esistente.
+
+  * Altro indirizzo: aggiunge un indirizzo alternativo al modulo di contatto esistente.
+
+  * Indirizzo privato: aggiunge un indirizzo privato al modulo di contatto esistente.
+
+
+
+
+Una volta selezionata un’opzione, inserisci le informazioni di contatto corrispondenti che dovrebbero essere utilizzate per il tipo di indirizzo specificato.
+
+In seguito, fai clic su Salva e chiudi per salvare l’indirizzo e chiudi la finestra Crea contatto. Oppure, fai clic su Salva e nuovo per salvare l’indirizzo e inserirne uno nuovo.
+
+## Indirizzi aggiunti ai preventivi¶
+
+Quando un cliente viene aggiunto a un preventivo, i campi Indirizzo di fatturazione e Indirizzo di consegna si popolano automaticamente con gli indirizzi corrispondenti specificati nel modulo di contatto del cliente.
+
+Gli indirizzi di fatturazione e consegna possono essere modificati direttamente dal preventivo facendo clic sul pulsante Modifica per poi fare clic sui pulsanti con i collegamenti interni ➡️ (freccia destra) accanto a ogni riga indirizzo.
+
+Questi indirizzi possono essere aggiornati in qualsiasi momento per garantire una fatturazione e una consegna accurate.
+
+Suggerimento
+
+Se si apportano modifiche a un modulo in Odoo, compresi i moduli _Contatti_ , ricordati di fare clic su Salva per salvare le modifiche nel database.
+
+[ __Edit on GitHub](https://github.com/odoo/documentation/edit/17.0/content/applications/sales/sales/send_quotations/different_addresses.rst)
+
+### Navigazione
+
+  * [indice](../../../../genindex.html "Indice generale")
+  * [moduli](../../../../py-modindex.html "Indice del modulo Python") |
+  * [successivo](orders_and_variants.html "Varianti prodotto su preventivi e ordini di vendita") |
+  * [precedente](deadline.html "Date di scadenza per i preventivi") |
+  * [Odoo 17.0 documentazione](../../../../index-2.html) »
+  * [Documentazione Utente](../../../../applications.html) »
+  * [Vendite](../../../sales.html) »
+  * [Vendite](../../sales.html) »
+  * [Send Quotations](../send_quotations.html) »
+  * Consegne e fatture a indirizzi diversi
+
+
+  *[ORM]: Object-Relational Mapping
+  *[SQL]: Structured Query Language
+  *[PR]: Pull Request
+  *[CI]: Continuous integration
+  *[OCR]: optical character recognition
+  *[AI]: Artificial Intelligence
+  *[IAP]: In-app purchases
+  *[RTL]: right-to-left
+  *[RST]: reStructuredText
+  *[GUI]: graphical user interface
+  *[TOC]: Table Of Contents
+  *[SEO]: Search Engine Optimization
+  *[EDI]: electronic data interchange
+  *[SDD]: SEPA Direct Debit
+  *[PLE]: Programa de Libros Electrónico
+  *[BoM]: Bill of Materials
+  *[MO]: Manufacturing Order
+  *[MPS]: Master Production Schedules
+  *[OEE]: overall equipment effectiveness
+  *[RFQ]: Request for Quotation
+  *[RfQ]: Request for Quotation
+  *[RfQs]: Requests for Quotation
+  *[IU]: Interfaccia Utente
+  *[UoM]: Unit of Measure
+  *[PoS]: Point of Sale
+  *[FBM]: Fulfilled By Merchant
+  *[FBA]: Fulfilled by Amazon
+  *[API]: Application Programming Interface

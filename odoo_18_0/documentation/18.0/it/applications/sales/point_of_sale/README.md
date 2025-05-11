@@ -1,0 +1,15 @@
+# Indice dei file in `point_of_sale`
+
+- [Product combos — Odoo 18.0 documentazione](./combos.md)
+- [Configurazione — Odoo 18.0 documentazione](./configuration.md)
+- [Multi-employee management — Odoo 18.0 documentazione](./employee_login.md)
+- [Online food delivery — Odoo 18.0 documentazione](./online_food_delivery.md)
+- [Metodo di pagamento — Odoo 18.0 documentazione](./payment_methods.md)
+- [Marketing features — Odoo 18.0 documentazione](./pos_based_marketing.md)
+- [Schermo di preparazione — Odoo 18.0 documentazione](./preparation.md)
+- [Pricing features — Odoo 18.0 documentazione](./pricing.md)
+- [Receipts and invoices — Odoo 18.0 documentazione](./receipts_invoices.md)
+- [Rendiconto — Odoo 18.0 documentazione](./reporting.md)
+- [Restaurant features — Odoo 18.0 documentazione](./restaurant.md)
+- [Self-ordering — Odoo 18.0 documentazione](./self_order.md)
+- [Shop features — Odoo 18.0 documentazione](./shop.md)
