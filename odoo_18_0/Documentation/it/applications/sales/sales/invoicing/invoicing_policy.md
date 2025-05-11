@@ -69,7 +69,7 @@ Vedi anche
 
 Assicurati di consultare la documentazione che spiega come funzionano gli acconti per scoprire di più: [Acconti](down_payment.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/invoicing/invoicing_policy.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/invoicing/invoicing_policy.rst)
 
 ### Navigazione
 

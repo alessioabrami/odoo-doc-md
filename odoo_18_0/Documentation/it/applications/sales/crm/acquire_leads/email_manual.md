@@ -107,7 +107,7 @@ L’assegnazione di una priorità cambia l’ordine dei lead nella vista Kanban:
 
 Una volta inserite tutte le informazioni necessarie, fai clic su Aggiungi.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/acquire_leads/email_manual.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/acquire_leads/email_manual.rst)
 
 ### Navigazione
 

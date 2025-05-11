@@ -252,7 +252,7 @@ Movimenti banca e cassa | `kpi_account_bank_cash_value`
 Vendite POS | `kpi_pos_total_value`  
 Nuovi dipendenti | `kpi_hr_recruitment_new_colleagues_value`  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/companies/digest_emails.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/companies/digest_emails.rst)
 
 ### Navigazione
 

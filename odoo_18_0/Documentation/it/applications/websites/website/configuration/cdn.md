@@ -67,7 +67,7 @@ When these cross-origin resource issues occur, a security error message similar 
 
 Enabling the CORS option in the CDN settings fixes this issue.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/cdn.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/cdn.rst)
 
 ### Navigazione
 

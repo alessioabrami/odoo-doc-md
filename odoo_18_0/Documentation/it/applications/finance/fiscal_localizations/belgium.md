@@ -440,7 +440,7 @@ To be able to use an FDM, you must at least connect one Receipt Printer.
 
 When you open a POS session and make your initial transaction, you are prompted to enter the PIN provided with your VSC. The card is delivered by the FPS upon [registration](https://www.systemedecaisseenregistreuse.be/fr/enregistrement).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/belgium.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/belgium.rst)
 
 ### Navigazione
 

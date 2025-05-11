@@ -75,7 +75,7 @@ Enable the Replenish Scrapped Quantities checkbox if a picking order should be c
 
 After filling out the Scrap Products pop-up window, click the Scrap Products button. After one or more scrap orders have been created, a Scraps smart button appears at the top of the screen. Click it to view a list of all scrap orders for the MO.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/scrap_manufacturing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/scrap_manufacturing.rst)
 
 ### Navigazione
 

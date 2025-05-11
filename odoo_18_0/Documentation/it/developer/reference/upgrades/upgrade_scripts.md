@@ -122,7 +122,7 @@ Execution order of example scripts for one module in one version
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/upgrades/upgrade_scripts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/upgrades/upgrade_scripts.rst)
 
 ### Navigazione
 

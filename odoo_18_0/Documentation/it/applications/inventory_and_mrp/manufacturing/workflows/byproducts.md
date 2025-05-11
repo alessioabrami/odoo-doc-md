@@ -47,7 +47,7 @@ When manufacturing is completed, click the Produce All button at the top of the 
 
 Click the Product Moves smart button at the top of the MO page to see the movements of components and products. Each by-product is listed on the resulting Inventory Moves page, with the From column displaying the virtual production location, and the To column displaying the location where the by-product is stored.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/byproducts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/byproducts.rst)
 
 ### Navigazione
 

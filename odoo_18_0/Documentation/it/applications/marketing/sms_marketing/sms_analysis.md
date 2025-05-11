@@ -99,7 +99,7 @@ Next, set the SMS Template and choose whether the SMS message should be logged a
 
 Add any necessary notes under the Notes tab. Finally, navigate away from the completed automation rule, or manually save (by clicking the ☁️ (cloud) icon), to implement the change.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/sms_marketing/sms_analysis.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/sms_marketing/sms_analysis.rst)
 
 ### Navigazione
 

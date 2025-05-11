@@ -44,7 +44,7 @@ The default Label Type is Paper Letter. An example of a FedEx letter sized label
 
 For comparison, an example of a FedEx bottom-half label is:
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/label_type.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/label_type.rst)
 
 ### Navigazione
 

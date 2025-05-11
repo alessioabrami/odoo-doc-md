@@ -120,7 +120,7 @@ Nota
 
 Se il cliente paga l’importo dello sconto _dopo_ la data dello sconto, puoi sempre decidere di contrassegnare la fattura come completamente pagata con uno storno o come parzialmente pagata.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/cash_discounts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/cash_discounts.rst)
 
 ### Navigazione
 

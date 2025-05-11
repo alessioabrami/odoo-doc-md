@@ -85,7 +85,7 @@ Nota
 
 SDD is also available as a payment method through other providers, such as [Stripe](stripe.html), [Adyen](adyen.html), and [Buckaroo](buckaroo.html). In these cases, SDD mandates are handled externally by the payment provider.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/payment_providers/sdd.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/payment_providers/sdd.rst)
 
 ### Navigazione
 

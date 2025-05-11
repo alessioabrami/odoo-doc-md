@@ -387,7 +387,7 @@ Nota
 
 To add a temporary note to the electronic document, use the Terms and Conditions field. This information will be sent in the addenda of the invoice, but it won’t be saved for future documents.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/uruguay.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/uruguay.rst)
 
 ### Navigazione
 

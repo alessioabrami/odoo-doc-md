@@ -146,7 +146,7 @@ Suggerimento
 
 Analytics and additional settings are available on [Google’s reCAPTCHA administration page](https://www.google.com/recaptcha/admin/). For example, you can receive email alerts if Google detects suspicious traffic on your website or view the percentage of suspicious requests, which could help you determine the right minimum score.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/spam_protection.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/spam_protection.rst)
 
 ### Navigazione
 

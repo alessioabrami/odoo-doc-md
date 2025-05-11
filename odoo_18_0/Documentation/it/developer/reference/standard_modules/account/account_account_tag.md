@@ -110,7 +110,7 @@ Possible_values
 
 Country for which this tag is available, when applied on taxes.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/standard_modules/account/account_account_tag.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/standard_modules/account/account_account_tag.rst)
 
 ### Navigazione
 

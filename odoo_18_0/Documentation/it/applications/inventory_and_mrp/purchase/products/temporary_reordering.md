@@ -101,7 +101,7 @@ Once the SO is delivered and invoiced, ensure there are no reordering rules on t
 
 Go to Inventory app ‣ Products ‣ Products, select the product, and confirm that the Reordering Rules smart button displays `0`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/products/temporary_reordering.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/products/temporary_reordering.rst)
 
 ### Navigazione
 

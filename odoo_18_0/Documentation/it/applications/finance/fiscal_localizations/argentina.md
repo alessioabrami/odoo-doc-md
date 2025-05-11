@@ -789,7 +789,7 @@ This pivot table allows you to validate the gross income in each jurisdiction. I
 
 This pivot table allows you to validate the gross purchases in each jurisdiction. It serves as an affidavit for the corresponding taxes due but is not submitted to the AFIP.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/argentina.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/argentina.rst)
 
 ### Navigazione
 

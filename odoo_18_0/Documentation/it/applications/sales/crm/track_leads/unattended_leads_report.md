@@ -129,7 +129,7 @@ Vedi anche
 
 [Attività](../../../essentials/activities.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/track_leads/unattended_leads_report.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/track_leads/unattended_leads_report.rst)
 
 ### Navigazione
 

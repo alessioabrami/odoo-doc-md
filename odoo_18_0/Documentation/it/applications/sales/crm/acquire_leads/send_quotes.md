@@ -169,7 +169,7 @@ Importante
 
 Sebbene le opportunità contrassegnate come _perse_ siano considerate _archiviate_ , tieni presente che, affinché un’opportunità sia inclusa come _persa_ nella reportistica, essa **deve** essere contrassegnata specificamente come _persa_ , non come _archiviata_.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/acquire_leads/send_quotes.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/acquire_leads/send_quotes.rst)
 
 ### Navigazione
 

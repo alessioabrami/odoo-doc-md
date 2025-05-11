@@ -236,7 +236,7 @@ To automatically print the package label when the Put in Pack button is clicked,
 
 Example of package barcode
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/print_on_validation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/print_on_validation.rst)
 
 ### Navigazione
 

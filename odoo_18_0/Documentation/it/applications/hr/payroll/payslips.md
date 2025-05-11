@@ -272,7 +272,7 @@ Once all the commissions are properly entered, click the Generate Payslips butto
 
 Process the batch in the same way as a typical batch to complete the payment process.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/payslips.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/payslips.rst)
 
 ### Navigazione
 

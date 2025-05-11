@@ -159,7 +159,7 @@ Per riavviare manualmente il server Windows IoT, cerca `services` nel menu start
 
 Per disinstallare la Windows virtual IoT, [disinstalla](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-4b55f974-2cc6-2d2b-d092-5905080eaf98#ID0EBD=Windows_11) il programma Odoo dal tuo pc Windows. Conferma la disinstallazione e completa gli step nella finestra di dialogo Odoo Uninstall.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/iot/windows_iot.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/iot/windows_iot.rst)
 
 ### Navigazione
 

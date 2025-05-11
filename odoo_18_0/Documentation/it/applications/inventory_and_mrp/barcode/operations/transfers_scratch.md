@@ -133,7 +133,7 @@ Once ready, click Confirm to confirm the changes made to the product line.
 
 Then, from the overview page with all products to process within that transfer (**WH/INT/000XX**), click Validate. The internal transfer has now been processed, and the _Barcode_ app can be closed out.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/transfers_scratch.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/transfers_scratch.rst)
 
 ### Navigazione
 

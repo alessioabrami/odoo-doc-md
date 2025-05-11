@@ -63,7 +63,7 @@ Click the __ Buy button on a reward to purchase it. A Confirmation pop-up window
 
 After OK is clicked, the pop-up window closes, and the points used to purchase the reward are subtracted from the user’s available points. The rewards presented are now updated to reflect the user’s current available points.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/referrals/rewards.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/referrals/rewards.rst)
 
 ### Navigazione
 

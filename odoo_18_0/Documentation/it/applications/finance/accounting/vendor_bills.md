@@ -171,7 +171,7 @@ Click PDF or XLSX to generate a PDF or XLSX file, respectively.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/vendor_bills.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/vendor_bills.rst)
 
 ### Navigazione
 

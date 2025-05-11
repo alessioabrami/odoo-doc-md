@@ -478,7 +478,7 @@ To test our migration system, let us add a new type of trees: peaches.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework/01_build_clicker_game.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework/01_build_clicker_game.rst)
 
 ### Navigazione
 

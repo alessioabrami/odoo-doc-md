@@ -181,7 +181,7 @@ In the Driver, an event is released by calling the `device_changed` function fro
             event_manager.device_changed(self)
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/connect_device.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/connect_device.rst)
 
 ### Navigazione
 

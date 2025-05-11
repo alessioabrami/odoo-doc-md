@@ -97,7 +97,7 @@ For information on workflows that include the MTO route, see the following docum
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/mto.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/mto.rst)
 
 ### Navigazione
 

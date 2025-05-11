@@ -60,7 +60,7 @@ Nota
 
 The selected customer must have referenced an address in the system for products to be shipped.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/shop/ship_later.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/shop/ship_later.rst)
 
 ### Navigazione
 

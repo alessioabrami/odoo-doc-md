@@ -149,7 +149,7 @@ Su Windows 8 e superiori, potrebbe essere visualizzato l’avviso _Windows ha pr
 
 Odoo si avvierà automaticamente al termine dell’installazione.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise/packages.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise/packages.rst)
 
 ### Navigazione
 

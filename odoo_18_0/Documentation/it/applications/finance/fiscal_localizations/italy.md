@@ -632,7 +632,7 @@ Vedi anche
 
 Once you press the Validate button for the Batch Payment, the Ri.Ba. file is generated and attached to the Batch Payment, so you can download it and upload it through your bank’s web portal.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/italy.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/italy.rst)
 
 ### Navigazione
 

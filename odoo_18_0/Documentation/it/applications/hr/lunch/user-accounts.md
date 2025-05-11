@@ -82,7 +82,7 @@ Cash moves can be modified, but **only** from the Cash Moves dashboard, not from
 
 It is **not** possible to modify any product-related records.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/lunch/user-accounts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/lunch/user-accounts.rst)
 
 ### Navigazione
 

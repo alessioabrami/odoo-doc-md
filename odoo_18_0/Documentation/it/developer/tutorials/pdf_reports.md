@@ -234,7 +234,7 @@ You probably are tired of hearing that QWeb creates HTML, but we’re saying it 
 
 Odoo has a built-in barcode image creator that allows for barcodes to be embedded in your reports. Check out the corresponding [code](https://github.com/odoo/odoo/blob/0e12fa135882cd5095dbf15fe2f64231c6a84336/addons/web/controllers/main.py#L2044-L2046) to see all the supported barcode types.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/pdf_reports.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/pdf_reports.rst)
 
 ### Navigazione
 

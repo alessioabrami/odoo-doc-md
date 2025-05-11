@@ -138,7 +138,7 @@ Click on Validare + creare PDF to create an **unsigned** PDF containing your rep
 
 If the _DUKIntegrator_ validator detects errors or inconsistencies in your data, it generates a file that explains the errors. In this case, you need to correct those inconsistencies in your data before you can submit the report to the Romanian Tax Agency.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/romania.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/romania.rst)
 
 ### Navigazione
 

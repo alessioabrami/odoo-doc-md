@@ -78,7 +78,7 @@ Se nella dashboard di Salt Edge è già presente una sincronizzazione con le ste
 
 Se già disponi di un collegamento con le stesse credenziali presenti nella dashboard Salt Edge creato con Odoo, attiva la [modalità sviluppatore](../../../../general/developer_mode.html#developer-mode), apri l’app Contabilità ‣ Configurazione ‣ Sincronizzazione online e fai clic su Aggiorna credenziali per riattivare il collegamento.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/bank_synchronization/saltedge.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/bank_synchronization/saltedge.rst)
 
 ### Navigazione
 

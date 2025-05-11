@@ -39,7 +39,7 @@ This feature allows for field service tasks to be automatically created from a s
 
 If you have the Helpdesk app installed, you can [create field service tasks from a helpdesk ticket](../helpdesk/advanced/after_sales.html#helpdesk-field).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/field_service/creating_tasks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/field_service/creating_tasks.rst)
 
 ### Navigazione
 

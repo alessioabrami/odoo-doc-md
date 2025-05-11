@@ -86,7 +86,7 @@ Nota
 
 A padlock icon is visible on your private tasks to quickly identify them among your project tasks.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/to_do.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/to_do.rst)
 
 ### Navigazione
 

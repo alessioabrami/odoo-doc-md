@@ -54,7 +54,7 @@ A client action triggers an action that is entirely implemented in the client si
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/javascript_client_action.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/javascript_client_action.rst)
 
 ### Navigazione
 

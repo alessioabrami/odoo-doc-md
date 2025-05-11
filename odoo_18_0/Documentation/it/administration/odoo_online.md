@@ -195,7 +195,7 @@ And here is the equivalent example with JSON-RPC:
     databases_list = call(url, 'object', 'execute', 'openerp', uid, APIKEY, 'odoo.database', 'list')
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_online.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_online.rst)
 
 ### Navigazione
 

@@ -70,7 +70,7 @@ The Source Location and Scrap Location can be changed, if needed. If a replenish
 
 Once ready, click Scrap Products. A Scraps smart button appears at the top of the operation form. Click this smart button to view the details of all scrap orders created from this specific operation.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/scrap_inventory.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/scrap_inventory.rst)
 
 ### Navigazione
 

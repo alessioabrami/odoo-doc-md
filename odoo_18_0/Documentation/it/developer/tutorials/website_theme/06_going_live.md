@@ -99,7 +99,7 @@ With these skills, you’re now ready to design and develop professional, fully 
 
 We can’t wait to see the amazing themes you’ll create in the future.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/website_theme/06_going_live.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/website_theme/06_going_live.rst)
 
 ### Navigazione
 

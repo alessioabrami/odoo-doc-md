@@ -42,7 +42,7 @@ Once you close and post the POS session, access the comprehensive report to revi
 
 To get an overview of all orders, regardless of the session, click the vertical ellipsis button (⋮) on the POS card and select Orders from the View section.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/employee_login.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/employee_login.rst)
 
 ### Navigazione
 

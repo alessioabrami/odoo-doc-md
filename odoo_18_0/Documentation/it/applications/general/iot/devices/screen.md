@@ -69,7 +69,7 @@ Lo schermo mostrerà automaticamente gli ordini del POS e si aggiornerà quando 
 
 Apri la vista modulo dello schermo tramite l’app IoT ‣ Dispositivi ‣ Schermo cliente. Ciò consente all’utente di scegliere un URL specifico per il sito web da mostrare sullo schermo usando il campo Mostra URL.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/iot/devices/screen.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/iot/devices/screen.rst)
 
 ### Navigazione
 

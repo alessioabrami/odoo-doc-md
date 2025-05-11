@@ -389,7 +389,7 @@ Generally using raw SQL also bypasses ACLs and increases the risks of injections
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/define_module_data.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/define_module_data.rst)
 
 ### Navigazione
 

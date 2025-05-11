@@ -190,7 +190,7 @@ Vendite prodotto |  |  | 1000
   
 I 1.000 $ addebitati al conto crediti sono suddivisi in due registrazioni distinte del registro. Entrambe hanno una propria data di scadenza.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/payment_terms.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/payment_terms.rst)
 
 ### Navigazione
 

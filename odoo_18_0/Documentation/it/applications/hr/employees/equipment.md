@@ -68,7 +68,7 @@ An identical form appears, with _all_ the information filled out, except for the
 
 Enter the Serial Number on the form, and make any other necessary changes, such as the assigned Employee.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/employees/equipment.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/employees/equipment.rst)
 
 ### Navigazione
 

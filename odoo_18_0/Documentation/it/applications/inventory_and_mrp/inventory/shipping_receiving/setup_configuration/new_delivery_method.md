@@ -168,7 +168,7 @@ Nota
 
 If the desired route is not selectable, check that the _Shipping Methods_ option is enabled in the route’s _Applicable On_ section.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/new_delivery_method.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/new_delivery_method.rst)
 
 ### Navigazione
 

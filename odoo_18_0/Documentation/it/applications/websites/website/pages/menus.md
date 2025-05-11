@@ -77,7 +77,7 @@ You can adapt the general layout of the mega menu by selecting the desired Templ
 
 To customize the appearance of your website’s menu, click Edit, then select the navigation bar or any menu item. You can then adapt the fields in the Header and Navbar sections in the Customize tab in the website builder.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/pages/menus.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/pages/menus.rst)
 
 ### Navigazione
 

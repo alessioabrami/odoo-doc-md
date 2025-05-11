@@ -303,7 +303,7 @@ Nota
 
 Se hai più siti web e aziende sul tuo database, assicurati di selezionare l”Azienda corretta in Sito web ‣ Configurazione ‣ Impostazioni. Facendolo, a Odoo verrà indicato quale URL utilizzare come URL base secondo l’azienda in uso.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/domain_names.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/domain_names.rst)
 
 ### Navigazione
 

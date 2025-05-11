@@ -887,7 +887,7 @@ It is possible to set the PPM and the Proportional Factor for the fiscal year fr
 
 Or manually in the reports by clicking on the ✏️ (pencil) icon.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/chile.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/chile.rst)
 
 ### Navigazione
 

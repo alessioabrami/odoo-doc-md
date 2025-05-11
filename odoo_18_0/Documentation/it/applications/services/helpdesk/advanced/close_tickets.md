@@ -91,7 +91,7 @@ Customers are able to view their tickets by clicking the View the ticket link th
 
 Customers with access to the [portal](../../../general/users/portal.html) are able to view their tickets under My Account ‣ Tickets.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/helpdesk/advanced/close_tickets.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/helpdesk/advanced/close_tickets.rst)
 
 ### Navigazione
 

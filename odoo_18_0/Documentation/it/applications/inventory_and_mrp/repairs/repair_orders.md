@@ -167,7 +167,7 @@ Vedi anche
 
 [Returns and refunds](../../sales/sales/products_prices/returns.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/repairs/repair_orders.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/repairs/repair_orders.rst)
 
 ### Navigazione
 

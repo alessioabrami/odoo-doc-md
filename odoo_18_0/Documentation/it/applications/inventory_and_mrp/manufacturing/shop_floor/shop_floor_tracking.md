@@ -71,7 +71,7 @@ On the page for the MO, click on the Work Orders tab to see a list of all work o
 
 The _Real Duration_ represents the total time spent working on the work order by all workers who worked on it. It includes time tracked in the _Shop Floor_ module, as well as time tracked on the Work Orders tab of the MO itself.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/shop_floor/shop_floor_tracking.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/shop_floor/shop_floor_tracking.rst)
 
 ### Navigazione
 

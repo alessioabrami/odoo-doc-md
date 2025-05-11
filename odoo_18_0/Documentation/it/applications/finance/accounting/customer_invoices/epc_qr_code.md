@@ -62,7 +62,7 @@ Suggerimento
 
 Se vuoi emettere una fattura senza codice QR EPC, elimina l’IBAN indicato nel campo Banca destinatario, nella sezione Altre informazioni della fattura.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/epc_qr_code.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/epc_qr_code.rst)
 
 ### Navigazione
 

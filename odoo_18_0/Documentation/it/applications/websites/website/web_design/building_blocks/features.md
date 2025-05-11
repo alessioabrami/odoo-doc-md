@@ -36,7 +36,7 @@ The Call to Action block is used to prompt visitors to take a specific action, s
 
 To change the button’s link, select it, go to the Customize tab’s Inline Text section and replace `/contactus` with another URL.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/features.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/features.rst)
 
 ### Navigazione
 

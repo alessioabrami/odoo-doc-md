@@ -76,7 +76,7 @@ To refuse an expense report, click Refuse, and a Refuse Expense pop-up window ap
 
 Once the expense report is refused, the status changes to Refused, and the only button that appears in the top-left is Reset to Draft.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/expenses/approve_expenses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/expenses/approve_expenses.rst)
 
 ### Navigazione
 

@@ -120,7 +120,7 @@ You can translate directly by editing a `.po` file or creating the file yourself
 
 To import your translation files into Odoo, go to Settings ‣ Translations ‣ Import Translation and upload them.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/translations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/translations.rst)
 
 ### Navigazione
 

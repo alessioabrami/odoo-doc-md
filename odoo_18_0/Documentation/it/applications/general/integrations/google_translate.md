@@ -95,7 +95,7 @@ Vedi anche
 
 [Modificare la lingua](../users/language.html#language-install)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/integrations/google_translate.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/integrations/google_translate.rst)
 
 ### Navigazione
 

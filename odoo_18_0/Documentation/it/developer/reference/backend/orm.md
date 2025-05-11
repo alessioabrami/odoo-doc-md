@@ -3364,7 +3364,7 @@ Example
 
 When you try to create a new user with a login which already exist in the db.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/orm.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/orm.rst)
 
 ### Navigazione
 

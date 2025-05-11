@@ -231,7 +231,7 @@ Nota
 
 Durante la modifica delle traduzioni, la lingua predefinita configurata per il database appare in **grassetto**.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/companies/email_template.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/companies/email_template.rst)
 
 ### Navigazione
 

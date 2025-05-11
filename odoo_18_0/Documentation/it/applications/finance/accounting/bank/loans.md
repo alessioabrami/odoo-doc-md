@@ -77,7 +77,7 @@ Per impostazione predefinita, un prestito viene chiuso una volta registrata la v
 
 Apri l’app Contabilità ‣ Rendicontazione ‣ Analisi prestiti, da qui puoi accedere a un resoconto con vista pivot dei prestiti in corso. Il resoconto mostra di default il capitale, gli interessi e il pagamento totale per ogni anno per la durata del prestito.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/loans.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/loans.rst)
 
 ### Navigazione
 

@@ -35,7 +35,7 @@ From here, review the subscription product and its recurring periods. Then, togg
 
 The new subscription product is now available to purchase on the eCommerce website, with options for the different recurring periods.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/subscriptions/ecommerce.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/subscriptions/ecommerce.rst)
 
 ### Navigazione
 

@@ -29,7 +29,7 @@
 |  [`odoo.upgrade.util.pg`](developer/reference/upgrades/upgrade_utils.html#module-odoo.upgrade.util.pg)|  __  
 |  [`odoo.upgrade.util.records`](developer/reference/upgrades/upgrade_utils.html#module-odoo.upgrade.util.records)|  __  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/py-modindex.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/py-modindex.rst)
 
 ### Navigazione
 

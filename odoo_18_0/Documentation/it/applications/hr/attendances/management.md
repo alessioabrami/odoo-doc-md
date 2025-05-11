@@ -109,7 +109,7 @@ Importante
 
 Once Extra Hours are added, they are automatically approved by the system. However, it is possible to manually refuse them, as explained in the Approvals and Refusals section.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/attendances/management.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/attendances/management.rst)
 
 ### Navigazione
 

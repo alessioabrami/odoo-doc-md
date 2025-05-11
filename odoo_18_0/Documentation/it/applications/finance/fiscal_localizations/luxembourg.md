@@ -83,7 +83,7 @@ This feature requires the module Luxembourg - Accounting Reports to be installed
 
 Go to Accounting ‣ Reporting ‣ Audit Reports ‣ General Ledger, then click on FAIA.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/luxembourg.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/luxembourg.rst)
 
 ### Navigazione
 

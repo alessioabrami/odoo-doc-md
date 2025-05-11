@@ -52,7 +52,7 @@ Suggerimento
 
 There is no limit to the amount of times a user can check in and check out. Users are able to check in and out without any time elapsing (a value of 00:00). Each time an employee logs in and out, the information is stored and appears on the main _Attendances_ dashboard, including check ins and check outs with no time value.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/attendances/check_in_check_out.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/attendances/check_in_check_out.rst)
 
 ### Navigazione
 

@@ -355,7 +355,7 @@ Vedi anche
 
 [Go further by altering the building blocks of a custom template](https://github.com/odoo/odoo/blob/64971a0b1b2f8c063def5846f6029d5bb3a574cd/addons/website/views/new_page_template_templates.xml#L38)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/pages.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/pages.rst)
 
 ### Navigazione
 

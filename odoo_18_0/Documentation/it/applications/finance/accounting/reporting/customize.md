@@ -272,7 +272,7 @@ Reports can have an **indefinite number** of columns to display. Each column get
 
 When using the **period comparison** feature found under the Options tab of an accounting report, all columns are repeated in and for each period.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/customize.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/customize.rst)
 
 ### Navigazione
 

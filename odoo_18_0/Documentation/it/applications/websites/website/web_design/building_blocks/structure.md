@@ -44,7 +44,7 @@ Suggerimento
 
 The Masonry block allows you to add text on top of images. To do so, go to the Customize tab, scroll to Add Elements, and click Text.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/structure.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/structure.rst)
 
 ### Navigazione
 

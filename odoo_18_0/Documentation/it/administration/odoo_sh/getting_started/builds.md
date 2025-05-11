@@ -81,7 +81,7 @@ Per ogni build, è possibile accedere alle modifiche della revisione utilizzando
 
 Nel menu a discesa del build, puoi accedere alle stesse funzionalità della [vista rami](branches.html#odoosh-gettingstarted-branches-tabs): _Registri_ , _Shell web_ , _Editor_ , _E-mail in uscita_. Hai anche la possibilità di _Scaricare un dump_ del database del build.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/getting_started/builds.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/getting_started/builds.rst)
 
 ### Navigazione
 

@@ -63,7 +63,7 @@ The preconfigured point structure for referrals is as follows:
 
 The default total points earned for a referral that is hired is 85 points. Modifications of the points earned for each stage are made in the _Recruitment_ application. Refer to the [Recruitment](../recruitment.html#recruitment-modify-stages) documentation to modify the points for each stage.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/referrals/points.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/referrals/points.rst)
 
 ### Navigazione
 

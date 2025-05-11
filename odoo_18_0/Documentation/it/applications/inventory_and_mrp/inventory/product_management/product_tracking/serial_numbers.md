@@ -237,7 +237,7 @@ In addition to using the Lots/Serial Numbers dashboard, there are several other 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/product_tracking/serial_numbers.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/product_tracking/serial_numbers.rst)
 
 ### Navigazione
 

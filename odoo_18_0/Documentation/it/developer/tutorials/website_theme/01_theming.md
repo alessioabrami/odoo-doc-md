@@ -245,7 +245,7 @@ To deactivate the Call-to-action:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/website_theme/01_theming.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/website_theme/01_theming.rst)
 
 ### Navigazione
 

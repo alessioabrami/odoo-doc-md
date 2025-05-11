@@ -39,7 +39,7 @@ minification¶
 
 process of removing extraneous/non-necessary sections of files (comments, whitespace) and possibly recompiling them using equivalent but shorter structures ([ternary operator](http://en.wikipedia.org/wiki/%3F:) instead of `if/else`) in order to reduce network traffic
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/glossary.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/glossary.rst)
 
 ### Navigazione
 

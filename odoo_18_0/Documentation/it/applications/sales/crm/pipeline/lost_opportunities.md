@@ -133,7 +133,7 @@ Vedi anche
 
 [Analisi flusso di opportunità](../performance/win_loss.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/pipeline/lost_opportunities.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/pipeline/lost_opportunities.rst)
 
 ### Navigazione
 

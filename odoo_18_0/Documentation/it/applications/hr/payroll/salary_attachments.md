@@ -105,7 +105,7 @@ Vedi anche
 
 [Salary attachment report](salary_attachment.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/salary_attachments.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/salary_attachments.rst)
 
 ### Navigazione
 

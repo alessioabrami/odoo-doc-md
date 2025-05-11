@@ -261,7 +261,7 @@ Second, despite the fact that the `property_id` field is required, we did not in
 
 Still alive? This chapter is definitely not the easiest one. It introduced a couple of new concepts while relying on everything that was introduced before. The [next chapter](08_compute_onchange.html) will be lighter, don’t worry ;-)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/07_relations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/07_relations.rst)
 
 ### Navigazione
 

@@ -39,7 +39,7 @@ Nota
 
 È possibile modificare la struttura e il contenuto della pagina utilizzando l’app [Sito web](../../../websites/website.html). Se l’applicazione Sito web è attivata, l’opzione Modifica nel costruttore di siti web sostituisce Aggiorna termini.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/terms_conditions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/terms_conditions.rst)
 
 ### Navigazione
 

@@ -180,7 +180,7 @@ After confirming the interview, the applicant is taken to a confirmation page, w
 
 The applicant is also able to cancel or reschedule the interview, if necessary, with the Cancel/Reschedule button.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/schedule_interviews.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/schedule_interviews.rst)
 
 ### Navigazione
 

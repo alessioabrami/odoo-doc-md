@@ -76,7 +76,7 @@ For more details about _where_ the units were picked, select the ⦙≣ (bullete
 
 In the Open: Stock move pop-up window, the Pick from field displays where the quantities to fulfill the Demand are picked. All fifteen of the units stored at the closest location, `WH/Stock/Shelf 1`, are picked first. The remaining three units are then selected from the second closest location, `WH/Stock/Shelf 2`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/closest_location.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/closest_location.rst)
 
 ### Navigazione
 

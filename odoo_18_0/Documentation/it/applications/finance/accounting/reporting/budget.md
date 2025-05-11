@@ -137,7 +137,7 @@ Nota
 
 The date selector enables the division of periods and navigation between periods, automatically updating the amounts accordingly.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/budget.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/budget.rst)
 
 ### Navigazione
 

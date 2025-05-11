@@ -74,7 +74,7 @@ To view the detailed pickings, click the ⦙≣ (bulleted list) icon, located on
 
 In the Open: Stock move pop-up window, the Pick from field displays where the quantities to fulfill the Demand are picked from. Since the order demanded six shirts, all five shirts from `LOT1`, and one shirt from `LOT2`, are selected.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/fifo.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/fifo.rst)
 
 ### Navigazione
 

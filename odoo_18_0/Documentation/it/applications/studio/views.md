@@ -295,7 +295,7 @@ La vista Grafico __viene utilizzata per illustrare i dati dei record in una graf
 
 Example
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/studio/views.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/studio/views.rst)
 
 ### Navigazione
 

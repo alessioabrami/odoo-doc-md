@@ -81,7 +81,7 @@ Once the current work order for the backorder MO is ready to be processed, this 
 
 After the final work order for the backorder MO has been completed, the MO can be closed by clicking the Close Production button at the bottom of the work order’s card.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/manufacturing_backorders.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/manufacturing_backorders.rst)
 
 ### Navigazione
 

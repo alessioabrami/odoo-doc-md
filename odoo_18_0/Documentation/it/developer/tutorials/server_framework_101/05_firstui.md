@@ -265,7 +265,7 @@ Now that we are able to interact with the UI thanks to the default views, the ne
 
 A refresh is needed since the web client keeps a cache of the various menus and views for performance reasons.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/05_firstui.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/05_firstui.rst)
 
 ### Navigazione
 

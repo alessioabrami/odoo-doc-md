@@ -162,7 +162,7 @@ Notice how we’re giving the template `session_info`. We get it from the `get_f
 
 At this point, if you open the url `/your_module/standalone_app` in your brower, you should see a blank page with the text «Hello, World!». At this point, you can start actually writing the code for your app.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/standalone_owl_application.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/standalone_owl_application.rst)
 
 ### Navigazione
 

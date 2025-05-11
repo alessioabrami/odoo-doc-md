@@ -63,7 +63,7 @@ Double-check the **email address domain** (`example@domain.com`). However, be wa
 
 Hover over the links in your email and check that the URLs they redirect to are genuine. Your internet browser usually displays the link’s target at the bottom left of the window.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/payments/trusted_accounts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/payments/trusted_accounts.rst)
 
 ### Navigazione
 

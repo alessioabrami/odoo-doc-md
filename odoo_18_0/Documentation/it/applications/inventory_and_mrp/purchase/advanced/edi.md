@@ -83,7 +83,7 @@ Vedi anche
 
 [Creare preventivi](../../../sales/sales/sales_quotations/create_quotations.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/advanced/edi.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/advanced/edi.rst)
 
 ### Navigazione
 

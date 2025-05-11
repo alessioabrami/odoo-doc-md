@@ -357,7 +357,7 @@ Nota
 
 Il Layout tastiera è specifico per ogni lingua e le opzioni disponibili variano a seconda del dispositivo e della lingua del database (ad es.: English (UK), English (US), ecc.).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/iot/devices/printer.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/iot/devices/printer.rst)
 
 ### Navigazione
 

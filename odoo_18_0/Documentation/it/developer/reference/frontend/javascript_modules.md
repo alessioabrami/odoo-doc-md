@@ -314,7 +314,7 @@ If an error happens, it will be logged (in debug mode) in the console:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/javascript_modules.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/javascript_modules.rst)
 
 ### Navigazione
 

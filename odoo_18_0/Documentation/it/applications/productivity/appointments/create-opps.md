@@ -46,7 +46,7 @@ Nota
 
 If an opportunity is created from a [resource based](../appointments.html#appointments-resources) appointment type, the user who created the appointment type is listed as the Salesperson for the opportunity. If it is created from a user based appointment, the user the appointment is scheduled with is assigned as the Salesperson.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/appointments/create-opps.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/appointments/create-opps.rst)
 
 ### Navigazione
 

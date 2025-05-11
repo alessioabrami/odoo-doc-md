@@ -1502,7 +1502,7 @@ as a separate concept from instances. In many languages classes are full-fledged
 
 as well as papering over cross-browser differences, although this has become less necessary over time
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/web.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/web.rst)
 
 ### Navigazione
 

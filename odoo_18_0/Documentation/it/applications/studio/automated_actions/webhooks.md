@@ -206,7 +206,7 @@ Se viene restituito un messaggio che dice `200 OK` o `status: ok`, allora il web
 
 Se vengono restituite altre risposte, il numero a esse associato aiuta a identificare il problema. Ad esempio, un `500 Internal Server Error` significa che Odoo non è riuscito a interpretare correttamente la chiamata. Se questo viene restituito, assicurati che i campi nel file JSON sia mappati correttamente nella configurazione del webhook e in Postman.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/studio/automated_actions/webhooks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/studio/automated_actions/webhooks.rst)
 
 ### Navigazione
 

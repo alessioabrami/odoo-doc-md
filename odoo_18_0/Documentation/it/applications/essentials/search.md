@@ -192,7 +192,7 @@ Suggerimento
 
 Per visualizzare _tutte_ le ricerche preferite, come prima cosa attiva la modalità sviluppatore e vai su App Impostazioni ‣ Funzioni tecniche ‣ Interfaccia utente: Filtri definiti dall’utente. Da qui, tutte le ricerche preferite possono essere visualizzate, modificate, archiviate o eliminate.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/essentials/search.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/essentials/search.rst)
 
 ### Navigazione
 

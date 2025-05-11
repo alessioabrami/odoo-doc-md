@@ -45,7 +45,7 @@ Click Go to Website to view the alternative products displayed at the bottom of 
 
 To adjust the settings, click Edit and select the related [building block](../../website/web_design/building_blocks.html). In the Customize tab, scroll to the Alternative Products section and modify the settings as needed to tailor the display to your preferences.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/products/cross_upselling.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/products/cross_upselling.rst)
 
 ### Navigazione
 

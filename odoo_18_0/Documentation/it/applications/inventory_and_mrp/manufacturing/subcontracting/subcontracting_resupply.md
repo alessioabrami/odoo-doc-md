@@ -182,7 +182,7 @@ If the subcontracting workflow was started by a customer SO, and the finished pr
 
 Once the product has been shipped to the customer, navigate to the Sales app, and select the SO. Select the Delivery smart button at the top of the page to open the delivery order, and click Validate on the order to confirm that the product has been shipped to the customer.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/subcontracting_resupply.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/subcontracting_resupply.rst)
 
 ### Navigazione
 

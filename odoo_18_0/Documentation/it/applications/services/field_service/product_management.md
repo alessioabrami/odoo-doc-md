@@ -80,7 +80,7 @@ Once a default warehouse has been configured for a user, the materials used for 
 
 Once the Field Service task is marked as done, the stock of the default warehouse is automatically updated.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/field_service/product_management.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/field_service/product_management.rst)
 
 ### Navigazione
 

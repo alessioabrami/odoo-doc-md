@@ -66,7 +66,7 @@ Suggerimento
 
 Se si apportano modifiche a un modulo in Odoo, compresi i moduli _Contatti_ , ricordati di fare clic su Salva per salvare le modifiche nel database.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/sales_quotations/different_addresses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/sales_quotations/different_addresses.rst)
 
 ### Navigazione
 

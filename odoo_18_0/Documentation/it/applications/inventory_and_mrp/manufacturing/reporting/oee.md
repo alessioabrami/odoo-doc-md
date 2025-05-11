@@ -111,7 +111,7 @@ By default, the main OEE reporting page shows data in a bar chart, while the pag
 
 It is also possible to see OEE data in a pivot view, or a list displaying each time entry, by clicking the __(pivot view) or __(list view) buttons at the top-right corner of the page.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/reporting/oee.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/reporting/oee.rst)
 
 ### Navigazione
 

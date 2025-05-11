@@ -187,7 +187,7 @@ Once the file is selected, the Progression bar shows an upload status. When this
 
 When the desired changes are complete, click Apply changes in the upper-right corner of the screen.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/vm_audio_messages.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/vm_audio_messages.rst)
 
 ### Navigazione
 

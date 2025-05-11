@@ -96,7 +96,7 @@ In the Open: Stock move pop-up window, the Pick from field displays where the qu
 
 Since the order demanded six Cartons of eggs, using the FEFO removal strategy, all five Cartons from `LOT1`, with the removal date of February 26th, are picked. The remaining Carton is selected from `LOT2`, which has a removal date of March 4th.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/fefo.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/fefo.rst)
 
 ### Navigazione
 

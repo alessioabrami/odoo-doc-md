@@ -88,7 +88,7 @@ To accomplish that, simply type in `0044` into the Destination prefix field, and
 
 Once the desired configurations are complete, be sure to click Save, then click Apply changes in the upper-right corner to implement the change.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/dynamic_caller_id.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/dynamic_caller_id.rst)
 
 ### Navigazione
 

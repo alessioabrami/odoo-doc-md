@@ -127,7 +127,7 @@ The forecasted quantity for today shows `-5`, because the confirmed demand is fi
 
 This can be an indication to either expedite the current shipment, if possible, or reschedule the delivery date for the SO.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/reporting/forecast.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/reporting/forecast.rst)
 
 ### Navigazione
 

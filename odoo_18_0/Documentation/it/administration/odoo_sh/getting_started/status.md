@@ -20,7 +20,7 @@
 
 La pagina relativa allo stato mostra statistiche relative ai server utilizzati dal tuo progetto e include anche la disponibilità dei server stessi.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/getting_started/status.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/getting_started/status.rst)
 
 ### Navigazione
 

@@ -868,7 +868,7 @@ The command to generate this files takes as many unnamed arguments as you need. 
     $ community/odoo-bin tsconfig --addons-path community/addons,community/odoo/addons,enterprise > tsconfig.json
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/cli.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/cli.rst)
 
 ### Navigazione
 

@@ -128,7 +128,7 @@ There are a number of high-level APIs in various languages to access Odoo system
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/web_services.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/web_services.rst)
 
 ### Navigazione
 

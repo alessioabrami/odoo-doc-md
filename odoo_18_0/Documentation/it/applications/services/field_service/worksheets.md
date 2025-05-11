@@ -61,7 +61,7 @@ Nota
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/field_service/worksheets.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/field_service/worksheets.rst)
 
 ### Navigazione
 

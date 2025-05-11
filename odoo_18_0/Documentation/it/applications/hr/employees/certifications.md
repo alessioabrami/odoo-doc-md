@@ -104,7 +104,7 @@ In the main **Employees** app dashboard, click on an employee profile to open th
 
 This ADD button **only** appears on employee profiles that already have a certification.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/employees/certifications.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/employees/certifications.rst)
 
 ### Navigazione
 

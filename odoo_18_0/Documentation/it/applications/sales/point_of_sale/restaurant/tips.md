@@ -66,7 +66,7 @@ At checkout, select a card payment method and click Close Tab. Doing so generate
 
 On the following screen, click the percentage (15%, 20%, 25%), No Tip, or enter the tipping amount the customer chose to give. Then, click Settle to move to the following order.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/restaurant/tips.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/restaurant/tips.rst)
 
 ### Navigazione
 

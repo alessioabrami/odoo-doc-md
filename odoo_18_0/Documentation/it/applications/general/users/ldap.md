@@ -62,7 +62,7 @@ Quando si utilizza Microsoft Active Directory (AD) per l’autenticazione LDAP, 
 > 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/users/ldap.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/users/ldap.rst)
 
 ### Navigazione
 

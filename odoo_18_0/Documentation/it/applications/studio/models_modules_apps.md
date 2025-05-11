@@ -193,7 +193,7 @@ Per importare e installare le personalizzazioni di Studio su un altro database O
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/studio/models_modules_apps.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/studio/models_modules_apps.rst)
 
 ### Navigazione
 

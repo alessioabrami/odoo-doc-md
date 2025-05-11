@@ -50,7 +50,7 @@ The module should now be available in your Apps menu. Remove the `Apps` filter a
 
 Once the module is installed, disabling the feature will work as intended and will not ask you to uninstall installed applications or modules.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/payments/online/install_portal_patch.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/payments/online/install_portal_patch.rst)
 
 ### Navigazione
 

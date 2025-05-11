@@ -359,7 +359,7 @@ The previous sections give many good reasons to avoid throwing errors, so what a
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/error_handling.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/error_handling.rst)
 
 ### Navigazione
 

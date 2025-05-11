@@ -66,7 +66,7 @@ Attenzione
 
 Enabling this feature may delay order confirmation and invoice emails by a few minutes. It is recommended only for high-traffic websites, as it can introduce unnecessary delays for e-commerce websites with moderate traffic.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/performance.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/performance.rst)
 
 ### Navigazione
 

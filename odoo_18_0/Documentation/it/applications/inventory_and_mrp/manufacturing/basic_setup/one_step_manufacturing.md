@@ -89,7 +89,7 @@ Suggerimento
 
 This section details the basic workflow for processing an MO in the _Shop Floor_ module. For a more in-depth explanation of the module and all of its features, please see the [Shop Floor overview](../shop_floor/shop_floor_overview.html#manufacturing-shop-floor-shop-floor-overview) documentation.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/one_step_manufacturing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/one_step_manufacturing.rst)
 
 ### Navigazione
 

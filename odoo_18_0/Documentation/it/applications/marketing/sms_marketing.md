@@ -51,7 +51,7 @@ Lastly, the __ Graph view visualizes that same SMS-related data in series of gra
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/sms_marketing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/sms_marketing.rst)
 
 ### Navigazione
 

@@ -76,7 +76,7 @@ Ready? Let’s get started!
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101.rst)
 
 ### Navigazione
 

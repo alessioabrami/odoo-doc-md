@@ -346,7 +346,7 @@ The resulting file consists of the following:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/payroll_localizations/united_arab_emirates.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/payroll_localizations/united_arab_emirates.rst)
 
 ### Navigazione
 

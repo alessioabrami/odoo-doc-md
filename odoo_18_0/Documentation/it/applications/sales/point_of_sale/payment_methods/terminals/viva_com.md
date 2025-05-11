@@ -102,7 +102,7 @@ Vedi anche
 
 Select the payment method in your POS settings once the payment method is created. To do so, go to the [POS” settings](../../configuration.html#configuration-settings) and add the payment method under the Payment methods field of the Payment section.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/viva_com.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/viva_com.rst)
 
 ### Navigazione
 

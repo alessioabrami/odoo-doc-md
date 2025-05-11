@@ -89,7 +89,7 @@ To assign serial numbers and complete production, click the Produce button. Doin
 
 After clicking Prepare MO or Produce, the Manufacturing app automatically shows the first of the split MOs (ex. `WH/MO/00109-001`). To view and access the rest the split MOs, click the Backorders smart button at the top of the screen.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/manufacture_lots_serials.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/manufacture_lots_serials.rst)
 
 ### Navigazione
 

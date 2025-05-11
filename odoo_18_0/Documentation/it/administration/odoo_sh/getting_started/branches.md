@@ -429,7 +429,7 @@ Elimina il ramo dall’archivio remoto.
 
 Elimina il ramo dalla copia locale dell’archivio.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/getting_started/branches.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/getting_started/branches.rst)
 
 ### Navigazione
 

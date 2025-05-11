@@ -186,7 +186,7 @@ To solve the previous two exercises, it is likely that you used an event listene
 
 This is actually pretty hard, in particular in combination with the filtering done in the previous exercise. There are many edge cases to take into account.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework/03_customize_kanban_view.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework/03_customize_kanban_view.rst)
 
 ### Navigazione
 

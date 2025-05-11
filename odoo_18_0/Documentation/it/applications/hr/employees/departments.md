@@ -104,7 +104,7 @@ Click the Unfold button on a department card to expand it. Once expanded, the Un
 
 Click anywhere on a department card to open the department form. Click the (#) Employees smart button to view a list of all the employees in that department.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/employees/departments.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/employees/departments.rst)
 
 ### Navigazione
 

@@ -220,7 +220,7 @@ The following should be added to the previously created search view:
 
 Looking good? At this point we are already able to create models and design a user interface which makes sense business-wise. However, a key component is still missing: the [link between models](07_relations.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/06_basicviews.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/06_basicviews.rst)
 
 ### Navigazione
 

@@ -57,7 +57,7 @@ Importante
 
 Anche se non supportiamo versioni più vecchie, puoi sempre [effettuare l’aggiornamento da qualsiasi versione](https://upgrade.odoo.com/).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/supported_versions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/supported_versions.rst)
 
 ### Navigazione
 

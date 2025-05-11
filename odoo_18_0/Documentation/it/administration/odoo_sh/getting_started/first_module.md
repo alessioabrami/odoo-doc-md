@@ -469,7 +469,7 @@ Nel terminale del tuo computer:
     $ git push
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/getting_started/first_module.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/getting_started/first_module.rst)
 
 ### Navigazione
 

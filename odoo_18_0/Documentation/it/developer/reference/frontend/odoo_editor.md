@@ -144,7 +144,7 @@ Name | Type | Description
 `powerboxFilters` | `array of functions` (`commands => commands`) | functions used to filter commands displayed in the Powerbox  
 `getContextFromParentRect` | `function` (`() => DOMRect`) | a function that returns the `DOMRect` of an ancestor of the editor (can be useful when the editor is in an iframe)  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/odoo_editor.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/odoo_editor.rst)
 
 ### Navigazione
 

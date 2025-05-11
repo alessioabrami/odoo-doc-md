@@ -195,7 +195,7 @@ Vedi anche
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/fleet/new_vehicle.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/fleet/new_vehicle.rst)
 
 ### Navigazione
 

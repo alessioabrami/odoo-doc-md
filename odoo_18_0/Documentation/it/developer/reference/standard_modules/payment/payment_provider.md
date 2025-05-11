@@ -210,7 +210,7 @@ Tipo di ritorno
 
 [dict](https://docs.python.org/3/library/stdtypes.html#dict "\(in Python v3.13\)")
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/standard_modules/payment/payment_provider.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/standard_modules/payment/payment_provider.rst)
 
 ### Navigazione
 

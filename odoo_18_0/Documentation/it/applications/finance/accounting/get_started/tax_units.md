@@ -53,7 +53,7 @@ Vedi anche
 
 L’azienda **rappresentativa** può accedere al rapporto fiscale aggregato della **unità fiscale** andando in Accounting ‣ Reporting ‣ Tax Report, e selezionando la **unità fiscale** in Tax Unit. Questo rapporto contiene le transazioni aggregate di tutti i **costituenti** e l’esportazione .XML contiene il nome e il numero di IVA della **società principale**.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/get_started/tax_units.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/get_started/tax_units.rst)
 
 ### Navigazione
 

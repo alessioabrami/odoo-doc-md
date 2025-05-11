@@ -117,7 +117,7 @@ The RfQ for purchasing the components from Bike World and having them dropshippe
 
 Mike’s Bikes confirms the RfQ on May 10th, and Bike World delivers the components to Bike Friends on May 12th. Bike Friends manufactures the bicycle, and delivers it to Mike’s Bikes on May 17th.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/dropship_subcontracting_lead_times.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/dropship_subcontracting_lead_times.rst)
 
 ### Navigazione
 

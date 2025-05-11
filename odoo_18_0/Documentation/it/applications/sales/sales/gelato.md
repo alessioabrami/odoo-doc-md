@@ -132,7 +132,7 @@ Importante
 
 When creating a sales order for Gelato products in the database, only Gelato products can be added to the same sales order. Multivendor orders are not available with the Gelato connector at this time.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/gelato.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/gelato.rst)
 
 ### Navigazione
 

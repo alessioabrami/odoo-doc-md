@@ -181,7 +181,7 @@ Suggerimento
 
 To use a virtual _parent_ location as the default warehouse for sales orders, each salesperson should have the virtual warehouse assigned to them from the drop-down menu next to Default Warehouse on their employee form.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/stock_warehouses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/stock_warehouses.rst)
 
 ### Navigazione
 

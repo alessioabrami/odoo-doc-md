@@ -97,7 +97,7 @@ To create a new project update, go to the project dashboard, click New, and fill
 > 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/project/project_management/project_dashboard.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/project/project_management/project_dashboard.rst)
 
 ### Navigazione
 

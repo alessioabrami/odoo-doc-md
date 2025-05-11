@@ -73,7 +73,7 @@ Bike Friends begins manufacturing the tricycle on May 3rd — the day that the P
 
 The tricycle is then shipped to Mike’s Bikes the same day, and they receive it on May 8th, two days later.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/basic_subcontracting_lead_times.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/basic_subcontracting_lead_times.rst)
 
 ### Navigazione
 

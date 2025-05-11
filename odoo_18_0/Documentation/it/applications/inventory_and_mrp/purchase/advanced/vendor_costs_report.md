@@ -75,7 +75,7 @@ Vedi anche
 
 Per salvare questo resoconto come _preferito_ , consulta la sezione [Preferiti](../../../essentials/search.html#search-favorites).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/advanced/vendor_costs_report.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/advanced/vendor_costs_report.rst)
 
 ### Navigazione
 

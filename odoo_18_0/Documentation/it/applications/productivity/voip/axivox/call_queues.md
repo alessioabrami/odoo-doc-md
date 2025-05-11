@@ -192,7 +192,7 @@ Then, click the green Refresh button at the top of the Connected agents column. 
 
 To log out of the queue, open the Odoo **VoIP** widget, dial the Agent disconnection number, and then press the green call button __(phone) icon. The agent is disconnected from the queue after a short, two-second message.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/call_queues.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/call_queues.rst)
 
 ### Navigazione
 

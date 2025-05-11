@@ -137,7 +137,7 @@ Vedi anche
 
 [Dynamic website content](../../../websites/website/web_design/building_blocks/dynamic_content.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/project/tasks/task_creation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/project/tasks/task_creation.rst)
 
 ### Navigazione
 

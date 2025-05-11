@@ -51,7 +51,7 @@ Vedi anche
 
 [Pages](../pages.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/cookies_bar.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/cookies_bar.rst)
 
 ### Navigazione
 

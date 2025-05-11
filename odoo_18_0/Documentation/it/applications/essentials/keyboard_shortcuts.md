@@ -62,7 +62,7 @@ Dopo aver aperto il riquadro comandi, esegui la ricerca utilizzando le seguenti 
 
 Digita un nome (o termine) nella barra di ricerca o utilizza i tasti freccia per consultare le opzioni disponibili. In seguito, fai clic su `Ctrl` \+ `INVIO` per aprire l’app, il modulo o il menu selezionato in una nuova scheda.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/essentials/keyboard_shortcuts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/essentials/keyboard_shortcuts.rst)
 
 ### Navigazione
 

@@ -67,7 +67,7 @@ To find the original quantity, and adjust the On Hand Quantity accordingly, afte
 
 The inventory adjustment that changed the on-hand quantity to zero is displayed in the Quantity field.
 
-> [ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/product_tracking/reassign.rst)
+> [ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/product_tracking/reassign.rst)
 
 ### Navigazione
 

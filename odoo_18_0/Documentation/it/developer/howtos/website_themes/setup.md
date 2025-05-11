@@ -238,7 +238,7 @@ Vedi anche
 
 [Modalità sviluppatore (modalità di debug)](../../../applications/general/developer_mode.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/setup.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/setup.rst)
 
 ### Navigazione
 

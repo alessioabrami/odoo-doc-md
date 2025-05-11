@@ -111,7 +111,7 @@ Suggerimento
 
 If you have a field that you do not want as a measure (i.e., in your pivot or graph views), add `store=False` to it, and it will not show.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/create_reports.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/create_reports.rst)
 
 ### Navigazione
 

@@ -79,7 +79,7 @@ Embedding code allows you to integrate content from third-party services into a 
 
 After adding the block to a page, click the Edit button found under the Customize tab’s Embed Code section and enter the code, replacing the code used to show the block’s instructions.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/dynamic_content.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/dynamic_content.rst)
 
 ### Navigazione
 

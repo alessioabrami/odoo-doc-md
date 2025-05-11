@@ -243,7 +243,7 @@ This step is **optional**. However, removing the `delete` permission would preve
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/integrations/cloud_storage.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/integrations/cloud_storage.rst)
 
 ### Navigazione
 

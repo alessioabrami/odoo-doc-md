@@ -126,7 +126,7 @@ Odoo databases include preconfigured view locations to organize the hierarchy of
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management.rst)
 
 ### Navigazione
 

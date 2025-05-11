@@ -126,7 +126,7 @@ I badge vengono assegnati quando una sfida è terminata. Ciò avviene al termine
 
 Dopo aver completato la configurazione, fai clic sul pulsante Inizia sfida nella parte in alto a sinistra della pagina per iniziare la sfida.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/optimize/gamification.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/optimize/gamification.rst)
 
 ### Navigazione
 

@@ -83,7 +83,7 @@ Seguendo questo step, apri un’e-mail qualsiasi per visualizzare la scorciatoia
 
 Ora che il plug-in è installato e funzionante, per creare un lead è sufficiente fare clic sulla `O` [icona di Odoo] o andare su Più azioni e fare clic su Odoo per Outlook. Il pannello laterale apparirà sul lato destro e sotto Opportunità fai clic su Nuovo. Si aprirà una nuova finestra con l’opportunità creata nel database di Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/integrations/mail_plugins/outlook.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/integrations/mail_plugins/outlook.rst)
 
 ### Navigazione
 

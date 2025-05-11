@@ -105,7 +105,7 @@ Il resoconto può essere rinominato utilizzando il campo `Nome dell'elenco`. Il 
 
 Per esportare il resoconto come file .xlsx, da usare in un programma di fogli di calcolo esterno, fai clic sull’icona Azioni __(ingranaggio) e seleziona l’opzione __ Esporta tutto. Se richiesto, scegli una posizione del file, assegna un nome al file e fai clic su Salva.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/track_leads/marketing_attribution.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/track_leads/marketing_attribution.rst)
 
 ### Navigazione
 

@@ -136,7 +136,7 @@ We use `type="action"` and we refer to the [external identifier](../../glossary.
 
 In the [next chapter](10_constraints.html) we’ll see how we can prevent encoding incorrect data in Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/09_actions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/09_actions.rst)
 
 ### Navigazione
 

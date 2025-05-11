@@ -145,7 +145,7 @@ Suggerimento
 
 Typing `::` into a chat window on its own generates a list of available canned responses. Responses can be manually selected from the list, in addition to the use of shortcuts.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/livechat/responses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/livechat/responses.rst)
 
 ### Navigazione
 

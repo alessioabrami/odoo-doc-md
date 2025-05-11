@@ -74,7 +74,7 @@ The information presented on the My Allocations page includes: Time Off Type, De
 
 A new allocation request can be made from this view, as well. Click the New button to [request an allocation](allocations.html#time-off-request-allocation).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/time_off/my_time.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/time_off/my_time.rst)
 
 ### Navigazione
 

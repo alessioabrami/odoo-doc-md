@@ -44,7 +44,7 @@ To view these comparisons, click the __(down arrow) icon in the search bar, then
 
 The report updates and displays the current time period values, and the previous time period values, as well as the Variation between the two, in a percentage.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/salary_attachment.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/salary_attachment.rst)
 
 ### Navigazione
 

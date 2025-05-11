@@ -23,7 +23,7 @@ Vedi anche
 
   * [Google Maps Platform](https://mapsplatform.google.com/maps-products)
 
-  * [Google Developers Documentation: Google Places API](https://developers.google.com/maps/documentation/places/web-service/autocomplete)
+  * [Google Developers Documentation: Google Places API](https://developers.google.com/maps/Documentation/places/web-service/autocomplete)
 
 
 
@@ -61,7 +61,7 @@ Importante
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/address_autocomplete.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/address_autocomplete.rst)
 
 ### Navigazione
 

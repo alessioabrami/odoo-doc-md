@@ -238,7 +238,7 @@ Salva il file per poi eseguire la shell Odoo:
 
 Infine, _tramite_ la shell Odoo, puoi attivare la parte di codice/funzione/metodo di cui vuoi eseguire il debug.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/advanced/containers.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/advanced/containers.rst)
 
 ### Navigazione
 

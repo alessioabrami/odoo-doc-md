@@ -80,7 +80,7 @@ Se leggi «**geoip failure** » significa che la geolocalizzazione non è riusci
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise/geo_ip.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise/geo_ip.rst)
 
 ### Navigazione
 

@@ -128,7 +128,7 @@ The first extra is configured for the various toppings they offer. The Extra 1 L
 
 The pizzeria also offers a free beverage with any purchase. To set this up, the Extra 2 Label is set to `Beverages`, and the Extra 2 Quantity is set to Only One. The various beverage choices are added, and the cost for each remains zero.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/lunch/vendors.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/lunch/vendors.rst)
 
 ### Navigazione
 

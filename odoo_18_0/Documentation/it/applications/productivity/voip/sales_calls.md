@@ -83,7 +83,7 @@ When it is time to end the call, the salesperson clicks the red __(phone) icon i
 
 If they have not done so already, the salesperson then marks the phone call activity as done. To do so, navigate to the opportunity’s chatter and find the Planned Activities section, then click __ Mark Done on the planned call to remove it from the Next Activities tab in the VoIP widget.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/sales_calls.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/sales_calls.rst)
 
 ### Navigazione
 

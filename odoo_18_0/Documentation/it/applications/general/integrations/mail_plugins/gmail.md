@@ -105,7 +105,7 @@ Usa l’URL generale del database, non l’URL di una pagina specifica del datab
 
 Infine, fai clic su Consenti per permettere a Gmail di accedere al database Odoo. In seguito, il browser mostrerà un messaggio di successo. Chiudi la finestra. Ora la casella di posta Gmail e il database Odoo sono connessi.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/integrations/mail_plugins/gmail.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/integrations/mail_plugins/gmail.rst)
 
 ### Navigazione
 

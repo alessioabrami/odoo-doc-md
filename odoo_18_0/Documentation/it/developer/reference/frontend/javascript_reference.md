@@ -1423,7 +1423,7 @@ Then, to use the client action in the web client, we need to create a client act
     </record>
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/javascript_reference.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/javascript_reference.rst)
 
 ### Navigazione
 

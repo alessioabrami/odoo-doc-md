@@ -58,7 +58,7 @@ The only mediums that appear for a source, are mediums that have been set on an 
 
 For example, if no applicants applied with the medium _Google Adwords_ , that medium does **not** appear beneath the _Search engine_ source row.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/source_analysis.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/source_analysis.rst)
 
 ### Navigazione
 

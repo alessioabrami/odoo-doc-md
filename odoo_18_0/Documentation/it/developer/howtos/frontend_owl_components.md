@@ -151,7 +151,7 @@ If a page cannot be indexed by search engines because it’s not available to th
 
 The decision to use Owl is a trade-off between the previously mentioned disadvantages and the effort that Owl saves you by making it easy to build richly interactive user experiences. The main reason to use Owl is when you want to build an interface that can react in real time to user inputs without requiring the page to reload. If you mainly want to show static content to the user, you probably shouldn’t use an Owl component.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/frontend_owl_components.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/frontend_owl_components.rst)
 
 ### Navigazione
 

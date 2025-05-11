@@ -134,7 +134,7 @@ Nota
 
 Use the long description to explain the _why_ not the _what_ , the _what_ can be seen in the diff
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/contributing/development/git_guidelines.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/contributing/development/git_guidelines.rst)
 
 ### Navigazione
 

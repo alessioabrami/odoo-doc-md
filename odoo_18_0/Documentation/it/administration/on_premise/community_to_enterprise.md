@@ -94,7 +94,7 @@ Potrebbe volerci del tempo, in base alla dimensione del database.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise/community_to_enterprise.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise/community_to_enterprise.rst)
 
 ### Navigazione
 

@@ -110,7 +110,7 @@ The pivot table is broken down into two main columns: one for the untaxed total 
 
 On the left side of the pivot table, one row is shown for each product purchased from Bike Friends during June. Using this report, David is able to see that Bike Haus has spent much less money on products purchased from Bike Friends, compared to the previous month.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/advanced/analyze.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/advanced/analyze.rst)
 
 ### Navigazione
 

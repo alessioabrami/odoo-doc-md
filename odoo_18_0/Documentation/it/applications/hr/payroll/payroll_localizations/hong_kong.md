@@ -415,7 +415,7 @@ If _HSBC Autopay_ is selected as the batch payment method, click on Create HSBC 
 
 This creates an `.apc` file format which can be uploaded to the HSCB portal for processing.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/payroll_localizations/hong_kong.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/payroll_localizations/hong_kong.rst)
 
 ### Navigazione
 

@@ -165,7 +165,7 @@ Suggerimento
 
 List of [eCheck.Net return codes](https://support.authorize.net/knowledgebase/Knowledgearticle/?code=000001293)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/payment_providers/authorize.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/payment_providers/authorize.rst)
 
 ### Navigazione
 

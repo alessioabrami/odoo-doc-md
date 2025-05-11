@@ -59,7 +59,7 @@ Nota
 
 When products can be printed, they appear in green in the cart, and the order button turns green.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/restaurant/kitchen_printing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/restaurant/kitchen_printing.rst)
 
 ### Navigazione
 

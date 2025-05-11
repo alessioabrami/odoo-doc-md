@@ -72,7 +72,7 @@ On your Accounting Dashboard in the Bank Journal, you can see the number of chec
 
 To print all checks in batch, select all payments from the list view and click on Print.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/payments/pay_checks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/payments/pay_checks.rst)
 
 ### Navigazione
 

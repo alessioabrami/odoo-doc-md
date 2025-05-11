@@ -320,7 +320,7 @@ Whether the record is active
 
 Loading order of the asset records (ascending). A sequence lower than 16 means that the asset will be processed _before_ the ones declared in the manifest.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/assets.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/assets.rst)
 
 ### Navigazione
 

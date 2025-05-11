@@ -150,7 +150,7 @@ Suggerimento
 
 Adding content to an eCommerce category page is beneficial in terms of **SEO** strategy. Using **keywords** linked to the products or the eCommerce categories improves organic traffic. Additionally, each category has its own specific URL that can be pointed to and is indexed by search engines.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/products/catalog.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/products/catalog.rst)
 
 ### Navigazione
 

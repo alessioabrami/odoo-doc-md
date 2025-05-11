@@ -421,7 +421,7 @@ For Date & Time fields that have the Date & Time or Date Range widget set, some 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/studio/fields.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/studio/fields.rst)
 
 ### Navigazione
 

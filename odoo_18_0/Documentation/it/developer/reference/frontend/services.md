@@ -847,7 +847,7 @@ check if the user is part of a group
     const isInSalesGroup = await userService.hasGroup("sale.group_sales")
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/services.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/services.rst)
 
 ### Navigazione
 

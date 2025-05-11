@@ -61,7 +61,7 @@ If the request was created from the Dashboard, click the Save & Close button to 
 
 If the form was completed from the My Time Off list view, the information is automatically saved as it is entered. However, the form can be saved manually at any time by clicking the __(cloud upload) icon.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/time_off/request_time_off.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/time_off/request_time_off.rst)
 
 ### Navigazione
 

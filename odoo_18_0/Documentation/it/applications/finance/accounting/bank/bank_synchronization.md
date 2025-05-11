@@ -167,7 +167,7 @@ Per aggiornare le credenziali, attivare la [modalità sviluppatore](../../../gen
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/bank_synchronization.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/bank_synchronization.rst)
 
 ### Navigazione
 

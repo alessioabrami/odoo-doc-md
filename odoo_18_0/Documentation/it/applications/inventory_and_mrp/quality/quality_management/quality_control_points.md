@@ -114,7 +114,7 @@ In the Message If Failure tab, include instructions for what to do if the qualit
 
 The Notes tab is used to provide additional information about the QCP, like the reason it was created. The information entered in this tab is **not** shown to employees processing the quality checks created by the QCP.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_management/quality_control_points.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_management/quality_control_points.rst)
 
 ### Navigazione
 

@@ -102,7 +102,7 @@ La registrazione contabile di una fattura:
 
 La registrazione contabile della nota di credito generata per stornare la fattura originale di cui sopra:
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/credit_notes.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/credit_notes.rst)
 
 ### Navigazione
 

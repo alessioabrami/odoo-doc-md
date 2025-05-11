@@ -65,7 +65,7 @@ Add a custom gradient to the Website Builder. This way, the user can easily use 
     </record>
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/gradients.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/gradients.rst)
 
 ### Navigazione
 

@@ -75,7 +75,7 @@ Then, click Mark as Done from the resulting drop-down menu. A green Done banner 
 
 To mark a goal as `Done` from the goal card itself, click on a goal card to open that goal’s form. Then, click the Mark as Done button in the top-left of the form. When clicked, a green Done banner appears in the top-right corner of the goal form.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/appraisals/goals.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/appraisals/goals.rst)
 
 ### Navigazione
 

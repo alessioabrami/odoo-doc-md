@@ -124,7 +124,7 @@ In the case of this example, it would show data for quarter two of 2023.
 
 Using this report, Adam can see that the products with the highest total cost for quarter two are the _bicycle_ and _tricycle_. On the other hand, in quarter one, the _roller skates_ had the highest total cost.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/reporting/production_analysis.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/reporting/production_analysis.rst)
 
 ### Navigazione
 

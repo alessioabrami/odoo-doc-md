@@ -142,7 +142,7 @@ On the Lot/Serial Numbers page, click the Valuation smart button.
 
 All stock moves that affect the valuation of `LOT 1`.¶
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/valuation_by_lots.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/valuation_by_lots.rst)
 
 ### Navigazione
 

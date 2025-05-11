@@ -89,7 +89,7 @@ Customers can also request an invoice by scanning the **QR code** printed on the
 
 To use this feature, you have to enable QR codes on receipts by going to Point of Sale ‣ Configuration ‣ Settings. Then, select the POS in the Point of Sale field, scroll down to the Bills & Receipts section and enable Use QR code on ticket.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/receipts_invoices.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/receipts_invoices.rst)
 
 ### Navigazione
 

@@ -58,7 +58,7 @@ Vedi anche
 
 riconciliazione [Modelli di riconciliazione](reconciliation_models.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/internal_transfers.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/internal_transfers.rst)
 
 ### Navigazione
 

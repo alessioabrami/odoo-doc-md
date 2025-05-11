@@ -60,7 +60,7 @@ Example
 
 In this example, it can be determined that the Management department had the best retention rate in 2024 as compared to 2023, with a Variation rate of -100%. Additionally, it can be determined that the Management / Research & Development department had the most turnover, with a Variation of 300%.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/employees/retention_report.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/employees/retention_report.rst)
 
 ### Navigazione
 

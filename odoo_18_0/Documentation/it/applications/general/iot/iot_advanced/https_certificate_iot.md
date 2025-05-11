@@ -149,7 +149,7 @@ Il sistema IoT è stato collegato con successo a [https://www.odoo.com](https://
 
 Verifica che il sistem IoT e il database rispettino i requisiti di ammissibilità per un certificato HTTPS.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/iot/iot_advanced/https_certificate_iot.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/iot/iot_advanced/https_certificate_iot.rst)
 
 ### Navigazione
 

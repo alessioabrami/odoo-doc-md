@@ -204,7 +204,7 @@ From this drop-down menu, hover over the Print option to reveal a sub-menu. Then
 
 Odoo generates and downloads a PDF, detailing all information about the current status of the rented item(s).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/rental.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/rental.rst)
 
 ### Navigazione
 

@@ -82,7 +82,7 @@ Avvertimento
 
 If no approver has the Is required to approve approval type, the Apply Changes button **will work** without requiring the Approve button to be clicked first.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/plm/management/approvals.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/plm/management/approvals.rst)
 
 ### Navigazione
 

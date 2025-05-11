@@ -1251,7 +1251,7 @@ One of the ways to test performance is to measure database queries. Manually, th
         do_something()
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/testing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/testing.rst)
 
 ### Navigazione
 

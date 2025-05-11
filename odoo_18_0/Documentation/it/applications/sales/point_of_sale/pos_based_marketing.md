@@ -135,7 +135,7 @@ Vedi anche
 
 [WhatsApp](../../productivity/whatsapp.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/pos_based_marketing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/pos_based_marketing.rst)
 
 ### Navigazione
 

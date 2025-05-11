@@ -76,7 +76,7 @@ Ripeti gli step per tutti gli iscritti desiderati.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/members.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/members.rst)
 
 ### Navigazione
 

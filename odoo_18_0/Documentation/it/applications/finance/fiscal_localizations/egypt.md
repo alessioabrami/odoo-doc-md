@@ -226,7 +226,7 @@ Once the local proxy server is installed on your computer, you can link it with 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/egypt.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/egypt.rst)
 
 ### Navigazione
 

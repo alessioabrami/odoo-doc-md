@@ -339,7 +339,7 @@ Or you can access the pdf version at http://<server-address>/report/pdf/sale.rep
 
 it does not matter what timezone the `python:datetime` object is actually in (including no timezone), its timezone will unconditionally be _set_ to UTC before being adjusted to the user’s
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/reports.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/reports.rst)
 
 ### Navigazione
 

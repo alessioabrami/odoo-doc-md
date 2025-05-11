@@ -136,7 +136,7 @@ Per prima cosa, è necessario inserire il nome utente e la password (login) nell
 
 Se il cliente desidera gestire le opzioni di pagamento, vai alla sezione Gestione dei metodi di pagamento nel menu a destra. In seguito, aggiungi le nuove informazioni di pagamento e seleziona Aggiungi nuova carta.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/users/portal.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/users/portal.rst)
 
 ### Navigazione
 

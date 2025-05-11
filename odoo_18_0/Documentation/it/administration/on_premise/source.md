@@ -169,7 +169,7 @@ Utilizza [Postgres.app](https://postgresapp.com/) per scaricare e installare Pos
 
 Suggerimento
 
-Per far sì che gli strumenti della riga di comando legati a Postgres.app siano disponibili, assicurati di configurare la variabile `$PATH` seguendo le [istruzioni relative agi strumenti CLI Postgres.app](https://postgresapp.com/documentation/cli-tools.html).
+Per far sì che gli strumenti della riga di comando legati a Postgres.app siano disponibili, assicurati di configurare la variabile `$PATH` seguendo le [istruzioni relative agi strumenti CLI Postgres.app](https://postgresapp.com/Documentation/cli-tools.html).
 
 Per impostazione predefinita, l’unico utente è `postgres`. Odoo non permette di connettersi come `postgres` quindi devi creare un nuovo utente PostgreSQL.
 
@@ -403,7 +403,7 @@ Vedi anche
 
 [Elenco degli argomenti CLI per odoo-bin](../../developer/reference/cli.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise/source.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise/source.rst)
 
 ### Navigazione
 

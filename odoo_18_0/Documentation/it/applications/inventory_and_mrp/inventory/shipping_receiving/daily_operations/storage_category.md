@@ -141,7 +141,7 @@ Depending on the number of pallets on-hand at each of the storage locations, whe
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/storage_category.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/storage_category.rst)
 
 ### Navigazione
 

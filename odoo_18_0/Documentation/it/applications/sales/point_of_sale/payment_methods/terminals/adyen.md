@@ -92,7 +92,7 @@ Finally, fill in the mandatory fields with your Adyen API key, Adyen Terminal Id
 
 Once the payment method is created, you can select it in your POS settings. To do so, go to the [POS” settings](../../configuration.html#configuration-settings), click Edit, and add the payment method under the Payments section.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/adyen.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/adyen.rst)
 
 ### Navigazione
 

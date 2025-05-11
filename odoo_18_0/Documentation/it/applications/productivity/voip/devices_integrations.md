@@ -121,7 +121,7 @@ Suggerimento
 
 See [Linphone’s wiki-documentation page](https://wiki.linphone.org/xwiki/wiki/public/view/Linphone/).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/devices_integrations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/devices_integrations.rst)
 
 ### Navigazione
 

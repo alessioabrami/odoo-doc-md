@@ -137,7 +137,7 @@ Generated gift cards can be accessed through the Gift Cards smart button in the 
 
 Click on a gift card to change the Expiration Date, Partner, or Balance. The Code of a gift card _cannot_ be changed, deleted, or duplicated.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/products_prices/ewallets_giftcards.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/products_prices/ewallets_giftcards.rst)
 
 ### Navigazione
 

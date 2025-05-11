@@ -161,7 +161,7 @@ Per salvare questa ricerca per dopo, fai clic sull’icona 🔻(triangolo giù) 
 
 Nel menu a tendina, rinomina il resoconto dall’etichetta `Pipeline` predefinita a `Lead di qualità` e fai clic su Salva.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/track_leads/quality_leads_report.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/track_leads/quality_leads_report.rst)
 
 ### Navigazione
 

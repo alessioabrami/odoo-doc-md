@@ -128,7 +128,7 @@ Add a success message directly under the form tag. Always add the `d-none` class
     </div>
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/forms.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/forms.rst)
 
 ### Navigazione
 

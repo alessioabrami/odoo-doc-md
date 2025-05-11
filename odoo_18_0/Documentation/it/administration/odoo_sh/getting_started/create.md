@@ -144,7 +144,7 @@ Il database importato viene considerato un duplicato per impostazione predefinit
 
 Se pianifichi di renderlo il tuo database di produzione, scollega il vecchio database dall’abbonamento e registra il nuovo database importato. Leggi la [documentazione relativa alla registrazione dei database](../../on_premise.html) per avere istruzioni.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/getting_started/create.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/getting_started/create.rst)
 
 ### Navigazione
 

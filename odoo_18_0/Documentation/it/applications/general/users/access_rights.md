@@ -145,7 +145,7 @@ Una maniera alternativa per attivare la _modalità superutente_ è accedere come
 
 Invece di fare clic su Accedi, fai clic su Accedi come superutente.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/users/access_rights.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/users/access_rights.rst)
 
 ### Navigazione
 

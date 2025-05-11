@@ -96,7 +96,7 @@ For companies using Odoo on Odoo Cloud hosting specifically, these requirements 
 
 Odoo Accounting customer data on the Odoo Cloud is always stored in encrypted form (encryption at rest at storage level). When backups are retrieved, they are automatically decrypted and provided in decrypted form in standard formats for the user: SQL dumps + ZIP archive of all attached documents (file store).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/denmark.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/denmark.rst)
 
 ### Navigazione
 

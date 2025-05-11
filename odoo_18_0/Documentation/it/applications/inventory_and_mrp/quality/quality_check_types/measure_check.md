@@ -119,7 +119,7 @@ Vedi anche
 
 For a complete guide on how to fill out quality alert forms, view the documentation on [quality alerts](../quality_management/quality_alerts.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/measure_check.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/measure_check.rst)
 
 ### Navigazione
 

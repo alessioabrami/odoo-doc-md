@@ -38,7 +38,7 @@ It is possible to allow or restrict the documents to which customers have access
 
 If you own multiple websites, you can make customer accounts available across **all** websites. Then, the customer only needs one account. To do so, go to Website ‣ Configuration ‣ Settings ‣ Privacy section, and enable Shared Customer Accounts.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/customer_accounts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/customer_accounts.rst)
 
 ### Navigazione
 

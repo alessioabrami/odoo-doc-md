@@ -105,7 +105,7 @@ After completing the MO, return to the order’s Transfers page by clicking the 
 
 After transferring the finished products to their storage location, click Validate at the top of the transfer, followed by Apply on the Immediate Transfer? pop-up window that appears. Doing so marks the transfer as Done, and updates inventory counts to reflect the quantity of finished products transferred.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/three_step_manufacturing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/three_step_manufacturing.rst)
 
 ### Navigazione
 

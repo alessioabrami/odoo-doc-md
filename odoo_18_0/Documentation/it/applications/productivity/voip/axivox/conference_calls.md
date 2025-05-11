@@ -71,7 +71,7 @@ Anywhere in the Odoo database, open the _VoIP_ widget, by clicking the ☎️ (p
 
 Once the digital receptionist answers, enter the Access code (if needed), and press the # (pound) icon/key.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/conference_calls.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/conference_calls.rst)
 
 ### Navigazione
 

@@ -266,7 +266,7 @@ Access more specific information by clicking the __(ellipsis) icon to the right 
 
 Additionally, annotations to the Balance Sheet can be added by choosing Annotate, filling in the text box, and clicking Save.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/inventory_valuation_config.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/inventory_valuation_config.rst)
 
 ### Navigazione
 

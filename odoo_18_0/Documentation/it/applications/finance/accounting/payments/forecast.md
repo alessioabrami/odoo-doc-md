@@ -52,7 +52,7 @@ You can get a list of all your vendor bills by going to Vendors ‣ Bills. To vi
 
 You can also group bills by their due date by clicking Group By ‣ Due Date and selecting a time period.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/payments/forecast.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/payments/forecast.rst)
 
 ### Navigazione
 

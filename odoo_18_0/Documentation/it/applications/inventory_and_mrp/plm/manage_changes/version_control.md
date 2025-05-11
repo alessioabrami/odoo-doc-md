@@ -103,7 +103,7 @@ This means `ECO0012` is modifying an outdated BoM. As shown in the Previous Eco 
 
 To ensure the changes applied by `ECO0011` are kept when the changes occur in `ECO0012`, click the Apply Rebase button to apply the previous ECO changes, without affecting the changes already made to `ECO0012`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/plm/manage_changes/version_control.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/plm/manage_changes/version_control.rst)
 
 ### Navigazione
 

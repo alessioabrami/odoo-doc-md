@@ -185,7 +185,7 @@ Example
          $ mv path/to/image-fs8.png path/to/image.png
          
 
-  5. Write a [redirect rule](https://github.com/odoo/documentation/tree/18.0/redirects/MANUAL.md) for every RST file that were renamed.
+  5. Write a [redirect rule](https://github.com/odoo/Documentation/tree/18.0/redirects/MANUAL.md) for every RST file that were renamed.
 
   6. Build the documentation with **make**. Then, open `_build/index.html` in a web browser to browse the documentation with your changes.
 
@@ -215,7 +215,7 @@ Example
 
   9. Open a PR on GitHub to submit your changes for review.
 
-     1. Go to the [compare page of the odoo/documentation codebase](https://github.com/odoo/documentation/compare).
+     1. Go to the [compare page of the odoo/documentation codebase](https://github.com/odoo/Documentation/compare).
 
      2. Select **18.0** for the base.
 
@@ -238,7 +238,7 @@ Example
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/contributing/documentation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/contributing/documentation.rst)
 
 ### Navigazione
 

@@ -54,7 +54,7 @@ In a batch transfer for 2 `Cabinet with Doors`, 3 `Acoustic Bloc Screens`, and 4
 
 `1/2` units of the `Cabinet with Doors` has already been picked, and after scanning the product barcode for the second cabinet, Odoo prompts the user to `Scan a serial number` to record the unique serial number for [product tracking](../../inventory/product_management/product_tracking/serial_numbers.html#inventory-product-management-enable-lots).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/process_transfers.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/process_transfers.rst)
 
 ### Navigazione
 

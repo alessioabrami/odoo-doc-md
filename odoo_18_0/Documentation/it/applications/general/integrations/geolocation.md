@@ -42,7 +42,7 @@ Vedi anche
 
 [Address autocomplete](../../websites/website/configuration/address_autocomplete.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/integrations/geolocation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/integrations/geolocation.rst)
 
 ### Navigazione
 

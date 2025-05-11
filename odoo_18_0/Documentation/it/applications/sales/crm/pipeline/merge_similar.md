@@ -77,7 +77,7 @@ Due dei nuovi lead provengono dalla stessa persona, `Robin`, e hanno gli stessi 
 
 Il terzo lead ha lo stesso dominio e-mail, ma l’indirizzo è diverso, così come il nome del contatto. Pur provenendo molto probabilmente dalla stessa organizzazione, questo lead proviene da un contatto diverso e non deve essere unito.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/pipeline/merge_similar.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/pipeline/merge_similar.rst)
 
 ### Navigazione
 

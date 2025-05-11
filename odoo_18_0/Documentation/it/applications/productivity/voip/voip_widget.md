@@ -147,7 +147,7 @@ If the VoIP widget is completely grayed out and cannot be interacted with, then 
 
 If the user cannot connect to their VoIP phone number, then their Odoo profile is missing their Voip Secret. To add this, click the user avatar, and then click My Profile. From here, click the VoIP tab, and then enter the user’s Voip Secret. This is the user’s password to their account for their VoIP service provider.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/voip_widget.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/voip_widget.rst)
 
 ### Navigazione
 

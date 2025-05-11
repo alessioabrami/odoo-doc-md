@@ -117,7 +117,7 @@ Per il campo Nome utente, inserisci la CHIAVE API. Per la Password, inserisci la
 
 In seguito, se il server Mailjet viene utilizzato per inviare e-mail di massa, il valore Priorità deve essere maggiore di qualsiasi server e-mail di transazione. Infine, salva le impostazioni e Prova la connessione.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/email_communication/mailjet_api.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/email_communication/mailjet_api.rst)
 
 ### Navigazione
 

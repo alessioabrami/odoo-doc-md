@@ -87,7 +87,7 @@ Vedi anche
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/tax_returns.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/tax_returns.rst)
 
 ### Navigazione
 

@@ -70,7 +70,7 @@ Puoi impostare la data del resoconto tramite il campo Data. Odoo modifica automa
 
 Una volta registrata, la colonna rettifica dovrebbe indicare `0.00`, il che significa che tutti **gli utili/perdite non realizzati** sono stati rettificati.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/foreign_currency.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/foreign_currency.rst)
 
 ### Navigazione
 

@@ -217,7 +217,7 @@ Solutions
 
 Find the solution in our Airproof example on [contact.xml](https://github.com/odoo/tutorials/blob/18.0/website_airproof/data/pages/contact.xml).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/website_theme/04_customisation_part2.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/website_theme/04_customisation_part2.rst)
 
 ### Navigazione
 

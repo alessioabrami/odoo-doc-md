@@ -183,7 +183,7 @@ Solutions
 
 Find the solution in our Airproof example on [menu.xml](https://github.com/odoo/tutorials/blob/18.0/website_airproof/data/menu.xml).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/website_theme/02_build_website.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/website_theme/02_build_website.rst)
 
 ### Navigazione
 

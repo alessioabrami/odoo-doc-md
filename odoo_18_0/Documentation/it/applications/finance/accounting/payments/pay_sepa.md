@@ -94,7 +94,7 @@ For future payments to this vendor, Odoo will automatically suggest you the bank
 
 Once your payment is registered, do not forget to confirm it. You can also pay vendor bills from the bill directly using the Register Payment button at the top of a vendor bill. The form is the same, but the payment is directly linked to the bill and will be automatically reconciled with it.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/payments/pay_sepa.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/payments/pay_sepa.rst)
 
 ### Navigazione
 

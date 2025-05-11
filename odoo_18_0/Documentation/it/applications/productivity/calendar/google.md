@@ -200,7 +200,7 @@ Ensure that the domain (used in the URI: `https://yourdbname.odoo.com/google_acc
 
 Access the `web.base.url` by activating [developer mode](../../general/developer_mode.html#developer-mode), and navigating to Settings app ‣ Technical header menu ‣ Parameters section ‣ System Parameters.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/calendar/google.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/calendar/google.rst)
 
 ### Navigazione
 

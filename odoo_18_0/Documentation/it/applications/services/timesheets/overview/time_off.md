@@ -31,7 +31,7 @@ Considering that validation is not required, the requested time off is automatic
 
 Click on the magnifying glass, hovering over the concerned cell, to access all the aggregated data on that cell (day), and see details regarding the project/task.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/timesheets/overview/time_off.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/timesheets/overview/time_off.rst)
 
 ### Navigazione
 

@@ -34,7 +34,7 @@ Avviso
 
 Questa pagina fornisce una panoramica generale sulle leggi norvegesi in materia di fatturazione elettronica e su come Odoo Fatturazione sia conforme alla norma EHF, agli standard Peppol e ad altre normative rilevanti. Non è da intendersi come consulenza legale. Ti consigliamo di consultare un consulente fiscale o un professionista legale che abbia familiarità con le normative norvegesi in materia di fatturazione elettronica per garantire una conformità adeguata alle specifiche esigenze aziendali.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/norway.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/norway.rst)
 
 ### Navigazione
 

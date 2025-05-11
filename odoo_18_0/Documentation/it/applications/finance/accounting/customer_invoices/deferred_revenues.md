@@ -195,7 +195,7 @@ Se aggreghiamo tutto, avremo:
 
 Pertanto, alla fine di dicembre, le fatture A e B sono interamente riconosciute come entrate una sola volta, nonostante tutte le scritture create grazie al meccanismo di storno.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/deferred_revenues.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/deferred_revenues.rst)
 
 ### Navigazione
 

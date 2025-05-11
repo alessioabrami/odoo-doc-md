@@ -149,7 +149,7 @@ Verifica la [Configurazione Firewall Windows](windows_iot.html#iot-windows-iot-f
 
 [Aggiorna l’immagine del sistema IoT](iot_advanced/updating_iot.html#iot-updating-iot-image-code) installando la scheda della box IoT oppure [disinstallando il programma del Windows virtual IoT](windows_iot.html#iot-windows-iot-uninstall) e [installa di nuovo](windows_iot.html#iot-windows-iot-installation) l’ultimo pacchetto per Windows **che corrisponde alla versione del tuo database**.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/iot/connect.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/iot/connect.rst)
 
 ### Navigazione
 

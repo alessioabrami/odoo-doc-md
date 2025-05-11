@@ -48,7 +48,7 @@ Odoo automatically restarts the IoT system when the Six terminal ID is configure
 
 Enable the payment terminal [in the application settings](../../configuration.html#configuration-settings) and [create the related payment method](../../payment_methods.html). Set the journal type as Bank and select SIX IOT in the Use a Payment Terminal field. Then, select your terminal device in the Payment Terminal Device field.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/six.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/six.rst)
 
 ### Navigazione
 

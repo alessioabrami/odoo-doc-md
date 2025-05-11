@@ -167,7 +167,7 @@ On the All MO # page of the **Shop Floor** module, the cards for each MO appear 
 
 Each MO requires one work order, carried out at Assembly Station 1. Clicking on the Assembly Station 1 button at the top of the screen opens the page for the work center, which displays one card for each work order, appearing in the same order as their corresponding MOs.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/shop_floor/shop_floor_overview.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/shop_floor/shop_floor_overview.rst)
 
 ### Navigazione
 

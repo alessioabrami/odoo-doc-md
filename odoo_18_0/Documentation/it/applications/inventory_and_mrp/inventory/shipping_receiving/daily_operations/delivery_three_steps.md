@@ -70,7 +70,7 @@ Click the delivery (WH/OUT) transfer to open the delivery order. Then, click Val
 
 Once the delivery order is validated, the product leaves the WH/Output location and moves to the Partners/Customers location. Then, the status of the document will change to Done.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/delivery_three_steps.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/delivery_three_steps.rst)
 
 ### Navigazione
 

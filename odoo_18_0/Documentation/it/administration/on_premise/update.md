@@ -102,7 +102,7 @@ Infine, riavvia il servizio Odoo o il dispositivo.
 
 Consulta la [documentazione immagine Docker](https://hub.docker.com/_/odoo/) per istruzioni relative ad aggiornamenti specifici.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise/update.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise/update.rst)
 
 ### Navigazione
 

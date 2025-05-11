@@ -59,7 +59,7 @@ You want to contribute to Odoo but don't know where to start? The tutorials and 
 
   * [ Coding guidelines ](contributing/development/coding_guidelines.html)
   * [ Documentation ](contributing/documentation.html)
-  * [ Content guidelines ](contributing/documentation/content_guidelines.html)
+  * [ Content guidelines ](contributing/Documentation/content_guidelines.html)
 
 
 

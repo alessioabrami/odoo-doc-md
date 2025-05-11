@@ -55,7 +55,7 @@ Example
 
 Indeed, since the compilation process acts across different interdependent bundles, re-assigning a variable in the «wrong spot» may lead to unexpected cascading results.
 
-SCSS provides several techniques to overcome these issues (e.g.: [shadowing](https://sass-lang.com/documentation/variables#shadowing)), but the most critical procedure in Odoo is the use of the `!default` flag.
+SCSS provides several techniques to overcome these issues (e.g.: [shadowing](https://sass-lang.com/Documentation/variables#shadowing)), but the most critical procedure in Odoo is the use of the `!default` flag.
 
 When using the `!default` flag, the compiler assigns a value **only** if that variable is not yet defined.
 
@@ -87,7 +87,7 @@ Example
 
 Vedi anche
 
-`!default` flag on the [SASS Documentation](https://sass-lang.com/documentation/variables#default-values)
+`!default` flag on the [SASS Documentation](https://sass-lang.com/Documentation/variables#default-values)
 
 ## Odoo’s SCSS inheritance system¶
 
@@ -120,7 +120,7 @@ Importante
 
 This diagram is incomplete and does not match the current bundles” organization. Read more on [asset bundles](../frontend/assets.html#reference-assets-bundle).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/user_interface/scss_inheritance.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/user_interface/scss_inheritance.rst)
 
 ### Navigazione
 

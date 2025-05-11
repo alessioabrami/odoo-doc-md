@@ -107,7 +107,7 @@ After a picture has been attached to a check, it can then be reviewed by quality
 
 The attached picture appears in the Picture section of the quality check form. After reviewing the picture, click the Pass button if the check passes, or the Fail button if the check fails.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/picture_check.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/picture_check.rst)
 
 ### Navigazione
 

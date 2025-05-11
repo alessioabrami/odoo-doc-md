@@ -75,7 +75,7 @@ Se il codice del termine di resa scelto è `CIF` (costo, assicurazione, nolo), l
 
 È possibile impostare una regola predefinita per popolare **automaticamente** il campo Termini di resa su tutte le nuove fatture cliente e fornitore create. Sotto Contabilità/Fatturazione ‣ Configurazione ‣ Impostazioni, scorri in basso fino alla sezione Fatture cliente e seleziona un termine di resa nel campo Termine di resa predefinito.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/incoterms.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/incoterms.rst)
 
 ### Navigazione
 

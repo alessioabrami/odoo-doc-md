@@ -250,7 +250,7 @@ Inheritance is extensively used in Odoo due to its modular concept. Do not hesit
 
 In the [next chapter](13_other_module.html), we will learn how to interact with other modules.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/12_inheritance.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/12_inheritance.rst)
 
 ### Navigazione
 

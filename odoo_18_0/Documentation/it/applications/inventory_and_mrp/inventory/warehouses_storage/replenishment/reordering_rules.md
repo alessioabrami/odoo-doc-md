@@ -431,7 +431,7 @@ _Horizon days_ determine how many days ahead Odoo checks if the forecasted quant
 
 Since horizon days are only meant to be used with manual reordering rules, find details about the feature in the [Replenishment report article](report.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/reordering_rules.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/reordering_rules.rst)
 
 ### Navigazione
 

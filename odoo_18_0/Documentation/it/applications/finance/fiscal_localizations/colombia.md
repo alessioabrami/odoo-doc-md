@@ -372,7 +372,7 @@ This certificate is issued to partners for the withholding tax that they have ma
 
 Click the __(gear) icon to display options to Download Excel and Copy to Documents.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/colombia.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/colombia.rst)
 
 ### Navigazione
 

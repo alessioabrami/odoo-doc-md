@@ -79,7 +79,7 @@ Nella sezione Il mio account gli utenti di Odoo.com possono anche accedere a:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_accounts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_accounts.rst)
 
 ### Navigazione
 

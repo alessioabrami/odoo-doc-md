@@ -110,7 +110,7 @@ Odoo is available in [two versions](https://www.odoo.com/page/editions): Odoo En
 
 Ready to start? It is now time to [write your own application](02_newapp.html)!
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/01_architecture.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/01_architecture.rst)
 
 ### Navigazione
 

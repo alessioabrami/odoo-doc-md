@@ -81,7 +81,7 @@ Suggerimento
 
 To see any open maintenance requests for a piece of equipment, go to the page for the equipment, and click the Maintenance smart button at the top of the page.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/maintenance/add_new_equipment.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/maintenance/add_new_equipment.rst)
 
 ### Navigazione
 

@@ -134,7 +134,7 @@ Now, each time an MO is created to produce a coat rack, the updated BoM is autom
 
 Using the Odoo platform, Wood Hut has implemented an end-to-end product improvement process. Since the essential elements of this process (customer feedback, quality control, etc.) are always functioning, it can be reused to continuously update products and processes.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/continuous_improvement.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/continuous_improvement.rst)
 
 ### Navigazione
 

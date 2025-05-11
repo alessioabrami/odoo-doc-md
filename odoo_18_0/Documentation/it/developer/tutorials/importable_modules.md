@@ -849,7 +849,7 @@ Nota
 
 Unlike normal Python modules, glob expansion is not supported in importable modules; so you need to list each file you want to include in the module specifically.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/importable_modules.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/importable_modules.rst)
 
 ### Navigazione
 

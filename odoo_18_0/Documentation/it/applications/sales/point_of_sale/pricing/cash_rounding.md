@@ -39,7 +39,7 @@ Nota
 
 Odoo Point of Sale only supports the Add a rounding line rounding strategy.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/cash_rounding.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/cash_rounding.rst)
 
 ### Navigazione
 

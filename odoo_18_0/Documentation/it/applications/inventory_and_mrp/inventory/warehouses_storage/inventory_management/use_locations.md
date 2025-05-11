@@ -117,7 +117,7 @@ Example
 
 A list of current stock at `Shelf 1` consists of `266` cabinets and `39` desks.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/use_locations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/use_locations.rst)
 
 ### Navigazione
 

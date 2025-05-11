@@ -88,7 +88,7 @@ The following records can be displayed in the profitability dashboard.
 > 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/project/project_management/project_profitability.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/project/project_management/project_profitability.rst)
 
 ### Navigazione
 

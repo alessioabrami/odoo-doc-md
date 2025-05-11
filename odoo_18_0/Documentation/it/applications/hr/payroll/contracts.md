@@ -237,7 +237,7 @@ Fill out the following fields on the form:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/contracts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/contracts.rst)
 
 ### Navigazione
 

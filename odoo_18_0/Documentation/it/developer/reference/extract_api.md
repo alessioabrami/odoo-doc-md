@@ -553,7 +553,7 @@ The only technical differences in test mode is that the document you send is not
 
 A python implementation of the full flow for invoices can be found [`here`](../../_downloads/76a7a8244cb31658cafdcea576c90148/implementation.py).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/extract_api.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/extract_api.rst)
 
 ### Navigazione
 

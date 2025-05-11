@@ -73,7 +73,7 @@ Importante
 
 When entering the SIP Password into the user’s Preferences tab, this value **must** be typed out manually and **not** pasted in. Pasting in causes a `401 server rejection error`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/axivox_config.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/axivox_config.rst)
 
 ### Navigazione
 

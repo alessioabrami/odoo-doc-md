@@ -128,7 +128,7 @@ Per aggiungere un gruppo a una riga o colonna nella vista pivot, fai clic sul �
 
 Fai clic su Inserisci in foglio di calcolo per aggiungere la vista pivot in un formato di foglio di calcolo modificabile all’interno dell’applicazione _Dashboard_. Se è installata l’applicazione _Odoo Documenti_ , il resoconto può essere inserito in un foglio di calcolo vuoto o esistente e poi esportato.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/performance/expected_revenue_report.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/performance/expected_revenue_report.rst)
 
 ### Navigazione
 

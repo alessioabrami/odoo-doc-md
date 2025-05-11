@@ -52,7 +52,7 @@ To view which employees received the most overtime, click __ Overtime Hours, rev
 
 In this example, it can be determined that Marc Demo worked the most overtime in August 2024, whereas Beth Evans worked the most overtime hours in September 2024. Additionally, Mitchell Admin had the largest variation change, with a -100% change from August 2024 to September 2024.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/work_entry_analysis.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/work_entry_analysis.rst)
 
 ### Navigazione
 

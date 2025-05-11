@@ -54,7 +54,7 @@ Vedi anche
 
 [Posizioni di bilancio (mappatura fiscale e contabile)](../../../finance/accounting/taxes/fiscal_positions.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/fiscal_position.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/fiscal_position.rst)
 
 ### Navigazione
 

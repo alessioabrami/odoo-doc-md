@@ -145,7 +145,7 @@ It is important to note that not every subcontracted product valuation will incl
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting.rst)
 
 ### Navigazione
 

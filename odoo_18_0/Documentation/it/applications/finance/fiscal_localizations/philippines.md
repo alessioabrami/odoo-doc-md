@@ -173,7 +173,7 @@ The Philippine check print layout follows the latest PCHC standardized format. T
 
 Checks are printed using the [standard workflow](../accounting/payments/pay_checks.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/philippines.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/philippines.rst)
 
 ### Navigazione
 

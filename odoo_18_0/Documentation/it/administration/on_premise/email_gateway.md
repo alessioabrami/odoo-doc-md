@@ -72,7 +72,7 @@ Suggerimento
 
 Se non hai accesso o non gestisci il tuo server e-mail, usa :ref:` server e-mail in entrata <email-inbound-custom-domain-incoming-server>`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise/email_gateway.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise/email_gateway.rst)
 
 ### Navigazione
 

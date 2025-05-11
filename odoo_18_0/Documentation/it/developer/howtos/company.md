@@ -221,7 +221,7 @@ This is achieved with security rules based on `company_ids`, which contain the c
     </record>
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/company.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/company.rst)
 
 ### Navigazione
 

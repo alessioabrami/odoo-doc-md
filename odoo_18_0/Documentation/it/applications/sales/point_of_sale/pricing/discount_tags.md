@@ -39,7 +39,7 @@ You first have to scan the desired product (in our case, a lemon).
 
 And then scan the discount tag. The discount will be applied and you can finish the transaction.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/discount_tags.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/discount_tags.rst)
 
 ### Navigazione
 

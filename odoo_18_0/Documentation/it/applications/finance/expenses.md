@@ -88,7 +88,7 @@ Vedi anche
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/expenses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/expenses.rst)
 
 ### Navigazione
 

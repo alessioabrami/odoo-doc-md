@@ -106,7 +106,7 @@ Nota
 
 The Odoo _Social Marketing_ app is integrated with other Odoo applications, such as _Sales_ , _Invoicing_ , _CRM_ , and _Website_.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/social_marketing/social_campaigns.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/social_marketing/social_campaigns.rst)
 
 ### Navigazione
 

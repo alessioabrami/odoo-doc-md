@@ -71,7 +71,7 @@ Suggerimento
 
 Open the [database manager](https://www.odoo.com/my/databases) to view all databases that will be linked to the single API key.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/silverfin.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/silverfin.rst)
 
 ### Navigazione
 

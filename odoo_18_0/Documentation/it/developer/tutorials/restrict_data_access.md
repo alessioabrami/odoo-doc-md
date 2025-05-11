@@ -438,7 +438,7 @@ An Odoo Application is a group of related modules covering a business area or fi
 
 For applications which would be used by most or every employees, the «application user» role might be done away with and its abilities granted to all employees directly e.g. generally all employees can submit expenses or take time off.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/restrict_data_access.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/restrict_data_access.rst)
 
 ### Navigazione
 

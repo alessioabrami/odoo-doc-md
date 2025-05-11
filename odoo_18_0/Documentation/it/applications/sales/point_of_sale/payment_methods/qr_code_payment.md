@@ -80,7 +80,7 @@ Importante
 
 Odoo does **not** check the bank payment. It is recommended that users verify payments for validity before confirming them on the POS register.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/qr_code_payment.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/qr_code_payment.rst)
 
 ### Navigazione
 

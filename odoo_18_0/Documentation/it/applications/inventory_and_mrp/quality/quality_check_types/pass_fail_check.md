@@ -93,7 +93,7 @@ Suggerimento
 
 Alternatively, instead of clicking on the step to open the pop-up window, a _Pass - Fail_ quality check can be completed by clicking the checkbox that appears on the right side of the step’s line on the work order card. When using this method, the quality check passes automatically, without a pop-up window appearing.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/pass_fail_check.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/pass_fail_check.rst)
 
 ### Navigazione
 

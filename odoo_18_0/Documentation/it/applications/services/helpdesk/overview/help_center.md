@@ -239,7 +239,7 @@ While in list view, there is a checkbox on the far-left of the screen, above the
 
 With all the course content selected, click any of the boxes in the Is Published column. This reveals a pop-up window, asking for confirmation that all selected records are intended to be published. Click Confirm to automatically publish all course content.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/helpdesk/overview/help_center.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/helpdesk/overview/help_center.rst)
 
 ### Navigazione
 

@@ -501,7 +501,7 @@ The `__getitem__` of a recordset has been defined and accessing a dynamic field 
 
 The above method is obviously still too optimistic and additional verifications on the record id and field value must be done.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/security.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/security.rst)
 
 ### Navigazione
 

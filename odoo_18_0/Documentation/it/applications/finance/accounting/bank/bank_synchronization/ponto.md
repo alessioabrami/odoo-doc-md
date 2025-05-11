@@ -105,7 +105,7 @@ Importante
 
 L’utilizzo di un’istituzione in fase beta è vantaggioso per Ponto, in quanto consente di avere un feedback reale sulla connessione con l’istituzione.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/bank_synchronization/ponto.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/bank_synchronization/ponto.rst)
 
 ### Navigazione
 

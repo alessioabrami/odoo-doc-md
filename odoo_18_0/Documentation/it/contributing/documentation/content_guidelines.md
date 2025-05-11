@@ -304,7 +304,7 @@ Vedi anche
 
 [RST cheat sheet: images](rst_guidelines.html#contributing-rst-images)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/contributing/documentation/content_guidelines.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/contributing/Documentation/content_guidelines.rst)
 
 ### Navigazione
 

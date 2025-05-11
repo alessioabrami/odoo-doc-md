@@ -310,7 +310,7 @@
 
 #### [Upgrade a customized databaseLearn how to upgrade a customized database, as well as the code and data of its custom modules. ](howtos/upgrade_custom_db.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos.rst)
 
 ### Navigazione
 

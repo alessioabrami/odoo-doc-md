@@ -92,7 +92,7 @@ Solutions
 
 Find the solution in our Airproof example on [presets.xml](https://github.com/odoo/tutorials/blob/18.0/website_airproof/data/presets.xml), [website_sale_templates.xml](https://github.com/odoo/tutorials/blob/18.0/website_airproof/views/website_sale_templates.xml) part _product page_ , and [product_page.scss](https://github.com/odoo/tutorials/blob/18.0/website_airproof/static/src/scss/pages/product_page.scss).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/website_theme/05_dynamic_templates.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/website_theme/05_dynamic_templates.rst)
 
 ### Navigazione
 

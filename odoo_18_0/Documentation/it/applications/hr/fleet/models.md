@@ -155,7 +155,7 @@ Nota
 
 When used with the **Inventory** app, the Max Weight and Max Volume fields track a vehicle’s capacity. This helps manage in-house deliveries by [showing how much space and weight remain for loading products](../../inventory_and_mrp/inventory/shipping_receiving/setup_configuration/dispatch.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/fleet/models.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/fleet/models.rst)
 
 ### Navigazione
 

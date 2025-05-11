@@ -138,7 +138,7 @@ Avvertimento
 
 **Do not** enable the production environment for a shipping method before it is ready to be used for actual shipping orders. Doing so may lead to the creation of unwanted charges with FedEx.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/fedex.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/fedex.rst)
 
 ### Navigazione
 

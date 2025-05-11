@@ -57,7 +57,7 @@ To dismiss an alert, click the __(remove) icon on the far-right side of the aler
 
 This prevents the alert from appearing again, even when opening the _Referrals_ application for the first time in a new session.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/referrals/alerts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/referrals/alerts.rst)
 
 ### Navigazione
 

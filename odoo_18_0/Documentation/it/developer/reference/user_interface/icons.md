@@ -124,7 +124,7 @@ __`oi-arrow-up-left`
 
 __`oi-arrow-up-right`
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/user_interface/icons.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/user_interface/icons.rst)
 
 ### Navigazione
 

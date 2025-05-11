@@ -73,7 +73,7 @@ Vedi anche
 
 [Note di credito e rimborsi](../../../finance/accounting/customer_invoices/credit_notes.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/products_prices/returns.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/products_prices/returns.rst)
 
 ### Navigazione
 

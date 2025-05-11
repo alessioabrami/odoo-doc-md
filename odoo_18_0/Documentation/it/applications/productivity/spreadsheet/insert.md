@@ -60,7 +60,7 @@ Using Refresh all data only updates existing pivot cells. If new cells need to b
 
 > To change which records are [used by the pivot](../../essentials/search.html#search-preconfigured-filters), right-click on a pivot cell, select See pivot properties, and click Edit domain.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/spreadsheet/insert.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/spreadsheet/insert.rst)
 
 ### Navigazione
 

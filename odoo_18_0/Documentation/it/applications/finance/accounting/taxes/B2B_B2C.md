@@ -129,7 +129,7 @@ Il listino prezzi si trova nella scheda **Vendite e acquisti** del modulo client
 
 Nota che ciò è soggetto a errori: se imposti una posizione di bilancio con tasse incluse nei prezzi, ma utilizzi un listino prezzi che non è incluso, è possibile che vengano calcolati prezzi errati. Per questo motivo, di solito consigliamo alle aziende di lavorare con un solo riferimento di prezzo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/taxes/B2B_B2C.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/taxes/B2B_B2C.rst)
 
 ### Navigazione
 

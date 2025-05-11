@@ -187,7 +187,7 @@ Vedi anche
 
 [Fatture basate su quantità ordinate o consegnate](invoicing_policy.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/invoicing/down_payment.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/invoicing/down_payment.rst)
 
 ### Navigazione
 

@@ -135,7 +135,7 @@ At the storage location for apples, `WH/Stock/Shelf A`, assign the apples in all
 
 Record this in Odoo using the Destination Package field in the Detailed Operations tab.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/picking_methods/cluster.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/picking_methods/cluster.rst)
 
 ### Navigazione
 

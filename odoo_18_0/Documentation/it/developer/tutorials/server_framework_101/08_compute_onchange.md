@@ -245,7 +245,7 @@ When using stored computed fields, pay close attention to the dependencies. When
 
 In the [next chapter](09_actions.html), we’ll see how we can trigger some business logic when buttons are clicked.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/08_compute_onchange.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/08_compute_onchange.rst)
 
 ### Navigazione
 

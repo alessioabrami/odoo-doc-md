@@ -91,7 +91,7 @@ Nell’app Odoo **Vendite** , i preventivi possono includere dettagli e configur
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/sales_quotations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/sales_quotations.rst)
 
 ### Navigazione
 

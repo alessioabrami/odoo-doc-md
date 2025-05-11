@@ -103,7 +103,7 @@ Dopo aver apportato tutte le modifiche necessarie alla pagina, fai clic su Salva
 
 Ripeti gli step per tutti i partner.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/track_leads/resellers.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/track_leads/resellers.rst)
 
 ### Navigazione
 

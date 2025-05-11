@@ -83,7 +83,7 @@ After assigning products to a quantity within a delivery order, or components to
 
 After clicking Assign All or Assign, the Print Labels or Print Label button to the right of either button becomes selectable. Selecting either button generates and downloads a PDF document with one label for each product that was assigned. These labels are used to designate each product as being reserved for that specific order.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/reporting/allocation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/reporting/allocation.rst)
 
 ### Navigazione
 

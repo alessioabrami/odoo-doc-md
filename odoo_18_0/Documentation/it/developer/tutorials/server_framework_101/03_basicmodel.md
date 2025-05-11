@@ -297,7 +297,7 @@ it is possible to [disable the automatic creation of some fields](../../referenc
 
 writing raw SQL queries is possible, but requires caution as this bypasses all Odoo authentication and security mechanisms.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/03_basicmodel.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/03_basicmodel.rst)
 
 ### Navigazione
 

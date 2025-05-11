@@ -136,7 +136,7 @@ To view the follow-up report for all customers at once, go to Accounting ‣ Rep
 
 Click PDF or XLSX to generate a PDF or XLSX file, respectively.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/payments/follow_up.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/payments/follow_up.rst)
 
 ### Navigazione
 

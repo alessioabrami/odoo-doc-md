@@ -179,7 +179,7 @@ After an employee is archived, they are no longer visible on the main **Employee
 
 Now, only archived employees appear on the dashboard. Click on the desired employee to open their employee form. On this form, click the __(gear) icon in the top-left corner, then click Send HR Documents Access Link from the resulting drop-down menu. The chatter logs that the link was sent.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/employees/offboarding.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/employees/offboarding.rst)
 
 ### Navigazione
 

@@ -65,7 +65,7 @@ On the PoS interface, a new button appears. Use it to select a pricelist.
 
 Click on it to instantly update the prices with the selected pricelist. Then, you can finalize the order.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/discounts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/discounts.rst)
 
 ### Navigazione
 

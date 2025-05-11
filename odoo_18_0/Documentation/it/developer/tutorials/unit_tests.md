@@ -287,7 +287,7 @@ Suggerimento
 
 Tip: remember the note about `Form` a little bit above.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/unit_tests.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/unit_tests.rst)
 
 ### Navigazione
 

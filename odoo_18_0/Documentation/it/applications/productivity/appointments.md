@@ -141,7 +141,7 @@ When an appointment is ready to publish, click the Go to Website smart button at
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/appointments.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/appointments.rst)
 
 ### Navigazione
 

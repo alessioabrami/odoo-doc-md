@@ -106,7 +106,7 @@ To the far-left of the view options, there is the Measures drop-down menu. When 
 
 Also, in the upper-right corner of the Link Statistics page, to the far-right of the search bar, there are additional view options to choose from: the default Graph view, the Pivot table view, and the List view.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/marketing_automation/understanding_metrics.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/marketing_automation/understanding_metrics.rst)
 
 ### Navigazione
 

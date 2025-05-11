@@ -59,7 +59,7 @@ From the new RFQ form, click Send by Email to compose and send an email to the l
 
 After confirming the order, return to the purchase template via the breadcrumbs. The __ RFQs/Orders smart button has been updated to list the confirmed order.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/manage_deals/purchase_templates.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/manage_deals/purchase_templates.rst)
 
 ### Navigazione
 

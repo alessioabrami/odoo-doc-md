@@ -104,7 +104,7 @@ Vedi anche
 
 [Odoo Tutorial: Inventory Valuation](https://www.odoo.com/slides/slide/2795/share)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/using_inventory_valuation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/using_inventory_valuation.rst)
 
 ### Navigazione
 

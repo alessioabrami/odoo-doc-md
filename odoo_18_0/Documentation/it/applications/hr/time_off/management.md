@@ -100,7 +100,7 @@ Depending on the rights of the user, changes can be made to the allocation reque
 
 It is also possible to approve or refuse the request from this form. Click the Validate button to approve, or the Refuse button to refuse the request.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/time_off/management.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/time_off/management.rst)
 
 ### Navigazione
 

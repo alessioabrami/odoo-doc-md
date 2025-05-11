@@ -758,7 +758,7 @@ Importante
 
 the visibility conditions option functional. Even if an element is hidden on desktop, the Website Builder displays a list of these elements allowing the end-user to force show the element and edit it without switching between mobile and desktop mode.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/layout.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/layout.rst)
 
 ### Navigazione
 

@@ -146,7 +146,7 @@ Suggerimento
 
 Use [Plausible](website/reporting/analytics.html#analytics-plausible) to keep track of the traffic on your blog.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/blog.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/blog.rst)
 
 ### Navigazione
 

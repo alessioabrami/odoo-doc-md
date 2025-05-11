@@ -61,7 +61,7 @@ To select **only** approved expense reports, adjust the filters on the left side
 
 Next, click the Post Entries button.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/expenses/post_expenses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/expenses/post_expenses.rst)
 
 ### Navigazione
 

@@ -133,7 +133,7 @@ For additional verification, the quantities of received products are also record
 
 The items on the Product Moves report are grouped by product by default. To confirm the received quantities, click on a product line to open its collapsible drop-down menu, which displays a list of _stock move lines_ for the product. The latest stock move matches the warehouse reception reference number (e.g. `WH/IN/00013`) and quantity processed in the barcode scan, demonstrating that the records processed in the _Barcode_ app were properly stored in _Inventory_.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/gs1_usage.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/gs1_usage.rst)
 
 ### Navigazione
 

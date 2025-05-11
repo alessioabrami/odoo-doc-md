@@ -587,7 +587,7 @@ Vedi anche
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/framework_overview.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/framework_overview.rst)
 
 ### Navigazione
 

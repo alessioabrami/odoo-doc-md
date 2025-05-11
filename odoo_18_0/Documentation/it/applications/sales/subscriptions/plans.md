@@ -78,7 +78,7 @@ From the Sales dashboard, click New to create a new quotation. Then, select a su
 
 All subscription orders will appear on the Subscriptions dashboard regardless of whether they were created in the _Subscriptions_ app or the _Sales_ app.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/subscriptions/plans.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/subscriptions/plans.rst)
 
 ### Navigazione
 

@@ -58,7 +58,7 @@ As soon as you click a table, the number of guests is automatically set to one. 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/restaurant.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/restaurant.rst)
 
 ### Navigazione
 

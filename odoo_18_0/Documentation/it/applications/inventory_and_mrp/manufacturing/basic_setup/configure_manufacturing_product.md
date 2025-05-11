@@ -55,7 +55,7 @@ Scopri di più
 
 The section above provides instructions for creating a basic BoM that allows a product to be manufactured in Odoo. However, it is by no means an exhaustive summary of all the options available when configuring a BoM. For more information about bills of materials, see the documentation on how to [create a bill of materials](bill_configuration.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/configure_manufacturing_product.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/configure_manufacturing_product.rst)
 
 ### Navigazione
 

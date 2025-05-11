@@ -171,7 +171,7 @@ Tip: Add the `invoice_line_ids` at creation following the example above. For eac
 
 This chapter might be one of the most difficult that has been covered so far, but it is the closest to what Odoo development will be in practice. In the [next chapter](14_qwebintro.html), we will introduce the templating mechanism used in Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/13_other_module.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/13_other_module.rst)
 
 ### Navigazione
 

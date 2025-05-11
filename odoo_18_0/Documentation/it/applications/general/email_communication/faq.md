@@ -249,7 +249,7 @@ Per le **e-mail in uscita** : fornisci l’EML/MSG dell’e-mail o specifica il 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/email_communication/faq.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/email_communication/faq.rst)
 
 ### Navigazione
 

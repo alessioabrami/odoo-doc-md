@@ -222,7 +222,7 @@ Vedi anche
 
 [Discount types](../../sales/sales/products_prices/prices/discounts.html#sales-discounts-discount-button)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/jordan.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/jordan.rst)
 
 ### Navigazione
 

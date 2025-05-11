@@ -122,7 +122,7 @@ Setting the API mode to Production is **irreversible**.
 
 The sales journals initially linked to the simulation portal now needs to be linked to the regular portal. To do so, onboard the journals again, ensuring to use the regular [Fatoora portal](https://fatoora.zatca.gov.sa/) this time.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/saudi_arabia.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/saudi_arabia.rst)
 
 ### Navigazione
 

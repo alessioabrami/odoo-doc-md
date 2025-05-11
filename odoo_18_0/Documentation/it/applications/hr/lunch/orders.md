@@ -139,7 +139,7 @@ Entries with a negative figure listed in the Amount column represent products pu
 
 Entries with a positive balance either represent funds added to the user’s lunch account, or cancelled orders that were eventually refunded to the user. These appear in a `$XX.XX` format.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/lunch/orders.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/lunch/orders.rst)
 
 ### Navigazione
 

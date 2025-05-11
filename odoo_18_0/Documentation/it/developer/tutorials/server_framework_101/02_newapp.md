@@ -77,7 +77,7 @@ You can even install the module! But obviously it’s an empty shell, so no menu
 
 All good? If yes, then let’s [create our first model](03_basicmodel.html)!
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/02_newapp.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/02_newapp.rst)
 
 ### Navigazione
 

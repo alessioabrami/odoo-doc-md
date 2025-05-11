@@ -123,7 +123,7 @@ Odoo’s flexible framework enables businesses to tailor workflows to match spec
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations.rst)
 
 ### Navigazione
 

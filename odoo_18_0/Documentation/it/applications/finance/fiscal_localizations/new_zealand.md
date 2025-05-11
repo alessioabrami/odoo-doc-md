@@ -24,7 +24,7 @@ Importante
 
 To [configure the Employment Hero API](employment_hero.html#employment-hero-configuration) for **New Zealand** , use the following value as Payroll URL: `https://api.nzpayroll.co.nz/`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/new_zealand.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/new_zealand.rst)
 
 ### Navigazione
 

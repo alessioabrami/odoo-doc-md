@@ -109,7 +109,7 @@ Inserisci l”indirizzo e-mail Microsoft e fai clic su Avanti. Segui il processo
 
 Infine, dopo aver effettuato l’accesso all’account, la pagina reindirizzerà a una pagina di autorizzazioni in cui verrà richiesto all’utente di Accettare le condizioni di accesso dell’applicazione Odoo alle sue informazioni Microsoft.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/users/azure.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/users/azure.rst)
 
 ### Navigazione
 

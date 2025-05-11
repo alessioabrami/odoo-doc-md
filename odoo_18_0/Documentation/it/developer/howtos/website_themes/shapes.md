@@ -251,7 +251,7 @@ In your XML pages, you can use your shape in the same way as the others.
 
 You can also redefine colors using the `data-oe-shape-data attribute`, but this is optional.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/shapes.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/shapes.rst)
 
 ### Navigazione
 

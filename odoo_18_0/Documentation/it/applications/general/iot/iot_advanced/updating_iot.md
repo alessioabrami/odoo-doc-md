@@ -95,7 +95,7 @@ Nota
 
 L’aggiornamento del gestore viene eseguito automaticamente ogni volta che il sistema IoT viene riavviato a meno che non venga disattivata l’opzione Aggiornamento driver automatico nella scheda Informazioni tecniche nel [modulo del sistema IoT](../connect.html#iot-connect-iot-form) in Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/iot/iot_advanced/updating_iot.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/iot/iot_advanced/updating_iot.rst)
 
 ### Navigazione
 

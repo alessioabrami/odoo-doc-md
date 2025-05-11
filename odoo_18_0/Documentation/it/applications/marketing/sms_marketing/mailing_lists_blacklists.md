@@ -84,7 +84,7 @@ During a software/platform migration, it is possible to import an already existi
 
 To do that, navigate to SMS Marketing app ‣ Configuration ‣ Blacklisted Phone Numbers, and then select the Favorites drop-down menu (beneath the search bar), and click Import records.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/sms_marketing/mailing_lists_blacklists.rst)
 
 ### Navigazione
 

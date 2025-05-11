@@ -201,7 +201,7 @@ In questo modo, viene visualizzata una Bozza fattura cliente con il prodotto del
 
 Per completare il processo di fatturazione, fai clic su Conferma per confermare la fattura, poi fai clic su Registra pagamento nel modulo pop-up Registra pagamento.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/invoicing/time_materials.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/invoicing/time_materials.rst)
 
 ### Navigazione
 

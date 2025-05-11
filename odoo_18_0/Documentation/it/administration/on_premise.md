@@ -159,7 +159,7 @@ Per risolvere il problema puoi:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise.rst)
 
 ### Navigazione
 

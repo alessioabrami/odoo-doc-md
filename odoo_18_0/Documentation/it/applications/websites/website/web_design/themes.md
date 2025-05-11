@@ -124,7 +124,7 @@ You can define custom Small and Large sizes for the buttons” Padding, Font Siz
 
 In the Link section, click on Link Style to choose the appearance of links on your website. Select No Underline, Underline On Hover, or Always Underline in the dropdown menu.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/web_design/themes.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/web_design/themes.rst)
 
 ### Navigazione
 

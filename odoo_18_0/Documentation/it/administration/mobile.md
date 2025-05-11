@@ -70,7 +70,7 @@ L’app iOS non può essere aggiornata e verrà deprecata in futuro.
 
 Le app dello store supportano più account ma non sono compatibili con l’autenticazione SSO.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/mobile.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/mobile.rst)
 
 ### Navigazione
 

@@ -99,7 +99,7 @@ After the quotation is sent to the customer, and confirmed into a sales order (S
 
 For example, if the product’s UoM on the SO was changed to `Box of 6`, but its inventory unit of measure is `Units`, the SO shows the quantity in boxes of six, and the delivery shows the quantity in units.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/uom.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/uom.rst)
 
 ### Navigazione
 

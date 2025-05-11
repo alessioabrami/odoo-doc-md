@@ -21,7 +21,7 @@ Odoo _Repairs_ assists companies in creating and processing repairs for damaged 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/repairs.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/repairs.rst)
 
 ### Navigazione
 

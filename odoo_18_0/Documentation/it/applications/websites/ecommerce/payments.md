@@ -49,7 +49,7 @@ Vedi anche
 
 [Use eWallets and gift cards](../../sales/sales/products_prices/ewallets_giftcards.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/payments.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/payments.rst)
 
 ### Navigazione
 

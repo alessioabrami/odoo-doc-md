@@ -80,7 +80,7 @@ Vedi anche
 
 [Nomi di dominio](domain_names.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/google_search_console.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/google_search_console.rst)
 
 ### Navigazione
 

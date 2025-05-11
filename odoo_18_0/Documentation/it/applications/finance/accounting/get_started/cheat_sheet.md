@@ -176,7 +176,7 @@ Account | Dare | Avere | Riconciliazione | Estratto conto bancario
 Conto di credito |  | 100 | Fattura ABC |   
 Banca | 100 |  |  | Dichiarazione XYZ  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/get_started/cheat_sheet.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/get_started/cheat_sheet.rst)
 
 ### Navigazione
 

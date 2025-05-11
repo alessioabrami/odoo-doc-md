@@ -1732,7 +1732,7 @@ Ritorna
 
 a generator that iterates over the result of `fmt` applied to each chunk
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/upgrades/upgrade_utils.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/upgrades/upgrade_utils.rst)
 
 ### Navigazione
 

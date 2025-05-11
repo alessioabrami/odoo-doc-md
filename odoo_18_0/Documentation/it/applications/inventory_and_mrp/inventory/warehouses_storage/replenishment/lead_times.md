@@ -273,7 +273,7 @@ The customer places an order for a manufactured product on September 1st, and th
 
 Odoo’s replenishment planning maps a business” order fulfillment process, setting pre-determined deadlines and raw material order dates, including buffer days for potential delays. This ensures products are delivered on time.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/lead_times.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/lead_times.rst)
 
 ### Navigazione
 

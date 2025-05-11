@@ -342,7 +342,7 @@ To complete this exercise, you need to:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/website_theme/03_customisation_part1.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/website_theme/03_customisation_part1.rst)
 
 ### Navigazione
 

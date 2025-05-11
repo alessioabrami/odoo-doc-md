@@ -63,12 +63,12 @@ It is mainly Odoo employees who develop new features for the codebase and write 
     * [Coding guidelines](contributing/development/coding_guidelines.html)
     * [Git guidelines](contributing/development/git_guidelines.html)
   * [Documentation](contributing/documentation.html)
-    * [Content guidelines](contributing/documentation/content_guidelines.html)
-    * [RST guidelines and cheat sheet](contributing/documentation/rst_guidelines.html)
+    * [Content guidelines](contributing/Documentation/content_guidelines.html)
+    * [RST guidelines and cheat sheet](contributing/Documentation/rst_guidelines.html)
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/contributing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/contributing.rst)
 
 ### Navigazione
 

@@ -136,7 +136,7 @@ Drag-and-drop the applicant’s card to the Contract Signed stage from the Kanba
 
 At any point in the recruitment process, a candidate can be [refused](refuse_applicant.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/recruitment-flow.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/recruitment-flow.rst)
 
 ### Navigazione
 

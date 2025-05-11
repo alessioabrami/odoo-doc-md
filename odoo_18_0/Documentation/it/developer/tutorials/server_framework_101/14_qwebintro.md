@@ -114,7 +114,7 @@ Refer to the **Goal** of the section for a visual example.
 
 Kanban views are a typical example of how it is always a good idea to start from an existing view and fine tune it instead of starting from scratch. There are many options and classes available, so… read and learn!
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/14_qwebintro.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/14_qwebintro.rst)
 
 ### Navigazione
 

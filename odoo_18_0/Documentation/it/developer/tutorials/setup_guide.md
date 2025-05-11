@@ -292,7 +292,7 @@ q(uit)¶
 
 Quit the debugger. The program being executed is aborted.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/setup_guide.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/setup_guide.rst)
 
 ### Navigazione
 

@@ -169,7 +169,7 @@ This slight modification only presents services in the New and Running stages. T
 
 To have this report appear as the default report when opening the Services dashboard, click the __(down arrow) icon at the far-right of the search bar. Next, click Save current search, beneath the __ Favorites column, which reveals another drop-down column beneath it. Tick the checkbox beside Default Filter, then click Save. Then, this customized Services dashboard appears, by default, anytime the Services dashboard is accessed.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/fleet/accidents.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/fleet/accidents.rst)
 
 ### Navigazione
 

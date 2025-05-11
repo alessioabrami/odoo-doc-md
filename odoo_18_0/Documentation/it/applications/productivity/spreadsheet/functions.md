@@ -447,7 +447,7 @@ Name and arguments | Description or link
 ---|---  
 HYPERLINK(url, [link_label]) | [Excel HYPERLINK article](https://support.microsoft.com/office/hyperlink-function-333c7ce6-c5ae-4164-9c47-7de9b76f577f)  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/spreadsheet/functions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/spreadsheet/functions.rst)
 
 ### Navigazione
 

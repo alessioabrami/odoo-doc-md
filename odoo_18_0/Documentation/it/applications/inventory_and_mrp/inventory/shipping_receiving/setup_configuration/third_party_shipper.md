@@ -231,7 +231,7 @@ Logs are created for a shipping method each time the Get Rate button is clicked 
 
 Click the _HTTP request_ line item to open a detailed page, and verify the correct information is sent from Odoo to the shipping carrier. In the _HTTP response_ , verify that the same information is received.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/third_party_shipper.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/third_party_shipper.rst)
 
 ### Navigazione
 

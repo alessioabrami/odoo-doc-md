@@ -66,7 +66,7 @@ Nota
 
 Fai clic sul campo Icona app per aprire una finestra per caricare un file. Da qui, seleziona e carica un’icona per l’app.
 
-Nel campo Eliminazione dati utente, inserisci `https://www.odoo.com/documentation/17.0/administration/odoo_accounts.html`.
+Nel campo Eliminazione dati utente, inserisci `https://www.odoo.com/Documentation/17.0/administration/odoo_accounts.html`.
 
 Nota
 
@@ -102,7 +102,7 @@ Dopo aver eseguito l’accesso con successo, accedi all’app Impostazioni ‣ U
 
 Nel campo ID client, inserisci l’ID app dalla sezione precedente e poi spunta la casella Consentito.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/users/facebook.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/users/facebook.rst)
 
 ### Navigazione
 

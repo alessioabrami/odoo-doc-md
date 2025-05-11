@@ -60,7 +60,7 @@ From this report, several things can be extrapolated: the total number of applic
 
 Additionally, Jane Jobs had the highest increase in number of applicants during the third quarter, but her number of hired applicants went down 67%. The recruiter with the best overall numbers was Rose Recruiter, who had both their active applicants and hired applicants, increase in the third quarter, while their refused applicants went down.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/team_performance.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/team_performance.rst)
 
 ### Navigazione
 

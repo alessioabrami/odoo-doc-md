@@ -22,7 +22,7 @@ To access your statistics, go to Point of Sale ‣ Reporting ‣ Orders. Or, fro
 
 These statistics are available in a graph or pivot view that you can filter or group depending on your needs.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/reporting.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/reporting.rst)
 
 ### Navigazione
 

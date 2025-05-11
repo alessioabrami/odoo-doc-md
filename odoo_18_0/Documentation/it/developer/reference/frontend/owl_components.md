@@ -841,7 +841,7 @@ In the next example, a TagsList component is used to display multiple tags. Itâ€
 
 Depending the attributes given to each tag, their appearance and behavior will differ.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/owl_components.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/owl_components.rst)
 
 ### Navigazione
 

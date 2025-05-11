@@ -90,7 +90,7 @@ To move an alert to a different stage, simply drag and drop it on the desired st
 
 To create a new alert within a specific stage, click the \+ (plus) button to the right of the stage name. In the new alert card that appears below the stage title, enter the Title of the alert, and then click Add. To configure the rest of the alert, select the alert card to open its form.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_management/quality_alerts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_management/quality_alerts.rst)
 
 ### Navigazione
 

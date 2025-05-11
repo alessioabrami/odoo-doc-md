@@ -785,7 +785,7 @@ Nota
 
 Only a download of the report in `.txt` format is available. There is no preview or visualization available within Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/peru.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/peru.rst)
 
 ### Navigazione
 

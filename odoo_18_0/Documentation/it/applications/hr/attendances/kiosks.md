@@ -139,7 +139,7 @@ When checking out, Goodbye (Employee) appears, as well as the date and time of c
 
 Beneath both the «welcome» and «goodbye» messages is an OK button. To exit the screen before the preset time in the kiosk, tap the OK button.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/attendances/kiosks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/attendances/kiosks.rst)
 
 ### Navigazione
 

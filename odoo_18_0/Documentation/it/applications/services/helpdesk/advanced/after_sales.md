@@ -209,7 +209,7 @@ Vedi anche
 
 [Field Service](https://www.odoo.com/slides/slide/advanced-settings-862?fullscreen=1)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/helpdesk/advanced/after_sales.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/helpdesk/advanced/after_sales.rst)
 
 ### Navigazione
 

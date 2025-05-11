@@ -111,7 +111,7 @@ Le righe vengono riconciliate in modo silenzioso, a meno che non sia richiesta u
 
 Utilizza un pulsante [modello di riconciliazione](reconciliation_models.html) per le operazioni manuali utilizzate di frequente. Questi pulsanti personalizzati ti consentono di riconciliare rapidamente e manualmente le transazioni bancarie anche in combinazione con registrazioni esistenti.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/reconciliation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/reconciliation.rst)
 
 ### Navigazione
 

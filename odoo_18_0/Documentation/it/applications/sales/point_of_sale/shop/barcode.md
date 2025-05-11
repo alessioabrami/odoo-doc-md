@@ -56,7 +56,7 @@ You can also enter the barcode number manually in the search bar to look for the
 
 You can also use a barcode scanner to log your employees. To do so, [restrict access](../employee_login.html#employee-login-configuration) to the POS and [use barcodes to log your employees in](../employee_login.html#employee-login-badge) your POS.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/shop/barcode.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/shop/barcode.rst)
 
 ### Navigazione
 

@@ -36,7 +36,7 @@ Upon checkout or when paying a bill online, you can choose the payment outcome w
 
 If you selected Pending as **payment outcome** , you can change the state of the transaction straight from its form view. To access a transaction’s form view, activate the [developer mode](../../general/developer_mode.html#developer-mode), and go to Accounting / Website ‣ Configuration ‣ Payment Transactions. Then, change the status of a transaction by clicking on the state bar (Draft, Pending, Authorized, Confirmed, Cancelled, Error).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/payment_providers/demo.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/payment_providers/demo.rst)
 
 ### Navigazione
 

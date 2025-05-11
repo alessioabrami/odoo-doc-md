@@ -114,7 +114,7 @@ SQL constraints are usually more efficient than Python constraints. When perform
 
 Our real estate module is starting to look good. We added some business logic, and now we make sure the data is consistent. However, the user interface is still a bit rough. Let’s see how we can improve it in the [next chapter](11_sprinkles.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/10_constraints.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/10_constraints.rst)
 
 ### Navigazione
 

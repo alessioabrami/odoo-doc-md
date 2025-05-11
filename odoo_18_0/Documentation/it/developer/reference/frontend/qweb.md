@@ -963,7 +963,7 @@ it is similar in that to [Genshi](https://genshi.edgewall.org/), although it doe
 
 although it uses a few others, either for historical reasons or because they remain better fits for the use case. Odoo 9.0 still depends on [Jinja](http://jinja.pocoo.org/) and [Mako](https://www.makotemplates.org/).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/qweb.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/qweb.rst)
 
 ### Navigazione
 

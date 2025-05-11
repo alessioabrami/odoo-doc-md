@@ -78,7 +78,7 @@ I movimenti contabili Conto di ricavo vs. Conto di ricavo sono neutre, ma sono n
 
 Si consiglia di utilizzare un Conto imposte imponibili ricevute predefinito, in modo che il saldo sia pari a zero e il conto di ricavo non sia inquinato da movimenti contabili non necessari. A tal fine, accedi al menu Configurazione ‣ Impostazioni ‣ Imposte e seleziona un Conto imposte imponibili ricevute sotto Per cassa.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/taxes/cash_basis.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/taxes/cash_basis.rst)
 
 ### Navigazione
 

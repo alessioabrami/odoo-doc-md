@@ -65,7 +65,7 @@ After clicking Plan, the work order is rescheduled at Alternative Assembly Line.
 
 Once the time-off period for the unavailable work center ends, Odoo recognizes the work center is available again. At this point, clicking the Plan button does not route work orders to an alternative work center unless the first one is at capacity.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/work_center_time_off.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/work_center_time_off.rst)
 
 ### Navigazione
 

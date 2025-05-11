@@ -51,7 +51,7 @@ Avviso
 
 Questa pagina fornisce una panoramica generale sulle leggi cilene in materia di fatturazione elettronica e su come il modulo di fatturazione di Odoo supporta la conformità con le norme dello SII. Non è da intendersi come consulenza legale. Ti consigliamo di consultare un consulente fiscale o un professionista legale che abbia familiarità con le normative cilene in materia di fatturazione elettronica per garantire una conformità adeguata alle specifiche esigenze aziendali.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/chile.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/chile.rst)
 
 ### Navigazione
 

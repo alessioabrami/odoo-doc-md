@@ -413,7 +413,7 @@ Finally, let’s add a feature to the `Card` component, to make it more interest
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/discover_js_framework/01_owl_components.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/discover_js_framework/01_owl_components.rst)
 
 ### Navigazione
 

@@ -219,7 +219,7 @@ Use switchAccount to switch from one account to another on the device.
     mobile.methods.switchAccount();
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/mobile.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/mobile.rst)
 
 ### Navigazione
 

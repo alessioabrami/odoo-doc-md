@@ -70,7 +70,7 @@ Nota
 
 The terminal must have at least a 10% battery level to use it.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/razorpay.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/razorpay.rst)
 
 ### Navigazione
 

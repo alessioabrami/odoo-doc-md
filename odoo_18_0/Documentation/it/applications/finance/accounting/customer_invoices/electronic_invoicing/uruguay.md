@@ -49,7 +49,7 @@ Avviso
 
 Questa pagina fornisce una panoramica generale sulle leggi uruguaiane in materia di fatturazione elettronica e su come Odoo supporta la conformità con i requisiti del DGI. Non è da intendersi come consulenza legale. Ti consigliamo di consultare un consulente fiscale o un professionista legale che abbia familiarità con le normative uruguaiane in materia di fatturazione elettronica per garantire una conformità adeguata alle specifiche esigenze aziendali.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/uruguay.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/uruguay.rst)
 
 ### Navigazione
 

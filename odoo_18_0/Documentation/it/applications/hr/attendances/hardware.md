@@ -87,7 +87,7 @@ Nota
 
 An IoT box is **not** required to use RFID key fobs.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/attendances/hardware.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/attendances/hardware.rst)
 
 ### Navigazione
 

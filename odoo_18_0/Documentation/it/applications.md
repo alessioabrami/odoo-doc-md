@@ -107,7 +107,7 @@ Scopri le nostre guide utente e i tutorial di configurazione per ogni applicazio
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications.rst)
 
 ### Navigazione
 

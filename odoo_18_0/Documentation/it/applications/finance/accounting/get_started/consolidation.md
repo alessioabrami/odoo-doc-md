@@ -124,7 +124,7 @@ Third, to reimport the file (xlsx or csv format) in Odoo, click Import and, in t
 
 Finally, the codes now take into account the mapping company per company.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/get_started/consolidation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/get_started/consolidation.rst)
 
 ### Navigazione
 

@@ -233,7 +233,7 @@ To create this report, go to Reporting ‣ Work Orders and click to remove the _
 
 In this case, the day shift has on average taken more than the expected time to produce products (-6.50%) while the night shift took less than the expected time (15.00%).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/advanced_configuration/using_work_centers.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/advanced_configuration/using_work_centers.rst)
 
 ### Navigazione
 

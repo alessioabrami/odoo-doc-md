@@ -756,7 +756,7 @@ Nota
 
 When downloading the ATS report, Odoo generates a warning pop-up alerting the user if a document(s) has missing or incorrect data. Nevertheless, the XML file can still be downloaded.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/ecuador.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/ecuador.rst)
 
 ### Navigazione
 

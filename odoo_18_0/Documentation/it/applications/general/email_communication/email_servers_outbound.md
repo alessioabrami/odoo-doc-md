@@ -253,7 +253,7 @@ Avvertimento
 
 Se un **indirizzo completo** viene utilizzato come valore del campo Predefinito dall’alias, **tutte** le e-mail in uscita verranno sostituite da questo indirizzo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/email_communication/email_servers_outbound.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/email_communication/email_servers_outbound.rst)
 
 ### Navigazione
 

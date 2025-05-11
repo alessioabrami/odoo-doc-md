@@ -234,7 +234,7 @@ La modalità Società di contabilità può essere attivata andando su Contabilit
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting.rst)
 
 ### Navigazione
 

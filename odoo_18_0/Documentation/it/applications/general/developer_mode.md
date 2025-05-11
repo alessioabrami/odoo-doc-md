@@ -49,7 +49,7 @@ Una volta attivata la modalità sviluppatore, è possibile accedere agli strumen
 
 Gli amministratori del database possono accedere al menu tecnico dall’applicazione Impostazioni. Il menu contiene impostazioni avanzate relative al database come quelle legate a struttura, sicurezza, azioni, ecc.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/developer_mode.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/developer_mode.rst)
 
 ### Navigazione
 

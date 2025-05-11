@@ -147,7 +147,7 @@ Each report line refers to a single invoice line and contains the following info
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/intrastat.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/intrastat.rst)
 
 ### Navigazione
 

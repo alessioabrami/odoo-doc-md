@@ -287,7 +287,7 @@ L’azione viene utilizzata per attivare più azioni (collegate al modello attua
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/studio/automated_actions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/studio/automated_actions.rst)
 
 ### Navigazione
 

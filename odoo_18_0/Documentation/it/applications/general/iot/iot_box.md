@@ -91,7 +91,7 @@ L’indirizzo IP della box IoT può essere recuperato:
 
 Una volta [collegata la box IoT al database Odoo](connect.html), è possibile accedere alla pagina principale da Odoo aprendo l’app IoT e facendo clic sull’URL mostrato sulla scheda della box IoT.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/iot/iot_box.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/iot/iot_box.rst)
 
 ### Navigazione
 

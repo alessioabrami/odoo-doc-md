@@ -223,7 +223,7 @@ It’s important to make sure that if there are exports to other countries, use 
 
 It’s a message that appears when there’s an error in Envia. This message mentions what went wrong in their platform so it can be addressed.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/envia_shipping.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/envia_shipping.rst)
 
 ### Navigazione
 

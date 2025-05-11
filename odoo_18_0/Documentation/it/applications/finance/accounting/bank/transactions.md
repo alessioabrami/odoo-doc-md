@@ -116,7 +116,7 @@ Nota
 
 Quando generi un estratto conto per la stampa, quest’ultimo viene aggiunto automaticamente agli Allegati.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/transactions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/transactions.rst)
 
 ### Navigazione
 

@@ -137,7 +137,7 @@ Nota
 
 The order number can be found at the top of the customer’s receipt.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/preparation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/preparation.rst)
 
 ### Navigazione
 

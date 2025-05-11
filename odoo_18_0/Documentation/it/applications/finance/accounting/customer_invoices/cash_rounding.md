@@ -42,7 +42,7 @@ Odoo supporta due **strategie di arrotondamento** :
 
 Quando modifichi una fattura in bozza, apri la scheda _Altre informazioni_ , vai alla sezione _Informazioni contabili_ e seleziona il _Metodo arrotondamento di cassa_ appropriato.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/cash_rounding.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/cash_rounding.rst)
 
 ### Navigazione
 

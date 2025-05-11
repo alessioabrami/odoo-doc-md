@@ -147,7 +147,7 @@ Once manufacturing is finished, and the MO is marked as _Done_ , the MO overview
 
 On the putting green’s product page, the Cost field now displays a cost of `$67.50`, the average of the original cost of $65.00 and the real cost of $70.00 from the MO.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/mo_costs.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/basic_setup/mo_costs.rst)
 
 ### Navigazione
 

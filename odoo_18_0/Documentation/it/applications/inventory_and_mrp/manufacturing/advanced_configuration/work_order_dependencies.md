@@ -65,7 +65,7 @@ To see a visual representation of how work orders are planned, navigate to the W
 
 If one work order is blocked by the completion of another, the work order that is blocked is shown as scheduled to start after the work order blocking it. In addition, an arrow connects the two work orders, leading from the blocking operation to the blocked operation.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/advanced_configuration/work_order_dependencies.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/advanced_configuration/work_order_dependencies.rst)
 
 ### Navigazione
 

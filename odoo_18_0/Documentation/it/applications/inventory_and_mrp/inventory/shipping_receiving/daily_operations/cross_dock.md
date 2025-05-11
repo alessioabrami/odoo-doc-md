@@ -48,7 +48,7 @@ When the products have been received from the supplier, you can go back to your 
 
 The delivery order is now ready to be processed and can be validated too.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/cross_dock.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/cross_dock.rst)
 
 ### Navigazione
 

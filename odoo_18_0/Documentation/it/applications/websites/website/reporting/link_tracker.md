@@ -56,7 +56,7 @@ To measure the performance of tracked links, click the Stats button.
 
 Scroll down to the Statistics section to get an overview of the number of clicks of your tracked links. You can display information for a specific period by clicking the All Time, Last Month, or Last Week options.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/reporting/link_tracker.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/reporting/link_tracker.rst)
 
 ### Navigazione
 

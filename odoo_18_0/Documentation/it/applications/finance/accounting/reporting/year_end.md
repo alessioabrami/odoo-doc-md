@@ -114,7 +114,7 @@ Nota
 
 A specific year-end closing entry is **optional** in order to close out the **profit and loss statement**. The reports are created in real-time, meaning that the profit and loss statement corresponds directly with the year-end date specified in Odoo. Therefore, any time the **income statement** is generated, the beginning date corresponds with the beginning of the **fiscal year** and all account balances should equal zero.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/year_end.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/year_end.rst)
 
 ### Navigazione
 

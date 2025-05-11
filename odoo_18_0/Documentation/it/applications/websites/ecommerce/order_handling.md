@@ -100,7 +100,7 @@ The final step of an ecommerce order is to generate the invoice and send it to t
 
 To automate invoicing, go to Website ‣ Configuration ‣ Settings and in the Invoicing section, enable Automatic Invoice.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/order_handling.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/order_handling.rst)
 
 ### Navigazione
 

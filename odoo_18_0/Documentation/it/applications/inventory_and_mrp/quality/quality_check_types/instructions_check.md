@@ -61,7 +61,7 @@ Nota
 
 For a full guide to the _Shop Floor_ module, see the [Shop Floor overview](../../manufacturing/shop_floor/shop_floor_overview.html#manufacturing-shop-floor-shop-floor-overview) documentation.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/instructions_check.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_check_types/instructions_check.rst)
 
 ### Navigazione
 

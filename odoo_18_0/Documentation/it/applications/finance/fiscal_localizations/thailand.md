@@ -129,7 +129,7 @@ When creating a new invoice, open the Other Info tab and set the Payment QR-code
 
 Ensure that the Recipient Bank is the one you configured, as Odoo uses this field to generate the PromptPay QR code.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/thailand.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/thailand.rst)
 
 ### Navigazione
 

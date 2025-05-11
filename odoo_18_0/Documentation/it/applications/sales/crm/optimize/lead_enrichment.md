@@ -79,7 +79,7 @@ Importante
 
 Quando raccogli le informazioni di contatto di un’azienda, assicurati di conoscere le norme europee più recenti. Per maggiori informazioni sul Regolamento generale sulla protezione dei dati, consulta la pagina [Odoo GDPR](http://odoo.com/gdpr).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/optimize/lead_enrichment.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/optimize/lead_enrichment.rst)
 
 ### Navigazione
 

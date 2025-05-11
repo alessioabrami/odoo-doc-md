@@ -87,7 +87,7 @@ La mappatura dei partner consente di stabilire regole per abbinare automaticamen
 
 Per creare una regola mappatura partner, apri la scheda Mappatura partner e riempi i campi Trova testo in etichetta, Trova testo nelle note e Partner.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/bank/reconciliation_models.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/bank/reconciliation_models.rst)
 
 ### Navigazione
 

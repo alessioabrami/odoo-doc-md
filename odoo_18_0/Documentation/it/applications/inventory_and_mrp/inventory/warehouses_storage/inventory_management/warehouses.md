@@ -72,7 +72,7 @@ Vedi anche
 
 [Use inventory adjustments to add stock to new warehouses](count_products.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/warehouses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/warehouses.rst)
 
 ### Navigazione
 

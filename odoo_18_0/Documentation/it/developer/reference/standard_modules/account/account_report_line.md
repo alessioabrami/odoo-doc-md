@@ -147,7 +147,7 @@ Hide if Zero
 
 This line and its children will be hidden when all of their columns are 0.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/standard_modules/account/account_report_line.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/standard_modules/account/account_report_line.rst)
 
 ### Navigazione
 

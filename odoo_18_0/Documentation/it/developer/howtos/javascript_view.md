@@ -262,7 +262,7 @@ The role of the arch parser is to parse the arch view so the view has access to 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/javascript_view.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/javascript_view.rst)
 
 ### Navigazione
 

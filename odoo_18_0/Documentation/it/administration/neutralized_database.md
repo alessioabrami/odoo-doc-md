@@ -58,7 +58,7 @@ Nota
 
 **Il database neutralizzato viene visualizzato con un banner rosso nella parte superiore dello schermo, in modo da essere immediatamente visibile.**
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/neutralized_database.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/neutralized_database.rst)
 
 ### Navigazione
 

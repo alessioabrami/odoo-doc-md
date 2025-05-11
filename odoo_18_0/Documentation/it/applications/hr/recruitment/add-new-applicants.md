@@ -126,7 +126,7 @@ Any additional details or notes that should be added to the applicant’s card c
 
 Skills can be added to the applicant’s card. For details on adding skills, refer to the [Create new employees](../employees/new_employee.html#employees-skills) document.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/add-new-applicants.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/add-new-applicants.rst)
 
 ### Navigazione
 

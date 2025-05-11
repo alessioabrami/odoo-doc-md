@@ -232,7 +232,7 @@ Vedi anche
 
 [Cycle counts](cycle_counts.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/count_products.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/count_products.rst)
 
 ### Navigazione
 

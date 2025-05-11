@@ -62,7 +62,7 @@ Some of Spreadsheet’s main UI elements are highlighted and defined below.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/spreadsheet.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/spreadsheet.rst)
 
 ### Navigazione
 

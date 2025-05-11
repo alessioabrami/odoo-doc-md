@@ -77,7 +77,7 @@ Vedi anche
 
 [Varianti prodotto](../products_prices/products/variants.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/sales_quotations/orders_and_variants.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/sales_quotations/orders_and_variants.rst)
 
 ### Navigazione
 

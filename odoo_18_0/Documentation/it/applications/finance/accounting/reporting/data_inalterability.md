@@ -82,7 +82,7 @@ The report’s first section is an overview of all journal sequence prefixes con
 
 The second section gives a more detailed result of the data consistency check for each hashed journal sequence prefix. You can view the first hashed entry and its corresponding hash, as well as the last hashed entry and its corresponding hash.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/data_inalterability.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/data_inalterability.rst)
 
 ### Navigazione
 

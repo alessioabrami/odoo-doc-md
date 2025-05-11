@@ -2224,7 +2224,7 @@ Default
 documentation
     
 
-The [path](https://en.wikipedia.org/wiki/Path_\(computing\)) to the documentation on the setting. If set, a clickable icon is displayed next to the setting label. The path can be both an absolute or a [relative path](https://en.wikipedia.org/wiki/URL). In the latter case, it is relative to `https://www.odoo.com/documentation/<version>`.
+The [path](https://en.wikipedia.org/wiki/Path_\(computing\)) to the documentation on the setting. If set, a clickable icon is displayed next to the setting label. The path can be both an absolute or a [relative path](https://en.wikipedia.org/wiki/URL). In the latter case, it is relative to `https://www.odoo.com/Documentation/<version>`.
 
 Requirement
     
@@ -6719,7 +6719,7 @@ For example here is a map:
     </map>
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/user_interface/view_architectures.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/user_interface/view_architectures.rst)
 
 ### Navigazione
 

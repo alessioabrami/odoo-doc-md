@@ -258,7 +258,7 @@ Importante
 
 To confirm your printer’s connection is secure, connect to its IP address using HTTPS. For example, navigate to `https://192.168.1.25` in your browser. If the SSL certificate has been applied correctly, you should no longer see a warning page, and the address bar should display a padlock icon, indicating that the connection is secure.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/configuration/epos_ssc.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/configuration/epos_ssc.rst)
 
 ### Navigazione
 

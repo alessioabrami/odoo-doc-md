@@ -1111,7 +1111,7 @@ You can find concrete examples of integration in the following models:
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/mixins.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/mixins.rst)
 
 ### Navigazione
 

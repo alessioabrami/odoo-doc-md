@@ -57,7 +57,7 @@ Finally, the last project in chapter 4 is about customizing an existing view (a 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework.rst)
 
 ### Navigazione
 

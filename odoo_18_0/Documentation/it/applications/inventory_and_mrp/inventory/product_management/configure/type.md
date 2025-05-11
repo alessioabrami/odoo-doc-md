@@ -220,7 +220,7 @@ These reports are only available to users with [administrator access](../../../.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/type.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/type.rst)
 
 ### Navigazione
 

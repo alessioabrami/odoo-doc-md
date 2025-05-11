@@ -73,7 +73,7 @@ Importante
 
 Products appear in the product catalog, and can be added to orders, even if there are zero units of the product on hand. As a result, it is important to confirm the quantity of a product being added to an order is actually available, or inventory inconsistencies may arise.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/product_catalog.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/product_catalog.rst)
 
 ### Navigazione
 

@@ -241,7 +241,7 @@ Use the following code to add an option for your new custom mega menu on the Web
     </template>
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/navigation.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/navigation.rst)
 
 ### Navigazione
 

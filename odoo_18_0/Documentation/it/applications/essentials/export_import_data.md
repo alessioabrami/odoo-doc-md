@@ -430,7 +430,7 @@ Pericolo
 
 Durante l’aggiornamento dei dati, è estremamente importante che l” _ID esterno_ sia coerente poiché serve al sistema per identificare un record. Se un ID viene alterato o eliminato, il sistema potrebbe aggiungere un record duplicato invece di aggiornare quello esistente.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/essentials/export_import_data.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/essentials/export_import_data.rst)
 
 ### Navigazione
 

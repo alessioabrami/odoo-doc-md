@@ -452,7 +452,7 @@ Vedi anche
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework/02_create_gallery_view.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/master_odoo_web_framework/02_create_gallery_view.rst)
 
 ### Navigazione
 

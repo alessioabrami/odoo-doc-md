@@ -597,7 +597,7 @@ Should the system user be an Employee when setting up the permanent token, a use
 
 To correct this error, create an Admin system user, following the process outlined here: Permanent token.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/whatsapp.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/whatsapp.rst)
 
 ### Navigazione
 

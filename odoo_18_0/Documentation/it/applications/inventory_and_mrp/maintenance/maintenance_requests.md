@@ -75,7 +75,7 @@ Successful maintenance requests should be moved to the Repaired stage, indicatin
 
 Failed maintenance requests should be moved to the Scrap stage, indicating the specified piece of equipment, or work center, could not be repaired, and must instead be scrapped.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/maintenance/maintenance_requests.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/maintenance/maintenance_requests.rst)
 
 ### Navigazione
 

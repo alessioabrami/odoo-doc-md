@@ -28,7 +28,7 @@ With approvals, key stakeholders can review changes before implementation.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/plm.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/plm.rst)
 
 ### Navigazione
 

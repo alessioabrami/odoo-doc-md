@@ -136,7 +136,7 @@ Each website has its own [analytics](../reporting/analytics.html#analytics-plaus
 
 Other reporting data such as eCommerce dashboard data, online sales analyses and visitors can be grouped by website if necessary. Open the search panel and select Group by –> Website.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/multi_website.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/multi_website.rst)
 
 ### Navigazione
 

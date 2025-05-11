@@ -37,7 +37,7 @@ Nota
 
 If you select a customer with a default pricelist, it will be applied. You can of course change it.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/loyalty.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/pricing/loyalty.rst)
 
 ### Navigazione
 

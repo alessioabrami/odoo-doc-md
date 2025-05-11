@@ -304,7 +304,7 @@ Vedi anche
 
 [Talks, proposals, and agenda](track_manage_talks.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/events/create_events.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/events/create_events.rst)
 
 ### Navigazione
 

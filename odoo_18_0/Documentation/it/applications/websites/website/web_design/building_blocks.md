@@ -113,7 +113,7 @@ You can customize building block elements for the mobile view without impacting 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks.rst)
 
 ### Navigazione
 

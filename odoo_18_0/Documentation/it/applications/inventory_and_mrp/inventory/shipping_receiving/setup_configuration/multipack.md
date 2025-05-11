@@ -60,7 +60,7 @@ Once the remaining items are ready to be shipped, navigate to the backorder deli
 
 It is also possible to ship out some of the items while creating another backorder for the rest. To do so, simply follow the same steps used to create the first backorder.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/multipack.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/multipack.rst)
 
 ### Navigazione
 

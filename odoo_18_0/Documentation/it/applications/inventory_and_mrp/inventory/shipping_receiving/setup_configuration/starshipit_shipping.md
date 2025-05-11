@@ -208,7 +208,7 @@ This can be done by clicking the Return smart button on the intended delivery or
 
 If a delivery order is cancelled in Odoo, it will be automatically archived in Starshipit. However, the cancellation will not be sent to the courier itself, so make sure to log onto the courier’s platform to handle the cancellation manually.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/starshipit_shipping.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/starshipit_shipping.rst)
 
 ### Navigazione
 

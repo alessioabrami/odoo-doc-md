@@ -241,7 +241,7 @@ Una volta al giorno, un cron controlla se sono stati inviati nuovi documenti att
 
 Se vuoi recuperare i documenti Peppol in entrata prima che venga eseguito il cron, puoi farlo dalla dashboard dell’app Contabilità sul registro acquisti Peppol principale configurato nelle impostazioni. È sufficiente fare clic su Recupera da Peppol.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing.rst)
 
 ### Navigazione
 

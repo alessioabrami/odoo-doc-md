@@ -90,7 +90,7 @@ Inside of the SMS Templates dashboard, Odoo reveals an entire page of SMS templa
 
 On this page, SMS templates can be edited or created from scratch.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/sms_marketing/marketing_campaigns.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/sms_marketing/marketing_campaigns.rst)
 
 ### Navigazione
 

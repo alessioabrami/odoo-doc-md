@@ -432,7 +432,7 @@ At this point, clicking on the stat button should display all offers. We still n
 
 Looking good? If not, don’t worry, the [next chapter](12_inheritance.html) doesn’t require stat buttons ;-)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/11_sprinkles.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/11_sprinkles.rst)
 
 ### Navigazione
 

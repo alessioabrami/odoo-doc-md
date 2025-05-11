@@ -139,7 +139,7 @@ In the product form, switch to the Inventory tab. In the Packaging section that 
 
 In the Routes field, select the packaging-specific route. Repeat these steps for all packaging intended to use the route.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/packaging.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/packaging.rst)
 
 ### Navigazione
 

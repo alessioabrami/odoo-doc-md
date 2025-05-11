@@ -132,7 +132,7 @@ A sales order for the product at the shop is created. To replenish the product a
 
 The final delivery order is from the shop to the customer’s delivery address, and is not pertinent to the workflow in this guide.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/resupply_warehouses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/warehouses_storage/replenishment/resupply_warehouses.rst)
 
 ### Navigazione
 

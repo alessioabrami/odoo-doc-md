@@ -104,7 +104,7 @@ I record individuali vengono condivisi tra tutte le aziende oppure appartengono 
 
 Alcune personalizzazioni, in particolare per i resoconti in PDF, si applicano a tutte le aziende. Non è sempre possibile separare i resoconti per le singole aziende.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/multi_company.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/multi_company.rst)
 
 ### Navigazione
 

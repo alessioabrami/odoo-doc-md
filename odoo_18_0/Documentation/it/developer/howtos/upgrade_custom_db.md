@@ -261,7 +261,7 @@ In addition to that, make a full rehearsal of the upgrade process the day before
 
 Once you are confident about upgrading your production database, follow the process described on [Aggiornare il database di produzione](../../administration/upgrade.html#upgrade-production), depending on the hosting type of your database.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/upgrade_custom_db.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/upgrade_custom_db.rst)
 
 ### Navigazione
 

@@ -179,7 +179,7 @@ Vedi anche
 
 [Live chat channel rules](../livechat.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/livechat/chatbots.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/livechat/chatbots.rst)
 
 ### Navigazione
 

@@ -19,7 +19,7 @@ If you need to interface with common Odoo features such as the chatter, you can 
 
 To learn and play with mixins, visit [this repository](https://github.com/tivisse/odoodays-2018/). This module for a plant nursery is training material developed for the OXP 2018. You don’t need to code it on your side. But you can check the presentations in the `/static/pdf` directory and play with the module to discover some magic features in Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/mixins.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/mixins.rst)
 
 ### Navigazione
 

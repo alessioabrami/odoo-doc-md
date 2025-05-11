@@ -99,7 +99,7 @@ Puoi consultare la [documentazione git-scm.com](https://git-scm.com/book/en/v2/G
 
 Se stai aggiungendo un registro che contiene molti moduli, forse vorrai ignorarne alcuni in caso ve ne siano alcuni installati automaticamente. Per farlo, puoi aggiungere un prefisso alla cartella del modulo secondario con un `.`. La piattaforma ignorerà la cartella e puoi gestire la scelta dei moduli creando collegamenti simbolici da un’altra cartella.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/advanced/submodules.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/advanced/submodules.rst)
 
 ### Navigazione
 

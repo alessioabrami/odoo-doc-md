@@ -119,7 +119,7 @@ To locate these journal entries, navigate to Accounting app ‣ Accounting ‣ J
 
 Click into the journal entry to view the Journal Items, and other information about the entry.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/landed_costs.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/inventory_valuation/landed_costs.rst)
 
 ### Navigazione
 

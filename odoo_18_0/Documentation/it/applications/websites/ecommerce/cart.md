@@ -88,7 +88,7 @@ Alternatively, you can enable the Buy Now button directly from a product page by
 
 Customers have the possibility to **re-order** items from **previous sales orders** on the customer portal. To do so, go to Website ‣ Configuration ‣ Settings ‣ Shop - Checkout Process and enable Re-order From Portal. Customers can find the Order Again button on their **sales order** from the **customer portal**.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/cart.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/cart.rst)
 
 ### Navigazione
 

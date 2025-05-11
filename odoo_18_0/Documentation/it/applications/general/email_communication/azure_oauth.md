@@ -221,7 +221,7 @@ Configurazione server e-mail in uscita con più utenti:
 
 L’account in entrata deve avere le stesse impostazioni dell’account in uscita. Apri la sezione Server e-mail in entrata nelle Funzioni tecniche e Crea una nuova configurazione. Spunta o seleziona il pulsante accanto a Autenticazione OAuth Outlook e inserisci il nome utente Microsoft Outlook. Fai clic su Collega account Outlook. Comparirà il messaggio: Token Outlook valido Ora Prova e conferma l’account. L’account sarà pronto per ricevere e-mail nel database Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/email_communication/azure_oauth.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/email_communication/azure_oauth.rst)
 
 ### Navigazione
 

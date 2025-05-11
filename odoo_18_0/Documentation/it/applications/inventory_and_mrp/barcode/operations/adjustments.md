@@ -119,7 +119,7 @@ The Validate barcode can be scanned in place of clicking the Apply button.
 
 Odoo then navigates back to the Barcode Scanning screen. A small green banner appears in the top-right corner, confirming the inventory count has been updated.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/adjustments.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/adjustments.rst)
 
 ### Navigazione
 

@@ -89,7 +89,7 @@ Manually folding a stage from the Kanban view is temporary and does **not** clos
 
 Make a selection in the Helpdesk Teams field on the Stages form. More than one team may be selected, since the same stage can be assigned to multiple teams.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/helpdesk/overview/stages.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/helpdesk/overview/stages.rst)
 
 ### Navigazione
 

@@ -108,7 +108,7 @@ The expenses are listed in the SO Order Lines tab.
 
 Next, click Create Invoice, and a Create invoices pop-up window appears. Select if the invoice is a Regular invoice, a Down payment (percentage), or a Down payment (fixed amount). Then, click Create Draft Invoice. Doing so creates a draft invoice for the customer. Click Confirm to confirm the invoice, and the customer is invoiced for the expenses.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/expenses/reinvoice_expenses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/expenses/reinvoice_expenses.rst)
 
 ### Navigazione
 

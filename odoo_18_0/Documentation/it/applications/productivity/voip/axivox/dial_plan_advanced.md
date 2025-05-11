@@ -304,7 +304,7 @@ Then, select or create a dial plan. Next, click Visual Editor on the desired dia
 
 On the Dialplan Editor pop-up window that appears, click on the New element drop-down menu, and select Multi-Switch. Then, click Add. Double-click on the element to further configure the Switch element.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/dial_plan_advanced.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/dial_plan_advanced.rst)
 
 ### Navigazione
 

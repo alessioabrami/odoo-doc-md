@@ -301,7 +301,7 @@ If you are new to Odoo development, we recommend starting with the [setup guide]
 
 #### [Define module dataDefine master and demo data for an Odoo module, leveraging the strengths of the CSV and XML file formats to accommodate specific data requirements. Beginner](tutorials/define_module_data.html)#### [Restrict access to dataImplement security measures to restrict access to sensitive data with the help of groups, access rights, and record rules. Beginner](tutorials/restrict_data_access.html)#### [Safeguard your code with unit testsWrite effective unit tests in Python to ensure the resilience of your code and safeguard it against unexpected behaviors and regressions. Beginner](tutorials/unit_tests.html)#### [Write importable modulesWrite modules that define new models, fields and logic using only data files. ](tutorials/importable_modules.html)#### [Reuse code with mixinsCreate mixins to code features once and reuse them in multiple models. ](tutorials/mixins.html)#### [Build PDF reportsUse QWeb, Odoo’s powerful templating engine, to create custom PDF reports for your documents. ](tutorials/pdf_reports.html)#### [Build a website themeCreate a tailored website from scratch fully integrated with Odoo and editable via the Website Builder. ](tutorials/website_theme.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials.rst)
 
 ### Navigazione
 

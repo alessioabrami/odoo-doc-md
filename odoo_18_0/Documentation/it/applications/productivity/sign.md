@@ -335,7 +335,7 @@ The size of the fields can also be changed by editing the Default Width and Defa
 
 Next, write a Tip. Tips are displayed inside arrows on the left-hand side of the user’s screen during the signing process to help them understand what the step entails (e.g., «Sign here» or “Fill in your birthdate”). You can also use a Placeholder text to be displayed inside the field before it is completed.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/sign.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/sign.rst)
 
 ### Navigazione
 

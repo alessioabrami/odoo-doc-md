@@ -474,7 +474,7 @@ This section determines how employees sign in to either the **Attendances** or *
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/employees/new_employee.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/employees/new_employee.rst)
 
 ### Navigazione
 

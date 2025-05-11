@@ -92,7 +92,7 @@ Clicking any track on the calendar takes the attendee to that specific track’s
 
 If an attendee wishes to favorite a track, they can click the __(empty bell) icon, located to the right of the track title. Attendees will know a track has been favorited when they notice the icon has been changed to __(filled bell) icon.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/events/track_manage_talks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/events/track_manage_talks.rst)
 
 ### Navigazione
 

@@ -148,7 +148,7 @@ Vedi anche
 
 [Hover effect options](https://github.com/odoo/odoo/blob/c272c49657e8b7865bb93e5f1dcc183cc7d44f17/addons/website/views/snippets/snippets.xml#L694)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/animations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/animations.rst)
 
 ### Navigazione
 

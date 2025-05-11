@@ -232,7 +232,7 @@ Successivamente, per il campo Valore, aggiungi i domini separati da virgole. __(
 
 Quando crei un nuovo alias, appare un’opzione per attivare il Rilevamento dell’arrivo di una parte locale. Se selezionata, Odoo richiede solo la corrispondenza della parte locale per instradare un’e-mail in arrivo. Se questa funzione è disattivata, Odoo richiede la corrispondenza dell’intero indirizzo e-mail per instradare un’e-mail in arrivo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/email_communication/email_servers_inbound.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/email_communication/email_servers_inbound.rst)
 
 ### Navigazione
 

@@ -156,7 +156,7 @@ Increase the icon size (fa-2x, fa-3x, fa-4x, or fa-5x classes).
     <span class="fa fa-2x fa-picture-o"/>
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/media.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/media.rst)
 
 ### Navigazione
 

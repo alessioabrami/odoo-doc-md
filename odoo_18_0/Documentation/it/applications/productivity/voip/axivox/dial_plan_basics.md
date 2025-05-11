@@ -174,7 +174,7 @@ Vedi anche
 
 This setup does **not** include any basic or advanced call routing. For more information on call routing, reference this documentation: [Advanced dial plans](dial_plan_advanced.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/dial_plan_basics.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/dial_plan_basics.rst)
 
 ### Navigazione
 

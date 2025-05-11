@@ -55,7 +55,7 @@ Enter a name in the Product Category field. If the category is company-specific 
 
 If desired, add a photo for the category. Hover over the image box in the top-right, and click the __(pencil) icon that appears. This opens a file explorer pop-up window. Navigate to the image, then click Open.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/lunch/products.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/lunch/products.rst)
 
 ### Navigazione
 

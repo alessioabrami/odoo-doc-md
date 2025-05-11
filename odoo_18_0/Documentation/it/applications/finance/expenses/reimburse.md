@@ -96,7 +96,7 @@ Vedi anche
 
 Refer to the [Payslips](../../hr/payroll/payslips.html) documentation for more information about processing paychecks.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/expenses/reimburse.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/expenses/reimburse.rst)
 
 ### Navigazione
 

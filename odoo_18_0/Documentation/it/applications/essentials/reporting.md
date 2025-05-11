@@ -94,7 +94,7 @@ Per i grafici **a linee** , è possibile utilizzare l’opzione cumulativa per s
 
 Cumulative line chartRegular line chart
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/essentials/reporting.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/essentials/reporting.rst)
 
 ### Navigazione
 

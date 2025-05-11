@@ -151,7 +151,7 @@ Nota
 
 For security purposes, only authenticated employee emails are accepted by Odoo when creating an expense from an email. To confirm an authenticated employee email address, go to the employee card in the Employees app, and refer to the Work Email field.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/expenses/log_expenses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/expenses/log_expenses.rst)
 
 ### Navigazione
 

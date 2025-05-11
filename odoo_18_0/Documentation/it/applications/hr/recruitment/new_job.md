@@ -99,7 +99,7 @@ The option Search More… only appears if there are any interview forms already 
 
 Proceed to fill out the modal interview form as a typical survey. For specific directions on how to create a survey, refer to the [survey essentials](../../marketing/surveys/create.html) document, which provides step-by-step instructions on how to create and configure a survey.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/new_job.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/new_job.rst)
 
 ### Navigazione
 

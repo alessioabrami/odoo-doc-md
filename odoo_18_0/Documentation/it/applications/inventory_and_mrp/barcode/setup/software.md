@@ -86,7 +86,7 @@ Barcodes can be assigned to locations to track of where products are stored and 
 
 To print barcodes for locations, go to Inventory app ‣ Configuration ‣ Settings, scroll down to the Warehouse section and click __ Locations. Tick the boxes for locations and the Print button will appear, downloading a PDF with barcodes for all selected locations.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/setup/software.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/setup/software.rst)
 
 ### Navigazione
 

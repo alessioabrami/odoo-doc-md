@@ -138,7 +138,7 @@ Suggerimento
 
 To **mass edit** several entries simultaneously, go to Accounting ‣ Accounting ‣ Journal items, and select the ones that need to be updated. Add the required distribution in the Analytic Distribution column, and click on the floppy disk icon to save. The analytic distribution template pops up, and you can save it for later use.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/analytic_accounting.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/analytic_accounting.rst)
 
 ### Navigazione
 

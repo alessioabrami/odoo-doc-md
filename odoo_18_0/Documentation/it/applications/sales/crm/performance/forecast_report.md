@@ -77,7 +77,7 @@ Vedi anche
 
 Per salvare questo resoconto come _preferito_ , consulta la sezione [Preferiti](../../../essentials/search.html#search-favorites).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/performance/forecast_report.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/performance/forecast_report.rst)
 
 ### Navigazione
 

@@ -181,7 +181,7 @@ Everything created on the back end needs to be published from the front end. Unp
 
 You must be on your website’s front end to publish your content. To do so, click on the Go To Website smart button, and tick the Publish option available in the right-hand corner.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/elearning.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/elearning.rst)
 
 ### Navigazione
 

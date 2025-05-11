@@ -55,7 +55,7 @@ Vedi anche
 
 [Tutorial Odoo: Studio](https://www.odoo.com/slides/studio-31)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/studio.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/studio.rst)
 
 ### Navigazione
 

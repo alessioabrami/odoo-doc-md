@@ -34,7 +34,7 @@ Avviso
 
 Questa pagina fornisce una panoramica delle leggi sulla fatturazione elettronica vigenti nel Paese Basco e di come Odoo Fatturazione supporta la conformità alla Ley de Facturación Electrónica, alla e-Factura Euskadi, al sistema TicketBAI e alla piattaforma FACe. Non è da intendersi come consulenza legale. Ti consigliamo di consultare un consulente fiscale o un professionista legale che abbia familiarità con le normative sulla fatturazione elettronica nel Paese Basco per garantire la conformità con le tue specifiche esigenze aziendali.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/basque_country.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/electronic_invoicing/basque_country.rst)
 
 ### Navigazione
 

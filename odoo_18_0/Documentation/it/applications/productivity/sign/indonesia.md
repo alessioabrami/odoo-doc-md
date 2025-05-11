@@ -77,7 +77,7 @@ The information provided on this page is for general informational purposes only
 
 _Last updated: June 19, 2024_
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/sign/indonesia.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/sign/indonesia.rst)
 
 ### Navigazione
 

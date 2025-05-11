@@ -80,7 +80,7 @@ To manage the reordering rules for a single product, navigate to that product pa
 
 To manage all reordering rules for every product, go to Inventory app ‣ Operations ‣ Replenishment. From this dashboard, typical bulk actions in Odoo can be performed such as exporting data or archiving rules that are no longer needed. As well, the Filters, Group By or triple-dotted menu on the form are available to search for and/or organize the reordering rules as desired.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/products/reordering.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/purchase/products/reordering.rst)
 
 ### Navigazione
 

@@ -236,7 +236,7 @@ Nota
 
 Ensure the Recipient Bank is configured, as Odoo uses this field to generate QR codes.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/vietnam.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/vietnam.rst)
 
 ### Navigazione
 

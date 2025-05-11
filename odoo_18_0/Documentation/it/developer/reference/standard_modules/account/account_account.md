@@ -133,7 +133,7 @@ Comodel
 
 Optional tags you may want to assign for custom reporting
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/standard_modules/account/account_account.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/standard_modules/account/account_account.rst)
 
 ### Navigazione
 

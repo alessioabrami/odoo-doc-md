@@ -58,7 +58,7 @@ Once a property field is deleted, you cannot retrieve it.
 
 To hide the property sidebar panel, click the gear (⚙) button.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/knowledge/properties.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/knowledge/properties.rst)
 
 ### Navigazione
 

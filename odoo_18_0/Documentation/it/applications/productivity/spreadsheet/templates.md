@@ -61,7 +61,7 @@ Suggerimento
 
 Use the download button under the Spreadsheet file column to export a template in JSON format. The file can be imported into another database.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/spreadsheet/templates.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/spreadsheet/templates.rst)
 
 ### Navigazione
 

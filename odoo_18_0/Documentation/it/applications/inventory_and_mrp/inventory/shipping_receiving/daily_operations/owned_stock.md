@@ -82,7 +82,7 @@ To see forecasted units of consignment stock, go to Inventory ‣ Reporting ‣ 
 
 View the Stock On Hand dashboard by navigating to Inventory ‣ Reporting ‣ Inventory Report. From this report, the Locations of all stock on-hand are displayed, in addition to the quantities per location. For consignment products, the Owner column will be populated with the owner of those products, or the original vendor who supplied the products in the first place.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/owned_stock.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/owned_stock.rst)
 
 ### Navigazione
 

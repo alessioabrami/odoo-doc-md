@@ -55,7 +55,7 @@ Example
 
 Manufacturing orders _WH/MO/00009_ and _WH/MO/00010_ are merged to create _WH/MO/00011_. The source field for _WH/MO/00011_ lists both _WH/MO/00009_ and _WH/MO/00010_.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/split_merge.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/workflows/split_merge.rst)
 
 ### Navigazione
 

@@ -127,7 +127,7 @@ Commissions plans in the Approved stage **cannot** be edited. To edit an approve
 
 After a plan is approved, Odoo automatically tracks performance and calculates commissions based on the established parameters.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/commissions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/commissions.rst)
 
 ### Navigazione
 

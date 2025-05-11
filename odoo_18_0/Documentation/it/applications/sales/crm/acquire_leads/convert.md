@@ -68,7 +68,7 @@ Nota
 
 Potrebbe essere necessario rimuovere alcuni filtri dalla barra Cerca… nella parte alta della pagina della Pipeline per visualizzare tutte le opportunità.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/acquire_leads/convert.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/acquire_leads/convert.rst)
 
 ### Navigazione
 

@@ -155,7 +155,7 @@ Nota
 
 If a pricelist contains a [Discount](../../../sales/sales/products_prices/prices/pricing.html#sales-products-price-rules) price type, the striked price is visible to applicable customers. This is true even if the Comparison Price feature has not been enabled.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/ecommerce/products/price_management.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/ecommerce/products/price_management.rst)
 
 ### Navigazione
 

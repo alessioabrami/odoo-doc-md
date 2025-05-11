@@ -128,7 +128,7 @@ Vedi anche
 
 To export the SAF-T report, go to Accounting ‣ Reports ‣ General Ledger. Click the right side of the PDF button and select SAF-T.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/austria.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/austria.rst)
 
 ### Navigazione
 

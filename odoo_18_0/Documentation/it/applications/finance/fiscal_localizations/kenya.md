@@ -368,7 +368,7 @@ Make sure the KRA’s required fields are filled in the KRA eTIMS details sectio
 
 The KRA does not accept credit notes with quantities or prices higher than the initial invoice. When creating a credit note, a KRA reason must be indicated: In the credit note form, go to the eTIMS Details tab, select the eTIMS Credit Note Reason, and then select the invoice number in the Reversal of field.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/kenya.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/kenya.rst)
 
 ### Navigazione
 

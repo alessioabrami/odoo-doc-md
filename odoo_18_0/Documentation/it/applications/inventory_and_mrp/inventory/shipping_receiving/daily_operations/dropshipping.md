@@ -44,7 +44,7 @@ The dropship receipt displays Partners/Vendors in the Source Location field, and
 
 To view all dropship orders, simply navigate to the Inventory Overview dashboard and click the teal # TO PROCESS button on the Dropship card.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/dropshipping.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/dropshipping.rst)
 
 ### Navigazione
 

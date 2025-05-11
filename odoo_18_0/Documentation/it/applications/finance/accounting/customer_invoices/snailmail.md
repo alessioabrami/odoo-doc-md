@@ -54,7 +54,7 @@ Vedi anche
 
 [Informativa sulla privacy IAP di Odoo](https://iap.odoo.com/privacy#header_4)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/snailmail.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/customer_invoices/snailmail.rst)
 
 ### Navigazione
 

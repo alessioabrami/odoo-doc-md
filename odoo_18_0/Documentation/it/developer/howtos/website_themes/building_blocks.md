@@ -913,7 +913,7 @@ Attribute | Description
 id | The ID of the template. Has to start with `dynamic_filter_template_event_event_`  
 name | Human-readable name of the template  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/website_themes/building_blocks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/website_themes/building_blocks.rst)
 
 ### Navigazione
 

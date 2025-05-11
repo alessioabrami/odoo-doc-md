@@ -305,7 +305,7 @@ Option | Type | Description
 ---|---|---  
 `refName` | string | this is a [useRef reference](https://github.com/odoo/owl/blob/master/doc/reference/hooks.md#useref) for the element that will be spellcheck enabled.  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/hooks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/hooks.rst)
 
 ### Navigazione
 

@@ -18,7 +18,7 @@
 
 La documentazione ti aiuterà ad andare in onda con il tuo progetto Odoo.sh in pochissimo tempo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/overview/introduction.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/overview/introduction.rst)
 
 ### Navigazione
 

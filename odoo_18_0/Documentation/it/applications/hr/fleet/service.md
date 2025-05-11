@@ -365,7 +365,7 @@ Enter all the information on the activity form.
 
 When the form is complete, click the Schedule button. Then, both pop-up windows close, and the activity now appears on the activity view.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/fleet/service.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/fleet/service.rst)
 
 ### Navigazione
 

@@ -66,7 +66,7 @@ Click Confirm, and the selected spreadsheet loads, with the new table in it.
 
 The spreadsheet is stored in the _Documents_ application. This application **must** be installed to use the Insert in Spreadsheet option.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/referrals/reporting.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/referrals/reporting.rst)
 
 ### Navigazione
 

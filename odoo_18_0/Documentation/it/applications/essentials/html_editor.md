@@ -223,7 +223,7 @@ Dopo aver inserito un’immagine, fai clic su di essa per visualizzare la barra 
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/essentials/html_editor.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/essentials/html_editor.rst)
 
 ### Navigazione
 

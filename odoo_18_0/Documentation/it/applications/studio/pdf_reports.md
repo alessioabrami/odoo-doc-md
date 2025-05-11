@@ -398,7 +398,7 @@ Ad esempio, aggiungiamo una colonna con l’immagine del prodotto nella tabella 
 
 L’attributo `t-options-width` restringe la larghezza dell’immagine a 64 pixel e le classi Bootstrap utilizzate in `t-options-width` creano un bordo simile a una miniatura con angoli arrotondati e l’ombra.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/studio/pdf_reports.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/studio/pdf_reports.rst)
 
 ### Navigazione
 

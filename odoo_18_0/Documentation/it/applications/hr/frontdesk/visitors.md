@@ -147,7 +147,7 @@ Visitors do **not** check themselves out when they leave. It is important for **
 
 Always have an accurate list of who is on the premises at any given time. This is important for security purposes, and in the case of an emergency.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/frontdesk/visitors.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/frontdesk/visitors.rst)
 
 ### Navigazione
 

@@ -209,7 +209,7 @@ The Map button is only visible for transfers with the In progress status.
 
 Additionally, use the View in Google Maps button to generate a route from the warehouse to the delivery points.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/dispatch.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/dispatch.rst)
 
 ### Navigazione
 

@@ -110,7 +110,7 @@ This maps the widget name in the arch to its actual component.
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/howtos/javascript_field.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/howtos/javascript_field.rst)
 
 ### Navigazione
 

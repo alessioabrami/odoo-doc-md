@@ -160,7 +160,7 @@ To create and save a filter to the _Favorites_ section on the search bar drop-do
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/livechat/reports.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/livechat/reports.rst)
 
 ### Navigazione
 

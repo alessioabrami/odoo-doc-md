@@ -54,7 +54,7 @@ Once a recurrence is configured, a **smart button** on the task displays the tot
 
 **To stop** the recurrence, open the last task in recurrence and press the Recurrent button next to the Planned date.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/services/project/tasks/recurring_tasks.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/services/project/tasks/recurring_tasks.rst)
 
 ### Navigazione
 

@@ -64,7 +64,7 @@ In this example, the Experienced Developer job position is the most successful i
 
 In this scenario, it is possible to determine that the current software developers are providing the most referrals, with the highest success rate.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/recruitment_analysis.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/recruitment_analysis.rst)
 
 ### Navigazione
 

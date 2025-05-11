@@ -68,7 +68,7 @@ Click YourCompany: Internal Transfers in the breadcrumbs to reveal the list of a
 
 Once ready, click Validate to complete the transfer, and move the product from WH/Quality Control to WH/Stock.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/receipts_three_steps.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/receipts_three_steps.rst)
 
 ### Navigazione
 

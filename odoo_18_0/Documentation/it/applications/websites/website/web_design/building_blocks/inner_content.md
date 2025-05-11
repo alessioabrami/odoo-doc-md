@@ -32,7 +32,7 @@ Nota
 
 You cannot edit the default icons but can edit the ones you added by clicking Add New Social Network. To do so, select the icon, then click the Replace button found under the Customize tab’s Icon section, and either select one of the available icons or click the Images tab and upload an image or add its URL.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/inner_content.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/web_design/building_blocks/inner_content.rst)
 
 ### Navigazione
 

@@ -38,7 +38,7 @@ Play with the runbot.
 
 Feel free to go to the runbot website and open the last stable version of Odoo to check out all the available applications and functionalities.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/15_final_word.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/15_final_word.rst)
 
 ### Navigazione
 

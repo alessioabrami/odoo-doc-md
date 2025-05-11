@@ -145,7 +145,7 @@ La classe `Pretty` consente di visualizzare facilmente elenchi e dizionari in mo
 
 È anche possibile utilizzare [pandas](https://pandas.pydata.org/pandas-docs/stable/tutorials.html) per visualizzare grafici.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/getting_started/online-editor.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/getting_started/online-editor.rst)
 
 ### Navigazione
 

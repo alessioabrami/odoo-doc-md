@@ -138,7 +138,7 @@ Gli account IAP disponibili appaiono nella vista elenco nella pagina Account IAP
 
 Set the Email Alert Threshold to the credit amount that should trigger a low-credit alert when the balance falls below it. Next, select which user(s) should receive the email notification using the Email Alert Recipients field.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/essentials/in_app_purchase.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/essentials/in_app_purchase.rst)
 
 ### Navigazione
 

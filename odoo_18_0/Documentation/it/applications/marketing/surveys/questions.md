@@ -205,7 +205,7 @@ Nota
 
 Survey text colors are directly linked to the colors used for the [website theme](../../websites/website/web_design/themes.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/surveys/questions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/surveys/questions.rst)
 
 ### Navigazione
 

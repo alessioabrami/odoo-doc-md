@@ -296,7 +296,7 @@ Leave the Point of Sale field blank to export the data of all your points of sal
 
 When an export is successfully triggered and is being processed, the State field should mention Pending. Click Refresh State to check if it is ready.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/germany.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/germany.rst)
 
 ### Navigazione
 

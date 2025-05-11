@@ -175,7 +175,7 @@ Next Synchronization:
 
 Click Confirm after making the selection to modify the user’s events and the calendar synchronization.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/calendar/outlook.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/calendar/outlook.rst)
 
 ### Navigazione
 

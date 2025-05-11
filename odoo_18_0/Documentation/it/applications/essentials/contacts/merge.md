@@ -74,7 +74,7 @@ Dopo aver confermato i criteri di ricerca, fai clic su Unisci con controllo manu
 
 sE SELEZIONI Unisci con controllo manuale, completa l’unione seguendo gli step di cui sopra.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/essentials/contacts/merge.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/essentials/contacts/merge.rst)
 
 ### Navigazione
 

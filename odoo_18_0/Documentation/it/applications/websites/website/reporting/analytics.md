@@ -152,7 +152,7 @@ Vedi anche
 
 [Setting up click triggers on Google](https://support.google.com/tagmanager/answer/7679320?hl=en&ref_topic=7679108&sjid=17684856364781654579-EU)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/reporting/analytics.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/reporting/analytics.rst)
 
 ### Navigazione
 

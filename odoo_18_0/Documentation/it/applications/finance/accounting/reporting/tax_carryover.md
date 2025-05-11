@@ -31,7 +31,7 @@ If we go to Accounting app ‣ Reporting ‣ Tax Report, a pop-up on line 81 exp
 
 At the time of the tax closing period, the tax report shows that the amount was carried over from the previous period. It also indicates the amount that will be carried over to this line in the next period based on the existing transactions and the carryover from the previous period.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/reporting/tax_carryover.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/reporting/tax_carryover.rst)
 
 ### Navigazione
 

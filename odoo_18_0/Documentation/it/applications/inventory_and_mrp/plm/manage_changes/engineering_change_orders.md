@@ -258,7 +258,7 @@ Example
 
 Drag and reorder the `Check for broken switches` instruction, by clicking and dragging its __(draggable) icon to move it from the bottom to the second position.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/plm/manage_changes/engineering_change_orders.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/plm/manage_changes/engineering_change_orders.rst)
 
 ### Navigazione
 

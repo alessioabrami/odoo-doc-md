@@ -374,7 +374,7 @@ Avvertimento
 
 Be careful not to index every field as indexes consume space and impact on performance when executing one of `INSERT`, `UPDATE`, and `DELETE`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/performance.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/performance.rst)
 
 ### Navigazione
 

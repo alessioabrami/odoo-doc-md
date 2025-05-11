@@ -250,7 +250,7 @@ If an `extension` is based on another then the two extensions should be applied 
     object.method1(); // works as expected
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/frontend/patching_code.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/frontend/patching_code.rst)
 
 ### Navigazione
 

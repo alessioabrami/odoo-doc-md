@@ -117,7 +117,7 @@ Fill out the rest of the employee form. For detailed information on the fields, 
 
 Once completed, the employee record is saved in the _Employees_ app.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/recruitment/offer_job_positions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/recruitment/offer_job_positions.rst)
 
 ### Navigazione
 

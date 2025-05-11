@@ -71,7 +71,7 @@ Nota
 
 It is more beneficial to add a Fixed Amount discount after **all** desired products have been added to a sales order. If there are changes made to the sales order _after_ the discount is added, adjust the value on the Discount line, or remove the line and add the discount again, as needed.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/sales/products_prices/prices/discounts.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/sales/products_prices/prices/discounts.rst)
 
 ### Navigazione
 

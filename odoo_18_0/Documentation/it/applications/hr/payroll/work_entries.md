@@ -197,7 +197,7 @@ Vedi anche
 
 [Configure work entries](../payroll.html#payroll-work-entries-config)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/work_entries.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/work_entries.rst)
 
 ### Navigazione
 

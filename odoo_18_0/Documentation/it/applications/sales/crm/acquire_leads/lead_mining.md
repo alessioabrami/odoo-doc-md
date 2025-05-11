@@ -92,7 +92,7 @@ Vedi anche
 
 [Acquisti in-app (IAP)](../../../essentials/in_app_purchase.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/acquire_leads/lead_mining.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/acquire_leads/lead_mining.rst)
 
 ### Navigazione
 

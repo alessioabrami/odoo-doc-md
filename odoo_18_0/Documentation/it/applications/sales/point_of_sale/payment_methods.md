@@ -44,7 +44,7 @@ Once the payment method is created, you can select it in your POS settings. To d
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods.rst)
 
 ### Navigazione
 

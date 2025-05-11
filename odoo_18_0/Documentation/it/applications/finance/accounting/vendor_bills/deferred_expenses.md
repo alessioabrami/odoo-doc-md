@@ -195,7 +195,7 @@ Se aggreghiamo tutto, avremo:
 
 Therefore, at the end of December, bills A and B are fully recognized as expense only once in spite of all the created entries thanks to the reversal mechanism.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/vendor_bills/deferred_expenses.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/vendor_bills/deferred_expenses.rst)
 
 ### Navigazione
 

@@ -250,7 +250,7 @@ Vedi anche
 
 First, verify that the product being shipped has a weight that is supported by the selected shipping method. If this is set, then verify that the destination country (from the customer address) is supported by the carrier. The country of origin (warehouse address) should also be supported by the carrier.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/sendcloud_shipping.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/sendcloud_shipping.rst)
 
 ### Navigazione
 

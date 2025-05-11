@@ -167,7 +167,7 @@ Then, click __ Total above the column titles, and select Event Type from the res
 
 With these configurations in place, all the revenues generated from the events (and their corresponding registrations) are displayed, organized by the event type (presented as expandable columns).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/events/revenues_report.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/events/revenues_report.rst)
 
 ### Navigazione
 

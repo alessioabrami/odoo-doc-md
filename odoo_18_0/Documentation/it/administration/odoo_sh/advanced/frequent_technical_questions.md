@@ -62,7 +62,7 @@ Di seguito un esempio di pseudo-implementazione:
             return 'ok'
     
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/advanced/frequent_technical_questions.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/advanced/frequent_technical_questions.rst)
 
 ### Navigazione
 

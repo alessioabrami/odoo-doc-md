@@ -126,7 +126,7 @@ Nota
 
 If any activity assignments were configured to Ask at launch, an Assigned to field appears on the Launch Plan pop-up window. Using the drop-down menu, select the user responsible for all the unassigned activities.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/employees/onboarding.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/employees/onboarding.rst)
 
 ### Navigazione
 

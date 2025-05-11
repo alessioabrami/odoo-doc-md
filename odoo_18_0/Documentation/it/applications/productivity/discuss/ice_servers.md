@@ -59,7 +59,7 @@ Nota
 
 For on-premise instances of Odoo, the package `python3-gevent` is necessary for the Discuss module to run calls/video calls on Ubuntu (Linux) servers.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/discuss/ice_servers.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/discuss/ice_servers.rst)
 
 ### Navigazione
 

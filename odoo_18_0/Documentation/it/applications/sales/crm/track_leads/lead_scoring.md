@@ -137,7 +137,7 @@ Se l’assegnazione automatica dei contatti è configurata nelle impostazioni, s
 
 Per assegnare manualmente lead a questo team di vendita, fai clic sul pulsante Assegna lead nella parte superiore della pagina di configurazione del team di vendita. In questo modo verranno assegnate tutti i lead attualmente non assegnati e che corrispondono al dominio specificato del team.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/crm/track_leads/lead_scoring.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/crm/track_leads/lead_scoring.rst)
 
 ### Navigazione
 

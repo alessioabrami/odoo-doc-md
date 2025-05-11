@@ -130,7 +130,7 @@ Vedi anche
 
 [Utilizzare Mail-Tester per configurare record SPF per corrieri specifici](https://www.mail-tester.com/spf/)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/email_communication/email_domain.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/email_communication/email_domain.rst)
 
 ### Navigazione
 

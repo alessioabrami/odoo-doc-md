@@ -296,7 +296,7 @@ Repeat this process to add more users to the group.
 
 Once all desired configurations are complete, click Save, then click Apply changes in the upper-right corner.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/voip/axivox/manage_users.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/voip/axivox/manage_users.rst)
 
 ### Navigazione
 

@@ -151,7 +151,7 @@ To reset a filter with set values back to default, click on the __(clear) icon n
 
 To edit an existing filter, select the __(gear) icon to open the filter’s Filter properties menu. From here, edits can be made or the filter can be deleted by clicking the Remove button.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/spreadsheet/global_filters.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/spreadsheet/global_filters.rst)
 
 ### Navigazione
 

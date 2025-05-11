@@ -91,7 +91,7 @@ You can hide content (such as images or videos, for example) depending on the la
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/configuration/translate.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/configuration/translate.rst)
 
 ### Navigazione
 

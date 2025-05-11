@@ -159,7 +159,7 @@ Click No Backorder to finish the picking _without_ creating another batch pickin
 
 Click Discard to cancel the validation, and return to the batch transfer form.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/picking_methods/batch.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/picking_methods/batch.rst)
 
 ### Navigazione
 

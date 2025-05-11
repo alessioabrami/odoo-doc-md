@@ -1034,7 +1034,7 @@ Vedi anche
 
 [Docutils documentation on reStructuredText directives and roles](https://docutils.sourceforge.io/docs/ref/rst/directives.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/contributing/documentation/rst_guidelines.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/contributing/Documentation/rst_guidelines.rst)
 
 ### Navigazione
 

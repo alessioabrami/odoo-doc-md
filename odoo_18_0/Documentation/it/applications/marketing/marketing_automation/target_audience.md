@@ -89,7 +89,7 @@ Vedi anche
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/marketing_automation/target_audience.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/marketing_automation/target_audience.rst)
 
 ### Navigazione
 

@@ -123,7 +123,7 @@ meaning which Odoo user (or group of users)
 
 “unlink” is the equivalent of “delete”
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/server_framework_101/04_securityintro.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/server_framework_101/04_securityintro.rst)
 
 ### Navigazione
 

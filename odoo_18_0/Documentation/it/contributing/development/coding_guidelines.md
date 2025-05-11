@@ -1141,7 +1141,7 @@ Example
 
 Vedi anche
 
-[Variables scope on the SASS Documentation](https://sass-lang.com/documentation/variables#scope)
+[Variables scope on the SASS Documentation](https://sass-lang.com/Documentation/variables#scope)
 
 #### SCSS Mixins and Functions¶
 
@@ -1167,9 +1167,9 @@ Example
 
 Vedi anche
 
-  * [Mixins on the SASS Documentation](https://sass-lang.com/documentation/at-rules/mixin)
+  * [Mixins on the SASS Documentation](https://sass-lang.com/Documentation/at-rules/mixin)
 
-  * [Functions on the SASS Documentation](https://sass-lang.com/documentation/at-rules/function)
+  * [Functions on the SASS Documentation](https://sass-lang.com/Documentation/at-rules/function)
 
 
 
@@ -1255,7 +1255,7 @@ Despite being apparently similar, `CSS` and `SCSS` variables behave very differe
 
 Vedi anche
 
-[CSS/SCSS variables difference on the SASS Documentation](https://sass-lang.com/documentation/variables#:~:text=CSS%20variables%20are%20included%20in,use%20will%20stay%20the%20same)
+[CSS/SCSS variables difference on the SASS Documentation](https://sass-lang.com/Documentation/variables#:~:text=CSS%20variables%20are%20included%20in,use%20will%20stay%20the%20same)
 
 In Odoo, we take the best of both worlds: using the `SCSS` variables to define the design-system while opting for the `CSS` ones when it comes to contextual adaptations.
 
@@ -1293,7 +1293,7 @@ Defining CSS variables on the `:root` pseudo-class is a technique we normally **
 
 Exceptions to this rule should be fairly apparent, such as templates shared across bundles that require a certain level of contextual awareness in order to be rendered properly.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/contributing/development/coding_guidelines.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/contributing/development/coding_guidelines.rst)
 
 ### Navigazione
 

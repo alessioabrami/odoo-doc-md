@@ -58,7 +58,7 @@ Once you have created and added the combo choices into a product, you can sell c
 
 [Open a POS session](../point_of_sale.html#pos-session-start) and select the combo product. Choose the options and click Add to order. As a reminder, the extra price appears under the related choices.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/combos.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/combos.rst)
 
 ### Navigazione
 

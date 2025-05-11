@@ -138,7 +138,7 @@ Al momento della creazione delle credenziali (_ID client_ e _Secret client_), se
 
 Per correggere questo errore, elimina le credenziali che sono già state create e creane di nuove, selezionando Applicazione web per il Tipo di applicazione. In seguito, nella sezione URI reindirizzamento autorizzati, fai clic su AGGIUNGI URI e scrivi: `https://yourdbname.odoo.com/google_gmail/confirm` nel campo, assicurandoti di sostituire _yourdbname_ nell’URL con il nome del database Odoo.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/email_communication/google_oauth.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/email_communication/google_oauth.rst)
 
 ### Navigazione
 

@@ -133,7 +133,7 @@ The end of service amount is calculated based on the gross salary and the start 
 
 The UAE localization package allows the generation of invoices in English, Arabic, or both. The localization also includes a line to display the **VAT amount** per line.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/united_arab_emirates.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/united_arab_emirates.rst)
 
 ### Navigazione
 

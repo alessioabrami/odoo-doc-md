@@ -98,7 +98,7 @@ Se scegli Tutti gli utenti, l’impostazione verrà applicata agli utenti del po
 
 Fai clic su Salva per salvare le modifiche.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/users/2fa.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/users/2fa.rst)
 
 ### Navigazione
 

@@ -138,7 +138,7 @@ Net weight/volume: ounces (oz) | Quantità | (357[0-5])(\d{6}) | Misura | Qty in
 Net volume: cubic feet (ft3) | Quantità | (365[0-5])(\d{6}) | Misura | Qty in ft3  
 Packaging type | Tipo di imballaggio | (91) ([!»%-/0-9:-?A-Z_a-z]{0,90}) | Alpha-numeric name | Tipologia collo  
   
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/gs1_nomenclature.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/gs1_nomenclature.rst)
 
 ### Navigazione
 

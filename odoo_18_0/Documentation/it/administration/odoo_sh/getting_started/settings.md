@@ -177,7 +177,7 @@ Rami di staging aggiuntivi permettono di sviluppare e testare più funzionalità
 
 Mostra lo stato di attivazione del progetto. È possibile modificare il codice di attivazione del progetto se necessario.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/odoo_sh/getting_started/settings.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/odoo_sh/getting_started/settings.rst)
 
 ### Navigazione
 

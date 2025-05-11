@@ -90,7 +90,7 @@ Durante la riconciliazione, Odoo mostra sia l’importo in valuta estera che l�
 
 Per vedere la **differenza di cambio delle registrazioni contabili** , accedi alla dashboard del modulo Contabilità ‣ Contabilità ‣ Registri: Varie.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/get_started/multi_currency.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/get_started/multi_currency.rst)
 
 ### Navigazione
 

@@ -438,7 +438,7 @@ set_cookie(_key_ , _value =''_, _max_age =None_, _expires =- 1_, _path ='/'_, _d
 
 The default expires in Werkzeug is None, which means a session cookie. We want to continue to support the session cookie, but not by default. Now the default is arbitrary 1 year. So if you want a cookie of session, you have to explicitly pass expires=None.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/http.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/http.rst)
 
 ### Navigazione
 

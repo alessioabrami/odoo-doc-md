@@ -175,7 +175,7 @@ If an [outstanding account](../bank.html#accounting-bank-outstanding-accounts) i
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/payments/batch_sdd.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/payments/batch_sdd.rst)
 
 ### Navigazione
 

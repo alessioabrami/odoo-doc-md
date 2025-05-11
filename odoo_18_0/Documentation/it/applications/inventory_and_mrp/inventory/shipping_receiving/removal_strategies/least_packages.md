@@ -73,7 +73,7 @@ For more details about _where_ the units were picked, select the ⦙≣ (bullete
 
 In the Open: Stock move pop-up window, the Pick from field displays where the quantities to fulfill the Demand are picked. Since the order demanded eighty kilograms, which exceeds the quantity in the opened package of `54 kg`, an unopened package of `100 kg` is selected.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/least_packages.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/removal_strategies/least_packages.rst)
 
 ### Navigazione
 

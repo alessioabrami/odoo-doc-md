@@ -188,7 +188,7 @@ Nota
 
 In the version history, the Content tab shows the selected version, while the Comparison tab displays the differences between the article’s previous and current versions.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/knowledge/management.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/knowledge/management.rst)
 
 ### Navigazione
 

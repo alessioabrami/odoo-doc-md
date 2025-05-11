@@ -77,7 +77,7 @@ Vedi anche
 
 [Online payments](../payment_providers.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/payment_providers/worldline.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/payment_providers/worldline.rst)
 
 ### Navigazione
 

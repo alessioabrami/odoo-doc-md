@@ -90,7 +90,7 @@ Suggerimento
 
 Don’t forget to update your fiscal positions. If you have a version 11.1 (or higher), there is nothing to do. Otherwise, you will also have to update your fiscal positions accordingly.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/switzerland.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/switzerland.rst)
 
 ### Navigazione
 

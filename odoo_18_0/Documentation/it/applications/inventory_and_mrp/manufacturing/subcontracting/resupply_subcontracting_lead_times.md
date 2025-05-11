@@ -103,7 +103,7 @@ It takes Mike’s Bikes two days to deliver the components, so they update the _
 
 Mike’s Bikes ships the components to Bike Friends on the scheduled date of May 23rd, and they arrive on the deadline of May 25th. This gives Bike Friends enough time to manufacture the unicycle, and ship it back to Mike’s Bikes by the expected arrival date of May 30th.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/resupply_subcontracting_lead_times.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/subcontracting/resupply_subcontracting_lead_times.rst)
 
 ### Navigazione
 

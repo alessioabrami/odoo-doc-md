@@ -168,7 +168,7 @@ Suggerimento
 
 Drag-and-drop packages to move them between internal locations.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/package.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/product_management/configure/package.rst)
 
 ### Navigazione
 

@@ -648,7 +648,7 @@ Employment Hero payslip entries also work based on double-entry bookkeeping. The
 
 For the API to work, you must create the same accounts as the default accounts of your Employment Hero business (same name and same code) in Odoo. You also need to choose the correct account types in Odoo to generate accurate financial reports.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/payroll_localizations/australia.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/payroll_localizations/australia.rst)
 
 ### Navigazione
 

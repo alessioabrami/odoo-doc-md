@@ -111,7 +111,7 @@ The email Body is also populated with pre-configured text. The text that appears
 
 The See Job Offers text is a tracking link to a complete list of all job positions currently being recruited for. Add any additional text and make any edits to the message body, if necessary. Then, click Send Mail to send the email. This sends the message, and closes the window.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/referrals/share_jobs.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/referrals/share_jobs.rst)
 
 ### Navigazione
 

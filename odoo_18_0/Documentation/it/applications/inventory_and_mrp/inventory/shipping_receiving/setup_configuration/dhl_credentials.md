@@ -128,7 +128,7 @@ Once the DHL connection is set up, use the buttons at the top of the form to tur
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/dhl_credentials.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/setup_configuration/dhl_credentials.rst)
 
 ### Navigazione
 

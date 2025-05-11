@@ -45,7 +45,7 @@ Vedi anche
 
 [Creare nuovi prodotti durante i trasferimenti interni con il database Barcode Lookup](../../inventory_and_mrp/barcode/setup/software.html#barcode-setup-barcodelookup).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/integrations/barcodelookup.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/integrations/barcodelookup.rst)
 
 ### Navigazione
 

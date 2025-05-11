@@ -88,7 +88,7 @@ Resequencing is not possible:
 
 In these cases, a Validation Error message appears.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/vendor_bills/sequence.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/vendor_bills/sequence.rst)
 
 ### Navigazione
 

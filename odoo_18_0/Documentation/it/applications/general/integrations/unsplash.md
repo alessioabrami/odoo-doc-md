@@ -39,7 +39,7 @@ Avvertimento
 
 In quanto non utente Odoo, sei limitato a una chiave di prova con un massimo di 50 richieste Unsplash ogni ora.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/integrations/unsplash.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/integrations/unsplash.rst)
 
 ### Navigazione
 

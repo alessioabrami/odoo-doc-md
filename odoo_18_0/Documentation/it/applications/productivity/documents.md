@@ -352,7 +352,7 @@ Vedi anche
 
 [AI-powered document digitization](../finance/accounting/vendor_bills/invoice_digitization.html)
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/productivity/documents.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/productivity/documents.rst)
 
 ### Navigazione
 

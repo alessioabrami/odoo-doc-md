@@ -117,7 +117,7 @@ Now that the product has been manufactured, click the Delivery smart button to d
 
 To finish the sale, click back to the SO via the breadcrumbs at the top of the page again. Then, click Create Invoice followed by Create Invoice again to invoice the customer for the order.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/advanced_configuration/product_variants.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/manufacturing/advanced_configuration/product_variants.rst)
 
 ### Navigazione
 

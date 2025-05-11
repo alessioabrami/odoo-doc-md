@@ -57,7 +57,7 @@ The accounts used by Employment Hero are defined in the section Payroll settings
 
 For the API to work, you need to create the same accounts as the default accounts of your Employment Hero business (**same name and same code**) in Odoo. You also need to choose the correct account types in Odoo to generate accurate financial reports.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/fiscal_localizations/employment_hero.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/fiscal_localizations/employment_hero.rst)
 
 ### Navigazione
 

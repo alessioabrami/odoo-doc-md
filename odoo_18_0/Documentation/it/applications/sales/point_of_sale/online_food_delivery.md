@@ -272,7 +272,7 @@ Importante
 
 **Swiggy** orders cannot be directly rejected. Attempting to reject one prompts Swiggy customer support to contact the restaurant. Similarly, **Deliveroo** , **JustEat** , and **HungerStation** do not allow order rejection. Always follow the respective provider’s guidelines for handling such cases.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/online_food_delivery.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/online_food_delivery.rst)
 
 ### Navigazione
 

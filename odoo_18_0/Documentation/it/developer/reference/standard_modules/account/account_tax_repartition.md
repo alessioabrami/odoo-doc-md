@@ -131,7 +131,7 @@ Name
 
 Tax Closing Entry
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/standard_modules/account/account_tax_repartition.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/standard_modules/account/account_tax_repartition.rst)
 
 ### Navigazione
 

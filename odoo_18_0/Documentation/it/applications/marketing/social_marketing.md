@@ -115,7 +115,7 @@ This same visitor data can also be viewed as a list or a graph. Those view optio
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/marketing/social_marketing.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/marketing/social_marketing.rst)
 
 ### Navigazione
 

@@ -39,7 +39,7 @@ Nota
 
 Odoo può [applicare automaticamente le posizioni di bilancio](fiscal_positions.html#fiscal-positions-automatic). Se la funzione Verifica numeri partita IVA è abilitata, tutte le posizioni di bilancio con l’obbligo di IVA abilitata richiederanno numeri partita IVA intracomunitari validi per essere applicate automaticamente.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/accounting/taxes/vat_verification.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/accounting/taxes/vat_verification.rst)
 
 ### Navigazione
 

@@ -154,7 +154,7 @@ To set the current report as the default configuration when the report is access
 
 Finally, click Save, which saves the currently configured report. Then, it appears beneath the Favorites in the search bar drop-down mega menu of filter options.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/hr/payroll/reporting.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/hr/payroll/reporting.rst)
 
 ### Navigazione
 

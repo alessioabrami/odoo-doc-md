@@ -103,7 +103,7 @@ Suggerimento
 
 You can also access the mail group’s moderation rules by going to Website ‣ Configuration ‣ Mailing Lists, selecting the group, then clicking the Moderations smart button.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/websites/website/mail_groups.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/websites/website/mail_groups.rst)
 
 ### Navigazione
 

@@ -123,7 +123,7 @@ Nota
 
 You must provide a **registration code**. To retrieve that code, swipe right on your device, enter the admin PIN code (by default: `07139`), validate, and click Generate a registration code.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/stripe.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/sales/point_of_sale/payment_methods/terminals/stripe.rst)
 
 ### Navigazione
 

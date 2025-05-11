@@ -91,7 +91,7 @@ Importante
 
 [Approving](approve_expenses.html) expenses, [posting](post_expenses.html) expenses, and [reimbursing](reimburse.html) expenses are **only** for users with the appropriate [access rights documentation](../../general/users.html).
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/finance/expenses/expense_reports.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/finance/expenses/expense_reports.rst)
 
 ### Navigazione
 

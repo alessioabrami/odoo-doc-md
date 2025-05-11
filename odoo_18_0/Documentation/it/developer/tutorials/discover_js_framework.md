@@ -50,7 +50,7 @@ Each chapter of this tutorial is an independant project. If you feel comfortable
 
 
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/tutorials/discover_js_framework.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/tutorials/discover_js_framework.rst)
 
 ### Navigazione
 

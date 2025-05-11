@@ -11,7 +11,7 @@
 
 # Odoo Enterprise Subscription Agreement¶
 
-[Download PDF](https://www.odoo.com/documentation/18.0/odoo_enterprise_agreement.pdf)
+[Download PDF](https://www.odoo.com/Documentation/18.0/odoo_enterprise_agreement.pdf)
 
 Nota
 
@@ -333,7 +333,7 @@ In case any one or more of the provisions of this Agreement or any application t
 
 ## 9 Appendix A: Odoo Enterprise Edition License¶
 
-See [Odoo 18 Enterprise Edition](https://www.odoo.com/documentation/18.0/it/legal/licenses.html#odoo-enterprise-license).
+See [Odoo 18 Enterprise Edition](https://www.odoo.com/Documentation/18.0/it/legal/licenses.html#odoo-enterprise-license).
 
 ### Navigazione
 

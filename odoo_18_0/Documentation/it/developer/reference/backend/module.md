@@ -185,7 +185,7 @@ These hooks should only be used when setup/cleanup required for this module is e
 
 Deprecated. Replaced by `auto_install`.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/developer/reference/backend/module.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/developer/reference/backend/module.rst)
 
 ### Navigazione
 

@@ -109,7 +109,7 @@ Once ready, click Confirm to confirm the changes made to the product line.
 
 Then, from the overview page with all receipts to process within that transfer (**WH/OUT/000XX**), click the +# button on the product line for the products being received, and click Validate. The delivery has now been processed, and the _Barcode_ app can be closed out.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/receipts_deliveries.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/barcode/operations/receipts_deliveries.rst)
 
 ### Navigazione
 

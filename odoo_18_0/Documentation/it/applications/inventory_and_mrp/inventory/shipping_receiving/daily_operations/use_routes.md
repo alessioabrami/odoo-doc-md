@@ -187,7 +187,7 @@ As explained in the introduction of the documentation, the last step in the proc
 
 In this example, the product is delivered to the customer when all the rules have been triggered and the transfers are done.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/use_routes.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/inventory/shipping_receiving/daily_operations/use_routes.rst)
 
 ### Navigazione
 

@@ -694,7 +694,7 @@ tecnicamente è possibile utilizzare uno strumento come [socat](http://www.dest-
 
 oppure essere accessibile solo tramite una rete interna con commutazione di pacchetto ma richiede commutazioni sicure, protezione contro [ARP spoofing](https://en.wikipedia.org/wiki/ARP_spoofing) e preclude l’utilizzo del Wi-Fi. Anche su reti sicure con commutazione di pacchetto, è consigliata la distribuzione su HTTPS ed è possibile avere costi ridotti in quanto è più semplice ottenere certificati «auto-firmati» in un ambiente più controllato rispetto a internet.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/administration/on_premise/deploy.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/administration/on_premise/deploy.rst)
 
 ### Navigazione
 

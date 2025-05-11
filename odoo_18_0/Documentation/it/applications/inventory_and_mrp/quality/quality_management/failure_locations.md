@@ -67,7 +67,7 @@ To view the product quantities stored in a failure location, navigate to Invento
 
 A failure location’s page lists all of the products stored within the location, along with the quantity of each.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_management/failure_locations.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/inventory_and_mrp/quality/quality_management/failure_locations.rst)
 
 ### Navigazione
 

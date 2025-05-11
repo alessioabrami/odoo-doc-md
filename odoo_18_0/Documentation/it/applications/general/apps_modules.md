@@ -72,7 +72,7 @@ Example
 
 L’app **Ristorante** richiede l’app **Punto vendita** per funzionare, quindi la disinstallazione dell’app **Punto vendita** disinstallerà anche l’app **Ristorante** e tutti i record correlati.
 
-[ __Edit on GitHub](https://github.com/odoo/documentation/edit/18.0/content/applications/general/apps_modules.rst)
+[ __Edit on GitHub](https://github.com/odoo/Documentation/edit/18.0/content/applications/general/apps_modules.rst)
 
 ### Navigazione
 
